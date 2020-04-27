@@ -1,0 +1,1604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://idealdia.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://idealdia.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://idealdia.com/collections/gadget.atom"/>
+  <title>idealdia</title>
+  <updated>2020-01-08T00:47:51-05:00</updated>
+  <author>
+    <name>idealdia</name>
+  </author>
+  <entry>
+    <id>https://idealdia.com/products/4468190937184</id>
+    <published>2020-01-08T00:47:51-05:00</published>
+    <updated>2020-01-08T00:47:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/caja-de-zapatos"/>
+    <title>Caja de Zapatos</title>
+    <s:type>Hogar</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/123456_847bbe73-d551-437a-aba6-932da49037b8.jpg?v=1578462492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Hogar<br>
+        <strong>Precio: </strong>
+            12.99 - 39.99
+            <a href="https://idealdia.com/products/caja-de-zapatos">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h4><span style="color: #ff8000;">-&gt; Envío Gratis</span></h4>
+<h3 style="text-align: center;"><span style="color: #ff2a00;"><strong>😝La Moda Nueva🔥</strong></span></h3>
+</div>
+<div>
+<p><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/111_0b0d188a-28fa-4327-abf6-a008d1e97b08_480x480.gif?v=1576824121" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Nuestras cajas de zapatos tienen puertas plegables para que pueda acceder fácilmente a sus zapatos incluso cuando los dispositivos están apilados o en un estante alto. El frente y los lados transparentes le permiten ver lo que hay dentro de un vistazo</p>
+</div>
+<h3><span style="color: #ff8000;"><em>Protege los Zapatos</em></span></h3>
+<div><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/222_d62a114f-2609-43a4-8bae-cc63383534ec_480x480.gif?v=1576824198" alt="" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div>
+<ul>
+<li>
+<strong><span style="color: #ff2a00;">Como caja de almacenamiento</span></strong>, lleva buenos zapatos a buenos lugares, y sus zapatos merecen la mejor atención posible. Estos contenedores de zapatos se ajustan a una variedad de <span style="color: #ff2a00;"><em>zapatos de hombre, tacones de mujer, zapatillas de deporte para hombres y mujeres</em></span>.</li>
+<li>Multifunción, nuestros cubos de almacenamiento también<span style="color: #ff2a00;"><strong> se utilizan como cajones de almacenamiento</strong></span>, organizadores de estantes para piezas pequeñas.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Abra la puerta a 120 grados</strong></span>, quítese los zapatos sin esfuerzo, corra la caja de zapatos después del aire fresco</li>
+</ul>
+</div>
+<div><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/1_932f5440-ebad-4a11-8332-7c2025c4f1ee_480x480.jpg?v=1576824725" alt="" width="345" height="345" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<ul>
+<li>Categoría de producto: caja de zapatos</li>
+<li>Tamaño universal: 24 x 33 x 13 cm</li>
+</ul>
+<ul></ul>
+<div><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/a555710489c26d0959eb9fc33dc9bfb3_480x480.jpg?v=1577934369" width="480x480" height="480x480"></div>
+<h3><span style="color: #ff8000;">Paquete incluido:</span></h3>
+<ul>
+<li>Caja de Zapatos con Cajones</li>
+</ul>
+<div><img src="https://cdn.shopify.com/s/files/1/0081/7905/6751/files/9089006901_1833180743.jpg?v=1557589670" width="386" height="217" style="display: block; margin-left: auto; margin-right: auto;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>BLANCO / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-BAI-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>BLANCO / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-BAI-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>ROSA / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-FEN-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>ROSA / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-FEN-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>AZUL / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-LAN-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>AZUL / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-LAN-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>VERDE / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-LV-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>VERDE / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-LV-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286048993376</id>
+    <published>2019-10-18T00:49:39-05:00</published>
+    <updated>2019-10-18T00:49:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/aparato-portatil-para-masaje-de-cuello"/>
+    <title>Aparato Portátil para Masaje de Cuello</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_c53f74fd-77ba-467c-b19c-2396a674bf4d.jpg?v=1575021688"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Gadgets<br>
+        <strong>Precio: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #ff00ff;"><strong>✨<span style="color: #e06666;"><em>Mini masajeador cervical portátil, </em></span></strong></span></p>
+<p style="text-align: center;"><span style="color: #ff00ff;"><strong><span style="color: #e06666;"><em>lleva tu entrenamiento al siguiente nivel con un nuevo tipo de ejercicio.</em></span></strong></span><em><span style="color: #ff00ff;"><strong> </strong></span></em><span style="color: #ff00ff;"><strong>✨</strong></span></p>
+<p><strong><span style="color: #ff9900;">CARACTERÍSTICAS:</span></strong></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> Pequeño y Cómodo Tamaño Pequeño</strong></span>, diámetro 60mm, fácil de llevar, a cualquier lugar, fácil de llevar en el bolsillo, rompe las restricciones de espacio de los dispositivos de masaje tradicionales, le permite disfrutar del masaje en cualquier momento...</li>
+<li>
+<span style="color: #ff0000;"><strong>Se Puede Utilizar una Gama Amplia de Aplicaciones</strong></span> para piernas, brazos, espalda, abdomen, cintura y glúteos. Uso multi-plaza, todo el cuerpo disfruta del masaje...</li>
+<li>
+<span style="color: #ff0000;"><strong>Multi-modo</strong></span> Una variedad de modos de intensidad que incrementan gradualmente la intensidad para satisfacer las necesidades de diferentes grupos de personas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Parche de Gel Reemplazable</strong></span> El parche se puede reemplazar, desmontar fácilmente y se utiliza silicona que no daña la piel para hacer los conductores más uniformes.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Material: gel</li>
+<li>Color: negro, rosa</li>
+<li>Tamaño: 139 * 68 * 15.5 mm</li>
+<li>Peso: 30 g</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 * Aparato Portátil para Masaje de Cuello</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286048993376</id>
+      <title>NEGRO</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>AMQ-HEI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286048993376</id>
+      <title>PINK</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>AMQ-PINK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286042734688</id>
+    <published>2019-10-18T00:46:27-05:00</published>
+    <updated>2019-10-18T00:46:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/goma-blanda-de-limpieza-universal"/>
+    <title>Goma Blanda de Limpieza Universal</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_80dec310-78df-4e1c-a82c-458d15814880.jpg?v=1575020497"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>Lodos de limpieza de interiores de coches</strong></em></span></h3>
+<p style="text-align: left;">Productos de alta calidad en el hogar, elaborados con materias primas naturales de calidad alta.<br>El producto se puede utilizar repetidamente, garantía de calidad, materiales de alta calidad no tóxicos</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>Atrapa la suciedad y mata más del 80% de los gérmenes.</li>
+<li>El polvo y la suciedad en los huecos son absorbidos por la junta.</li>
+<li>Respetuoso con el medio ambiente ya que es 100% biodegradable.</li>
+<li>Puede limpiar el polvo de la grieta del teclado de la computadora, los coches dentro del equipo, el teléfono móvil, el teléfono, el equipo de audio y vídeo y el equipo de oficina tanto y así sucesivamente.</li>
+<li>Además, la superficie podría limpiar las manchas de los dispositivos digitales en la superficie de la pantalla LCD o en el dobladillo de polvo fino.</li>
+<li>Después de cada uso, colóquelo de nuevo en la bolsa y guárdelo en un lugar fresco y seco.</li>
+<li>Los productos pueden utilizarse repetidamente hasta que no se vuelvan viscosos.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><strong><span style="color: #ff9900;"> Especificación:</span></strong></p>
+<ul>
+<li>Peso: 70g</li>
+<li>Color:Amarillo/Azul</li>
+<li>Material: goma blanda</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1 * Goma Blanda de Limpieza Universal</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286042734688</id>
+      <title>Amarillo</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>RJ-YELLOW-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286042734688</id>
+      <title>Azul</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>RJ-BLAU-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286040014944</id>
+    <published>2019-10-18T00:44:48-05:00</published>
+    <updated>2019-10-18T00:44:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cinta-de-sellado-linea-de-la-esquina"/>
+    <title>Cinta de Sellado Línea de la Esquina</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_270cf5fa-8331-4727-a06a-817fd5b133c1.jpg?v=1575019988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: left;"><span style="color: #ff8000;"><strong>--&gt;&gt;Envío Gratis</strong></span></h3>
+<h3 style="text-align: center;"><span style="color: #e06666;"><strong>✯ No más fugas en la cocina y en el baño✯</strong></span></h3>
+<p><span style="color: #e06666;"><strong><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/Gifs_1_medium_large_d2f9bc78-8c29-41b0-acba-9118503ff995_grande.gif?v=1553667715" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<h3><span style="color: #ff9900;"><strong>Características:</strong></span></h3>
+<ul>
+<li>La cinta para la pared del baño de polvo es fácil de aplicar a su baño o rincón de la cocina, lo que facilita su limpieza</li>
+<li>La línea de cocina es de 300 cm de largo, que se adapta a sus diferentes necesidades en diferentes lugares.</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0115/6304/0868/files/Caulk_sticker1_medium.gif?v=1552670426" style="display: block; margin-left: auto; margin-right: auto;"><br>
+<ul>
+<li>El burlete es adhesivo diseñado para ser fácil y conveniente de instalar</li>
+<li>La banda impermeable está hecha principalmente de material de PVC que es impermeable y puede durar mucho tiempo.</li>
+<li>La cinta impermeable es pequeña, que puede almacenarse fácilmente cuando no está en uso y no ocupará demasiado espacio</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0115/6304/0868/files/Caulk_sticker_medium.gif?v=1552670277" style="display: block; margin-left: auto; margin-right: auto;"><br>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Color: Blanco, Café Marrón, Gris, Beige, Azul, Rosa, Verde</li>
+<li>Material: PVC</li>
+<li>Tamaño: 300 * 3,8 cm</li>
+</ul>
+<ul></ul>
+<p><strong><span style="color: #ff0000;">Nota:</span></strong></p>
+<p>Existen pocas diferencias de color en función de la resolución.<br>Puede haber un error menor debido a varias medidas.</p>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido :</b></strong></span></p>
+<p>1 * Cinta de Sellado Línea de la Esquina (300cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Blanco</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-BAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Marrón</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Kaffeebraun</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Gris</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Grau</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Beige</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Beige</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Azul</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Blau</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Pink</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Verde</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Grün</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286036607072</id>
+    <published>2019-10-18T00:42:57-05:00</published>
+    <updated>2019-10-18T00:42:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cortador-doble-de-hoja-de-metal-del-360-grados"/>
+    <title>Cortador Doble de Hoja de Metal del 360 Grados</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/11.jpg?v=1575019880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><strong>『<span style="color: #93c47d;">360 grados de corte perfecto</span>』</strong></h3>
+<p><strong><span style="color: #ff9900;">Características:</span></strong></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Efecto Excelente</strong></span> de corte sin surcos y bordes, puede usarlo para cortar líneas rectas, curvas, líneas de arco o muchas otras líneas y formas irregulares.</li>
+<li>
+<span style="color: #ff0000;"><strong>Capacidad Máxima de Corte:</strong></span> chapa de hierro: 1,8 mm, acero inoxidable 1,2 mm, placa de cobre / aluminio de 2 mm, plástico / tablero de fibras de 2 mm</li>
+<li>Mango de <span style="color: #ff0000;"><strong>D</strong><strong>iseño Ergonómico</strong> </span>para un uso cómodo, ajustable en 360 grados con una velocidad de corte de 1500 a 3000 rpm</li>
+<li>Con el diseño de doble cabezal puede continuar cortando con el otro borde si un lado está opaco</li>
+<li>Adecuado para la reparación y mantenimiento de automóviles y la producción de chapa.</li>
+</ul>
+<p><span style="color: #ff0000;"><strong>Advertencia:</strong></span> <span style="color: #ff0000;">utilizar bajo la supervisión directa de adultos.</span></p>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Material: metal, plástico</li>
+<li>Color: negro, tono plateado.</li>
+<li>Diámetro de corte: 7,4 mm.</li>
+<li>Diámetro del vástago: 27 mm / 1.06 "</li>
+<li>Tamaño total: 18 x 5,1 x 7,8 cm / 7 "x 2" x 3 "(L * W * H)</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1 * Cortador Doble de Hoja de Metal del 360 Grados</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286036607072</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>GLP001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286031659104</id>
+    <published>2019-10-18T00:40:01-05:00</published>
+    <updated>2019-10-18T00:40:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/herramienta-portatil-12-en-1-pulpo"/>
+    <title>Herramienta Portátil 12 en 1 &quot;Pulpo&quot;</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/12-in-1-Multi-funktionale-Octopus-Fahrrad-Reparatur-Werkzeug-Schraubendreher-mit-Schl-ssel-Ring-Au-en-_1.jpg?v=1575023279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #ff9900;"><strong>🔧 Herramienta multifuncional y portátil "Pulpo" para 12 uso en exteriores🔧 </strong></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong><img alt="" src="//cdn.shopify.com/s/files/1/0044/3901/5498/files/QQ_20190322131152_medium.png?v=1553232197" style="display: block; margin-left: auto; margin-right: auto; float: none;"></strong></span></p>
+<div style="padding-left: 30px;">Este gadget se puede utilizar para reparar bicicletas, así como un destapador o un destornillador. Combina todas las herramientas que necesita y es un gadget perfecto.</div>
+<div style="padding-left: 30px;"></div>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<div style="padding-left: 30px; text-align: left;">
+<strong><span style="color: #e06666;">Hecho de Material Superior:</span></strong> El material es de acero inoxidable. Mano de obra exquisita para garantizar su resistencia y buena durabilidad.<br><span style="color: #e06666;"><strong>Multifunción:</strong></span> acero inoxidable de 12 funciones, tornillos hexagonales externos, 1/4 cánula general, abrebotellas, etc.<br><span style="color: #e06666;"><strong>Aplicación:</strong></span> Puede apretar los tornillos, abrir la tapa, reparar bicicletas, juguetes y mucho más. Y el sol es llavero, puede caber en su llavero.<br>¡Mini y ligero: muy portátil para usar!</div>
+<div style="padding-left: 30px; text-align: left;"></div>
+<div style="text-align: left;"><strong><span style="color: #ff9900;"><span>Nota:</span></span></strong></div>
+<div>
+<ul>
+<li>El material de acero inoxidable se oxidará cuando se use en un ambiente húmedo o con diferencias de temperatura. Por favor, mantenga un roce seco y regular del aceite de protección contra la oxidación.</li>
+<li>Dado que es el proceso de laminado tardío del proceso de moldeo, algunas superficies pueden estar pulidas de manera desigual, la superficie de cada producto tiene ojos o arañazos finos.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 x Herramienta Portátil 12 en 1 "Pulpo"</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031659104</id>
+      <title>Plateado</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CTYP001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031659104</id>
+      <title>Negro</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CTYP002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286030086240</id>
+    <published>2019-10-18T00:38:52-05:00</published>
+    <updated>2019-10-18T00:38:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/2-piezas-de-cortador-de-pelador-de-frutas"/>
+    <title>2 Piezas de Cortador de Pelador de Frutas</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_aa9422e6-9164-4904-aa9f-ad6f6c83491a.jpg?v=1575018742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span style="color: #ff9900;"><strong></strong></span></div>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">¡Fácil eliminación del núcleo de frutas y verduras en solo 3 segundos!</span></strong></p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>Ideal para preparar pimientos rellenos, para asar o ensaladas</strong></span></p>
+<h4><span style="color: #ff9900;"><strong>Características:</strong></span></h4>
+<ul>
+<li>Calidad Alta</li>
+<li>Un buen ayudante para las amas de casa, padres.</li>
+<li>El material de nylon resistente agudiza y todavía se usa de manera segura.</li>
+<li>El tamaño más grande es perfecto para pimientos y tomates.</li>
+</ul>
+<h4><span style="color: #ff9900;">Especificaciones:</span></h4>
+<ul>
+<li>Material: plástico de calidad alimentaria.</li>
+<li>Color: verde, amarillo (aleatorio).</li>
+<li>Tamaño: como se muestra.</li>
+<li>Peso: unos 24 g.</li>
+</ul>
+<p><span class="a-list-item"><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span><br></span></p>
+<ul>
+<li>2 Piezas de Cortador de Pelador de Frutas</li>
+</ul>
+<p><span style="color: #ff0000;"><strong>Nota:</strong></span></p>
+<p>¡Entrega aleatoria sin selección de color!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286030086240</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>JS010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286028939360</id>
+    <published>2019-10-18T00:38:01-05:00</published>
+    <updated>2019-10-18T00:38:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/extreme-limpiador-fuerte-para-eliminar-manchas-persistentes"/>
+    <title>Extreme Limpiador Fuerte para Eliminar Manchas Persistentes</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_ecc54856-63e3-481f-92a7-ff3a09879187.jpg?v=1575020879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #e06666;">Es el mejor desodorante y limpiador para cocinar en casa, tocador, baño, ducha, drenaje de aguas residuales y fregadero.</span></strong></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Seguro y Efectivo:</strong></span> la tecnología de espuma tridimensional, la limpieza profunda multidireccional para eliminar las manchas ocultas, puede limpiar todos los rincones. No irritante, no daña las tuberías para satisfacer diferentes necesidades.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de Usar: </strong></span>Simplemente vierta el polvo en el inodoro e inmediatamente enjuáguelo con la cantidad correcta de agua y espuma, remoje durante 30 minutos, luego limpie y enjuague suavemente.</li>
+<li>
+<span style="color: #ff0000;"><strong>Limpieza Completa: </strong></span>Limpieza poderosa, dragado, desodorización, no dañar las manos, gránulos de espuma mágica, puntos de escondite limpios de una manera integral, elimina las manchas de cal y óxido.</li>
+<li>
+<span style="color: #ff0000;"><strong>Amplia Gama de Aplicaciones:</strong></span> aleación de aluminio / acero inoxidable / piso / baldosa / pared y otros materiales. Inodoro / lavabo / fregadero / lavadora / varios tubos / baldosas / paredes y otros lugares difíciles de limpiar.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Instrucciones:</strong></span></p>
+<ol>
+<li>Tome la cantidad correcta de polvo.</li>
+<li>Vierta el polvo en el tubo.</li>
+<li>Enjuague la cantidad correcta de agua</li>
+<li>Remoje durante 30 minutos, luego puede descontaminar fácilmente.</li>
+</ol>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Volumen de suministro:</strong></span></p>
+<p>1 x Extreme Limpiador Fuerte (ca. 250g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028939360</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CPPJ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286028644448</id>
+    <published>2019-10-18T00:37:47-05:00</published>
+    <updated>2019-10-18T00:37:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-multifuncional-de-limpieza-5-piezas"/>
+    <title>Cepillo Multifuncional de Limpieza, 5 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_585cd732-3130-4a73-8f32-8217403f39e6.jpg?v=1575022402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 style="text-align: left;"><span style="color: #e06666;">Mejore la higiene de la cocina - Con sus colores brillantes y la linda forma, las esponjas de silicona son un accesorio de cocina encantador</span></h4>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Limpiador de silicona para alimentos</strong></span>; silicona resistente al calor de alta calidad; Cepillo antibacterial de silicona para platos, sin BPA, aprobado por la FDA</li>
+<li>
+<span style="color: #ff0000;"><strong>Más seguro de usar:</strong> </span>la lavadora de la cocina no absorbe el agua; Moho no; fácil; Alta resistencia al calor; Se puede lavar en lavavajillas y secar más rápido</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de limpiar:</strong></span> simplemente enjuague las esponjas de silicona o póngalas en el lavaplatos; Diseño de lazo colgante para un almacenamiento conveniente</li>
+<li>
+<span style="color: #ff0000;"><strong>Aparato de cocina ideal:</strong></span> más limpiador de silicona para facilitar el lavado; con cerdas de silicona flexibles y suaves, lo suficientemente flexibles para limpiar utensilios de cocina irregulares</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><span style="color: #ff0000;"><strong>Material:</strong></span> silicona<br><br><strong><span style="color: #ff0000;">Color:</span></strong> color aleatorio</p>
+<h3><span style="color: #ff9900;"><strong>Notas:</strong></span></h3>
+<p>Debido a los diferentes efectos del monitor y de la iluminación, el color real del elemento puede diferir ligeramente del color que se muestra en las imágenes.</p>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong><br> 1 * Cepillo Multifuncional de Limpieza, 5 Piezas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028644448</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>SS002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286026514528</id>
+    <published>2019-10-18T00:36:36-05:00</published>
+    <updated>2019-10-18T00:36:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/anti-obstruccion-herramienta-para-el-obstaculo-de-las-alcantarillas-2-piezas"/>
+    <title>Anti-obstrucción Herramienta para el Obstáculo de las Alcantarillas, 2 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_55dc33b2-aba0-410f-bcad-f25726d6942b.jpg?v=1575018702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 id="title" class="a-size-large a-spacing-none" style="text-align: center;"><span style="color: #ff9900;">¡La forma rápida y fácil de limpiar los obstáculos de las alcantarillas!</span></h3>
+<p style="text-align: left;">Sin problemas ni estrés: con la tecnología patentada de micro ganchos, los desagües obstruidos con el cabello se arreglan de inmediato, se pueden enjuagar o reutilizar simplemente.  </p>
+<p style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/0044/3901/5498/files/QQ_20180823165902_medium_d945cbc4-6629-412e-b537-b62a0d3b0718_large.gif?v=1556953148"></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #e06666;"><strong>Hecho de PVC</strong></span> de alta calidad y alambre de acero, de uso duradero.</li>
+<li>Hilado y enredo de <span style="color: #e06666;"><strong>3</strong><strong>60 grados</strong></span> obstruidos para una remoción rápida.</li>
+<li>
+<span style="color: #e06666;"><strong>Fácil de Usar:</strong></span> la manija gira 360 ° y enreda las obstrucciones para una extracción rápida. Las barras se pueden separar fácilmente del mango después de su uso.</li>
+<li>Funciona en la mayoría de los lavabos, duchas y bañeras.</li>
+<li>Incluye 2 asas reutilizables y 4 bastones desechables de 18 pulgadas.</li>
+</ul>
+<p>  <img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/111_1_medium.gif?v=1539589634"><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/222_603bd311-0a11-4369-8060-1cbb6f76e59a_medium.gif?v=1539589681"></p>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: PVC, alambre de acero</li>
+<li>Color: como muestra la imagen.</li>
+<li>Cantidad: 2 piezas</li>
+<li>Tamaño: 53 * 10.5 * 1.5 cm / 20.87 * 4.13 * 0.59 "</li>
+<li>Peso neto: 10g / 0.4oz</li>
+</ul>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong></p>
+<p>2 x Anti-obstrucción Herramienta</p>
+<p>4 x Palillos Desechables</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286026514528</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>DW001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286026252384</id>
+    <published>2019-10-18T00:36:27-05:00</published>
+    <updated>2019-10-18T00:36:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/protector-de-puerta-plegable-para-perros"/>
+    <title>Protector de Puerta Plegable para Perros</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_89cde901-62c4-41ec-be53-e4c2f268a438.jpg?v=1575020300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #93c47d;"><em><strong>☀ La Puerta Mágica ☀</strong></em></span></h3>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>MAGIC PET GATE CUIDARÁ A TUS MASCOTAS:</strong></span> esta red de nylon tejida con perros y gatos te ayudará a llevar a tus mascotas a donde quieren que se queden. Ya no te preocupes por su seguridad, puedes evitar que se vayan de la casa ahora. También puede crear una sección privada para ellos si tiene visitantes.</li>
+<li>
+<span style="color: #ff0000;"><strong>SUPERDURABLE Y PORTÁTIL:<br></strong></span> está hecha de tela de nylon, que es resistente y parcialmente translúcida, ha sido probada y probada y soporta el abuso de las mascotas. Esto es perfecto para sus gatos y perros, puede colocarlo en cualquier lugar de la casa, por puertas, entre paredes, escaleras, dormitorios, cocinas, comedores o incluso en el exterior. También es fácil retirarlo total o parcialmente si alguien tiene que pasar.</li>
+<li>
+<span style="color: #ff0000;"><strong>FÁCIL INSTALACIÓN:</strong></span> Cada juego consta de una tela, dos varillas estirables y cuatro ganchos adhesivos y está listo para usar. No requiere herramientas y es muy ligero para que cualquiera pueda instalar esta puerta para mascotas.</li>
+<li>
+<span style="color: #ff0000;"><strong>DISEÑO ELEGANTE Y ALMACENAMIENTO FÁCIL:</strong></span> cuando no lo está utilizando, puede plegarlo fácilmente y guardarlo donde sea necesario. Además, casi no ocupa espacio. El diseño es muy moderno y elegante, por lo que solo agregará belleza a su casa mientras hace su gran trabajo.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>AJUSTABLE y pasos a utilizar:</strong></span></p>
+<p>Ajuste las dos barras de metal y luego coloque las dos barras en el túnel en ambos lados. Traiga y fije los cuatro ganchos adhesivos donde se instalará, luego simplemente cuelgue la red tejida en los cuatro ganchos y ¡listo!</p>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span><br><span>1 x Protector de Puerta Plegable para Perros</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286026252384</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.99</s:price>
+      <s:sku>CWW001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286024712288</id>
+    <published>2019-10-18T00:35:30-05:00</published>
+    <updated>2019-10-18T00:35:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cinta-reparadora-impermeable-super-fuerte"/>
+    <title>Cinta Reparadora Impermeable Súper Fuerte</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/24._JDBAI10.jpg?v=1575022130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Gadgets<br>
+        <strong>Precio: </strong>
+            16.99 - 32.99
+            <a href="https://idealdia.com/products/cinta-reparadora-impermeable-super-fuerte">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span style="color: #ff9900;"><strong>---&gt;Envío Gratis a Toda España</strong></span></h4>
+<h3 style="text-align: center;">
+<span style="color: #93c47d;"><strong>💗</strong></span><em><span style="color: #93c47d;"><strong>Cinta Reparadora Impermeable Súper Fuerte es una cinta mágica</strong></span></em><span style="color: #93c47d;"><strong>💗</strong></span>
+</h3>
+<div><strong><span style="color: #ff9900;">Características:</span></strong></div>
+<div>
+<ul>
+<li>
+<span style="color: #ff0000;">♥ La cinta impermeable es resistente a los rayos UV</span>, no daña el medio ambiente, no contiene compuestos orgánicos volátiles y tiene un amplio rango de temperaturas, por lo que puede utilizarse en condiciones climáticas adversas.</li>
+<li>
+<span style="color: #ff0000;">♥ La tira es duradera, práctica y fácil de usar</span>. Cubra rápidamente grietas, huecos y agujeros. Adhesivo para pegar superficies y transportar objetos pesados</li>
+<li>
+<span style="color: #ff0000;">♥ Cinta Reparadora Impermeable es una correa súper fuerte</span>, cauchutada e impermeable que puede hacer casi cualquier cosa, desde parchear, unir, sellar y reparar.</li>
+<li>
+<span style="color: #ff0000;">♥ Cualquier elemento que gotee</span>, como tiras impermeables, solucionará inmediatamente sus problemas.</li>
+<li>
+<span style="color: #ff0000;">♥ Si su coche querido hace huecos molestos</span>, forma una cinta impermeable fiable con sellado repelente al agua de Hidratación instantánea en la mayoría de los demás tejidos y la cubierta le permite alisar grietas y agujeros de grandes superficies.</li>
+<li>
+<span style="color: #ff0000;">♥ Resistente a la temperatura</span><strong>:</strong> de -21 ℃ a 93 ℃</li>
+</ul>
+</div>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: Polipropileno (PP) + adhesivo termofusible.</li>
+<li>Color: negro, blanco, transparente.</li>
+<li>Tamaño: 10x152cm / 20x152cm / 30x152cm</li>
+<li><span>Resistente a los rayos UV, respetuoso con el medio ambiente y sin VOC</span></li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>1 x Cinta Reparadora Impermeable Súper Fuerte</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Blanco / 10*152CM</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>JDBAI10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Blanco / 20*152CM</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDBAI20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Blanco / 30*152CM</title>
+      <s:price currency="EUR">32.99</s:price>
+      <s:sku>JDBAI30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Negro / 10*152CM</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>JDHEI10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Negro / 20*152CM</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDHEI20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Negro / 30*152CM</title>
+      <s:price currency="EUR">32.99</s:price>
+      <s:sku>JDHEI30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Transparente / 10*152CM</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>JDTOU10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Transparente / 20*152CM</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDTOU20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024712288</id>
+      <title>Transparente / 30*152CM</title>
+      <s:price currency="EUR">32.99</s:price>
+      <s:sku>JDTOU30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286024024160</id>
+    <published>2019-10-18T00:35:06-05:00</published>
+    <updated>2019-10-18T00:35:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cortador-de-ensalada-ensalada-en-60-segundos"/>
+    <title>Cortador de Ensalada, Ensalada en 60 Segundos</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/11_4a521abb-2b04-4059-910f-59222d7e9bcf.jpg?v=1575019738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span style="color: #e06666;"><em><strong>5 en 1: tazón de verduras + colador de agua + tabla de cortar + rebanador seguro + exprimidor de limón</strong></em></span></h2>
+<h4 style="text-align: left;">Con nuestro tazón mejorado para cortar ensaladas usted puede ahorrar tiempo y hacer ensaladas saludables para usted y su familia. Usted puede comprar uno a un familiar o amigo como regalo.</h4>
+<p style="text-align: center;"><img alt="" src="//cdn.shopify.com/s/files/1/0010/8730/7837/files/36.gif?v=1543047186" style="float: none;"></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Rápido, Fácil, Seguro:</strong></span></li>
+</ul>
+<p>Preparar una ensalada ya no es una tarea. Enjuague, corte y sirva la ensalada y el jugo en 60 segundos con la ayuda de este cortador de ensaladas mejorado con exprimidor de limón. Menos herramientas y nunca cortar dedos. Buena opción para los amantes de la ensalada.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Tazón saludable aprobado por la FDA:</strong></span></li>
+</ul>
+<p>Hecho de PE + PP material de calidad alimentaria.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Versión mejorada:</strong></span></li>
+</ul>
+<p>(1) Se coloca un "fregadero" alrededor del piso para evitar que el jugo caiga sobre la mesa. Mantenga su mesa limpia y seca.<br><br>(2) En comparación con el diseño "plano" del plato, nuestro diseño Wavy Edge le permite girar con facilidad y rapidez.<br><br>(3) Dos alas en ambos lados facilitan mover o levantar el tazón.<br><br>(4) Un agujero colgante es conveniente para guardar la base y mantenerla seca y limpia.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Combinación perfecta:</strong></span></li>
+</ul>
+<p>No solo hay una ensaladera mejorada, sino también un exprimidor de limón. Todas las piezas son aptas para lavavajillas y separables, fáciles de limpiar.</p>
+<p><span style="color: #ff9900;"><strong>Características y Consejos:</strong></span></p>
+<ul>
+<li>Diseño mejorado: Se puede colgar hasta secar. El jugo se puede almacenar en el fregadero. Simplemente gira el tazón, usando las alas de ambos lados.</li>
+<li>Tamaño del producto: 7.5 * 4.7 * 7.8 pulgadas, suficiente para 2 personas.</li>
+<li>No se recomiendan los alimentos duros. Asegúrese de que solo se utilice 3/4 del recipiente para llenar los alimentos.</li>
+<li>El cuchillo no debe ser menor de 7 pulgadas.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 *  Cortador de Ensalada</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024024160</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>SLW-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286023499872</id>
+    <published>2019-10-18T00:34:44-05:00</published>
+    <updated>2019-10-18T00:34:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/desodorante-para-limpieza-de-desagues-limpiador-de-aguas-residuales-varillas-magicas"/>
+    <title>Desodorante para Limpieza de Desagües, Limpiador de Aguas Residuales - Varillas Mágicas</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/4_grande_ffaffdf0-e006-4095-b50e-4537676056a5.jpg?v=1575020814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            9.99 - 10.99
+            <a href="https://idealdia.com/products/desodorante-para-limpieza-de-desagues-limpiador-de-aguas-residuales-varillas-magicas">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;">Mantenga sus desagües limpios</span></h3>
+<p style="text-align: center;"><span style="color: #e06666;"><strong><em>Desodorante para varilla de limpieza de desagües.</em></strong></span></p>
+<p>¿Quieres deshacerte de los olores ofensivos que vienen de tu fregadero? Aquí viene su limpiador de desagües: las varas mágicas que eliminan los olores y evitan que sus operaciones se conviertan en un desastre obstruido para una eficiencia óptima.<br><br><span style="color: #ff9900;"><strong>Características Principales:</strong></span></p>
+<div><span style="color: #ff9900;"><strong></strong></span></div>
+<div>
+<h4 style="text-align: center;"><span style="color: #ff0000;"><strong></strong></span></h4>
+</div>
+<div><span style="color: #ff9900;"><strong></strong></span></div>
+<div>
+<ul>
+<li>Ayuda de manera efectiva a descomponer los desechos orgánicos para prevenir los olores desagradables de los alimentos y las bacterias en descomposición mediante el uso de bastones sanitarios</li>
+<li>La combinación patentada de Keep Plumber Away Stick de enzimas potentes puede descomponer la grasa, las grasas, los aceites, la espuma de jabón y los alimentos para mantener el fregadero limpio. Ahorra tu dinero en instaladores y desagües.</li>
+<li>Adecuado para varios tubos de drenaje Adecuado para tubos de drenaje de plástico o metal. Es el mejor desodorante y limpiador para desagües de cocinas, tocadores, bañeras, duchas, lavamanos e inodoros.</li>
+<li>Evite los olores embarazosos y la retención desagradable de agua en los lavamanos y las duchas con un solo palo por mes</li>
+</ul>
+</div>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Dimensiones: Aprox. 10 cm / 3.94 "(12 palos en total)</li>
+<li>Seguro y no tóxico: hecho de 48% de sulfato de sodio, 5% de floración de trigo, 7% de carboximetilcelulosa, 10% de lauril sulfato de sodio, 17% de carbonato de calcio, 5% de cloruro de sodio, 1,5% de amilasa, 1% de lipasa, 1,3% de bacilopeptidasa, 2% de benzoato de sodio, 4 % De agua</li>
+</ul>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1* Varillas Mágicas, Desodorante para Limpieza de Desagües, Limpiador de Aguas Residuales</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023499872</id>
+      <title>Azul (12 piezas)</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>QWB-B-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023499872</id>
+      <title>Naranja (12 piezas)</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>QWB-H-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023499872</id>
+      <title>Azul / (24 piezas) Venta Limitada</title>
+      <s:price currency="EUR">10.99</s:price>
+      <s:sku>QWB-B-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023499872</id>
+      <title>Naranja / (24 piezas) Venta Limitada</title>
+      <s:price currency="EUR">10.99</s:price>
+      <s:sku>QWB-H-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286022484064</id>
+    <published>2019-10-18T00:34:03-05:00</published>
+    <updated>2019-10-18T00:34:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/eliminador-de-silicona-y-herramienta-de-inyeccion-de-silicona-con-alisador-de-lechada-3-piezas"/>
+    <title>Eliminador de Silicona y Herramienta de Inyección de Silicona con Alisador de Lechada (3 Piezas)</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/caulking_4.jpg?v=1575018556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span style="color: #e06666;"><em><strong># El Gadget Más Práctico #</strong></em></span></div>
+<div style="text-align: left;">
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+</div>
+<div>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Aplicación:</strong></span> esta herramienta todo en uno es rápida, limpia y fácil de usar, y se usa para la mayoría de los selladores, rellenos, lechadas, etc.</li>
+<li>
+<span style="color: #ff0000;"><strong>Material:</strong></span> hecho de silicona de primera calidad y acero inoxidable, no se rompe fácilmente.</li>
+<li>
+<span style="color: #ff0000;"><strong>3 en 1 Uso Multifuncional:</strong></span> hay un raspador de plástico, un raspador de metal y un dispositivo de acabado de sellado. Las 3 piezas de los diferentes bordes del raspador se pueden unir a cualquier borde, esquina, junta.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de Limpiar:</strong></span> las herramientas para calafatear son muy fáciles de limpiar y reutilizar con un paño húmedo, reduciendo el desperdicio de sellador.</li>
+<li>
+<span style="color: #ff0000;"><strong>Práctico Simple:</strong></span> una buena herramienta para sellar con silicona / líneas de calafateo elimina las juntas de silicona y juntas permeables y viejas, para un sello limpio y duradero.</li>
+</ul>
+</div>
+<p><span style="color: #ff9900;"><strong><b>Especificación:</b></strong></span></p>
+<ul>
+<li>Tamaño: 19 * 3.5 cm 19 * 2.5 cm 16 * 4.5 cm</li>
+<li>Color: rojo y negro.</li>
+<li>Peso: 75 g</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 x Eliminador de Silicona y Herramienta de Inyección de Silicona con Alisador de Lechada (3 Piezas)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286022484064</id>
+      <title>Rojo Normal</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>CT003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286022484064</id>
+      <title>Negro</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>CT002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286021861472</id>
+    <published>2019-10-18T00:33:32-05:00</published>
+    <updated>2019-10-18T00:33:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cinta-de-reparacion-de-ventana-para-mosquitera"/>
+    <title>Cinta de Reparación de Ventana para Mosquitera</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_946127db-322a-4235-9d06-9d7a790c9df5.jpg?v=1575014130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #e06666;"><strong>Cuando más unidades compre, más descuento obtendrá al pagar (hasta un 15%)</strong></span><br><span style="color: #e06666;"><strong>A. En 2 unidades -&gt; 5% de descuento</strong></span><br><span style="color: #e06666;"><strong>B. En 3 unidades -&gt; 10% de descuento</strong></span></p>
+<p>Cinta de reparación para <span style="color: #ff9900;"><strong>mosquitera</strong></span>, puerta de patio, malla de tela de fibra de vidrio con sello adhesivo fuerte. Reparacion para reparacion de manchas de agujeros de grietas para evitar insectos mosquitos.</p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Medida de la cinta de reparación de la pantalla:</strong></span> 5 cm x 5 m / 2 pulg. X 197 pulg. O 5 cm x 2 m / 2 pulg. X 80 pulg. Lo suficientemente largo para satisfacer sus necesidades de reparación.</li>
+<li>
+<span style="color: #ff0000;"><strong>Material de fibra de vidrio:</strong></span> este material es mejor que el material normal y se caracteriza por su durabilidad, resistencia a la humedad, resistencia a la llama, no deformación, buen sellado, resistencia a la corrosión y más</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de usar:</strong> </span>simplemente corte la cinta en el lugar deseado con el respaldo autoadhesivo. La amplia aplicación hace que sea posible instalar directamente en el marco de la ventana, acero, aluminio, puertas de plástico, rejillas de ventanas, rejillas de tiendas o pantallas de RV</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Cantidad: 4 piezas</li>
+<li>Material de la malla: material de fibra de vidrio</li>
+<li>Cinta de malla: 5 cm x 5 m / 2 pulgadas x 197 pulgadas o 5 cm x 2 m / 2 pulgadas x 80 pulgadas</li>
+<li>Tamaño de la cuerda: 0,3 mm de diámetro.</li>
+<li>Color: como se muestra en las fotos</li>
+</ul>
+<ul></ul>
+<p><strong>¡Mantenga la pieza de reparación del rotor de la ventana limpia y completamente seca antes de la instalación!</strong></p>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span> </strong></p>
+<ul>
+<li>1 x Cinta de Reparación de Ventana para Mosquitera</li>
+<li>9 x Parche</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021861472</id>
+      <title>Negro</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>BDJB001-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021861472</id>
+      <title>Gris</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>BDJB001-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286021828704</id>
+    <published>2019-10-18T00:33:23-05:00</published>
+    <updated>2019-10-18T00:33:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/almohadilla-multifuncional-de-caucho-nano-lavable-2-piezas-en-juego"/>
+    <title>Almohadilla Multifuncional de Caucho Nano Lavable (2 Piezas en Juego)</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_057f013f-abf3-49e7-b25f-074cf4ac7edf.jpg?v=1575021448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Gadgets<br>
+        <strong>Precio: </strong>
+            9.99 - 12.99
+            <a href="https://idealdia.com/products/almohadilla-multifuncional-de-caucho-nano-lavable-2-piezas-en-juego">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><strong>【Usos Múltiples】</strong></span></h3>
+<div style="text-align: center;"><strong><span style="color: #ff9900;"></span></strong></div>
+<div style="text-align: center;"><strong><span style="color: #ff9900;"></span></strong></div>
+<p>Nuestra almohadilla multifuncional sujeta todos los objetos de forma firme y estable sobre cualquier superficie. <span style="color: #e06666;"><strong>Puede pegar su teléfono, botellas, cables, vidrio y otros artículos a la pared, refrigerador u otras superficies planas.</strong></span></p>
+<p>Colgantes de pared para cocinas se plantan fotos y todos los aspectos de la vida, como cocinas, oficinas, cables, herramientas, etc. A través de la nueva nanotecnología y material adaptable, se mantiene en todas las superficies. Palos sin pegamento, sin tornillos, no magnéticos. En el hogar, es realmente eficaz para eliminar el pelo de los animales, el polvo en la ropa y la computadora, también es útil en su automóvil para mantener las cosas</p>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<p><span style="color: #ff0000;"><strong>【Fácil de Usar】:</strong></span>Fácil de pegar: estas almohadillas antideslizantes tienen una buena adherencia y el método de aplicación es muy simple, puede usar estas almohadillas de acuerdo con sus propias necesidades Sin residuos: no deja residuos después de su uso. Adhesivo reutilizable: reposicionable y lavable, simplemente enjuague y es como nuevo.</p>
+<p><span style="color: #ff0000;"><strong>【Compatibilidad Global】:</strong></span>Puede contener su teléfono, almohadilla, control remoto, cámara, parlantes, taza de agua, llave de vidrio, espejos, pizarras, metal, gabinetes de cocina o azulejos, automóviles, casas y mucho más. Para eliminar todo, en todas partes.</p>
+<p><strong><span style="color: #ff0000;">【Material de Calidad Buena】:</span></strong>Almohadilla antideslizante universal fijada en gel, almohadilla antideslizante pegajosa de alta calidad, almohadilla adhesiva pegajosa, retención confiable por nanotecnología, bandeja de tablero de instrumentos y teléfono celular (redondo y cuadrado)</p>
+<p><strong><span style="color: #ff0000;">【Tamaño de las Almohadillas】:</span></strong>Este juego de almohadillas adhesivas de gel mide aproximadamente 13,5 cm / 5,3 pulgadas de largo, 5,4 cm / 2,16 pulgadas de ancho y 0,35 cm / 0,14 pulgadas de grosor, hay 4 piezas de negro Almohadillas de gel pegajosas, gran cantidad, suficiente para usar en diferentes situaciones</p>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Material: Nano-caucho</li>
+<li>Función: antideslizante / pegajoso</li>
+<li>Tamaño del artículo: 5.9 × 1.2 × 0.2 pulgadas (rectángulo), 5.3 × 2.2 × 0.1 pulgadas (forma de hueso)</li>
+<li>Peso: 125 g</li>
+<li>Color: negro</li>
+</ul>
+<ul></ul>
+<p><strong><span style="color: #ff9900;">Nota:</span></strong></p>
+<p>Preste atención a la seguridad de los bienes, tales como Por ejemplo, artículos más pesados, vulnerables y caros. Evite la pasta vertical o inversa más larga para evitar daños involuntarios.</p>
+<ul></ul>
+<span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span><br>
+<ul>
+<li>1 Set * Almohadilla Multifuncional de Caucho Nano Lavable (2 Piezas en Juego)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021828704</id>
+      <title>Negro(1 Set)</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>MST-HEI-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021828704</id>
+      <title>Transparente (1 Set)</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>MST-TOU-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021828704</id>
+      <title>Negro (2 Sets) Venta limitada</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>MST-HEI-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021828704</id>
+      <title>Transparente (2 Sets) Venta Limitada</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>MST-TOU-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286010261600</id>
+    <published>2019-10-18T00:24:55-05:00</published>
+    <updated>2019-10-18T00:24:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/conjunto-de-cano-de-acero-inoxidable-13-piezas-para-decoracion-de-pasteles"/>
+    <title>Conjunto de Caño de Acero Inoxidable (13 piezas) para Decoración de Pasteles</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_4318066a-70a9-4710-a58b-3d2519557b7a.jpg?v=1571376304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>-&gt;Envío Gratis</strong></span></p>
+<h3 style="text-align: center;">
+<span style="color: #93c47d;">Con el Caño Listo Pronto</span><br><span style="color: #93c47d;">para Decorar como un Profesional</span>
+</h3>
+<p><span style="color: #93c47d;"><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/2_83ebd56b-74f7-408b-9925-ec868cf262ec_large.jpg?v=1566009190" alt="" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p>Utilice 7 formas diferentes de boquillas para crear una variedad de patrones de flores, y utilice adaptadores tricolores para crear flores coloridas, decorar su pastel y divertirse horneando con los hijos.</p>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<p>🍪 El conjunto de boquillas de pulverización tiene <span style="color: #e06666;"><strong>una amplia gama de aplicaciones</strong></span>: Pasteles, tartaletas, magdalenas, donas, fiestas, panaderías, etc...</p>
+<p>🍩<span><span style="color: #e06666;"><strong> 9 diferentes patrones de boquillas</strong></span>, puede producir todo tipo de flores.</span></p>
+<p>🍰 <span style="color: #e06666;"><strong>Buena elección</strong></span> para los pasteleros profesionales y los entusiastas de la panadería.</p>
+<p>🎂 Formas robustas y ligeras, fáciles de usar y de limpiar.</p>
+<p>🍨 Fabricado en acero inoxidable,<span style="color: #e06666;"><strong> reutilizable e inodoro</strong></span>.</p>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>
+<strong>Material:</strong> acero inoxidable + silicona</li>
+<li>
+<strong>Peso:</strong> 175 g</li>
+<li>
+<strong>Tamaño:</strong> como se muestra en la imagen 6.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>PAQUETE INCLUYE:</strong></span></p>
+<ul>
+<li>9 * caños</li>
+<li>1 * bolsa de tubería</li>
+<li>1 * adaptador tricolor</li>
+<li>1 * adaptador de arandela</li>
+<li>1 * cepillo de limpieza</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286010261600</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>BIAOHUAQI-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286010032224</id>
+    <published>2019-10-18T00:24:47-05:00</published>
+    <updated>2019-10-18T00:24:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/mini-camara-hd-1080p"/>
+    <title>Mini Cámara HD 1080P</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_52e7a52b-2af8-40d8-b489-7daeaa49510d.jpg?v=1575012980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><span style="color: #ff9900;"><strong>-</strong><strong>&gt; Envío Gratis</strong></span>
+<p>Con la <span style="color: #93c47d;"><strong>Mini Cámara HD 1080P</strong></span>, una cámara HD 1080P de 12 millones de píxeles, puedes capturar cada momento mágico de tu vida. Con la función de una grabadora de video/audio, en caso de un evento inesperado, usted tiene la evidencia que necesita para lograr la justicia que necesita.</p>
+<h3><span style="color: #ff9900;">Características:</span></h3>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>La cámara para niñeras más pequeña del mundo:</strong> </span>Desarrollada especialmente como un cubo Mini-Rubik (0,85 pulgadas). Esto lo hace perfecto como cámara doméstica o grabadora de vídeo DVR automática sin llamar la atención.</li>
+<li>
+<span style="color: #ff0000;"><strong>Última versión de mini cámara:</strong></span> Soporta hasta 32GB de tarjeta micro SD, usted puede grabar 3 veces más de vídeo continuo que otras mini cámaras. (La tarjeta no está incluida.)</li>
+<li>
+<span style="color: #ff0000;"><strong>Mini cámara de seguridad Full HD 1080P:</strong> </span>Las cámaras en miniatura graban vídeos de alta resolución de 1980 * 1080P a 140° de gran angular y ofrecen instantáneas y vídeos claros para que no te pierdas ningún detalle.</li>
+</ul>
+<h3><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></h3>
+<ul>
+<li>Píxel: 800 dpi.</li>
+<li>Formato de vídeo: AVI.</li>
+<li>Material de la carcasa: Metal.</li>
+<li>Tamaño: 2.2 x 2 x 2.2 cm</li>
+<li>Tensión de carga: DC-5V.</li>
+<li>Capacidad de la batería: 200mAh.</li>
+<li>Resolución: 1980 x 1080p.</li>
+<li>Tipo de interfaz: Mini 8Pin USB.</li>
+<li>Soporte de memoria: tarjeta TF (no incluida).</li>
+</ul>
+<h3><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></h3>
+<ul>
+<li>1 x cable de datos.</li>
+<li>1 x cámara de cuerpo HD</li>
+<li>1 x soporte universal</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286010032224</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>MINISXT-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286004920416</id>
+    <published>2019-10-18T00:21:15-05:00</published>
+    <updated>2019-10-18T00:21:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/gel-de-limpieza-de-polvo"/>
+    <title>Gel de Limpieza de Polvo</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>Vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/20190919223040.jpg?v=1575018775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;">¿Le preocupa<span> </span><span style="color: #ff0000;"><strong>cómo limpiar un teclado</strong>,</span> una salida de aire del automóvil o algunos lugares pequeños? ¿Intenta encontrar algunas herramientas para mejorar la eficiencia de la limpieza de estos lugares? ¿Quieres hacer que la limpieza sea un poco divertida? ¡Nuestro<span><strong> <span style="color: #ff0000;">gel de limpieza de polvo</span></strong></span><span> </span>está aquí para todas sus necesidades!</p>
+<h3><span style="color: #ff9900;"><strong>Descripción del producto:</strong></span></h3>
+<ul>
+<li>Función: pegar el polvo y la suciedad a fondo presionándolo sobre las superficies que desea limpiar.</li>
+<li>Multiuso: elimine el polvo, el cabello, las migas y la suciedad de la ventilación de aire del automóvil, las tabletas, el teclado, el control remoto, la calculadora y algunos lugares difíciles de alcanzar alrededor de su casa de manera rápida y eficiente.</li>
+<li>No tóxico y seguro: material ecológico y seguro para garantizar que no sea perjudicial para el uso humano.</li>
+<li>Fácil de usar: simplemente coloque la gal sobre la superficie que desea limpiar, presiónela varias veces y luego recójala.</li>
+<li>Duradero: puede reutilizarse muchas veces sin limpiarlo hasta que no esté pegajoso o sienta que está demasiado sucio para usarlo.</li>
+</ul>
+<ul></ul>
+<h3><span style="color: #ff9900;"><strong>Cómo utilizar:</strong></span></h3>
+<ul>
+<li>Sécate la mano primero.</li>
+<li>Saque el gel y amase varias veces.</li>
+<li>Coloque el gel sobre la superficie que desea limpiar y presiónelo durante 2-3 veces.</li>
+<li>Recoge el gel.</li>
+<li>Dobla el gel o amasa para continuar la limpieza.</li>
+<li>Vuelva a colocar el gel en su bolsa y selle la bolsa después de usarla.</li>
+</ul>
+<ul></ul>
+<h3><span style="color: #ff9900;"><strong>Notas:</strong></span></h3>
+<ul>
+<li>Mejor no ponerlo en la superficie de otros productos por más de un minuto. De lo contrario, fluirá hacia las pequeñas grietas, dejará pequeños trozos de sí mismo y es difícil que lo recojan a fondo.</li>
+<li>Si fluye en algunas pequeñas grietas debido al tiempo, tenga paciencia y extiéndalas con la gran parte restante del gel.</li>
+<li>No lo use para limpiar libros, ropa, alfombrillas de ratón ni nada que pueda absorber su humedad.</li>
+</ul>
+<h3><span style="color: #ff9900;"><strong>Advertencia: </strong></span></h3>
+<ul>
+<li>¡Manténgalo alejado de niños y mascotas!</li>
+<li>¡No te lo comas!</li>
+<li>¡No lo use / ponga a alta temperatura!</li>
+<li>¡Manténgalo en un lugar fresco y seco!</li>
+</ul>
+<ul></ul>
+<h3><span style="color: #ff0000;"><strong>Paquete Incluye:</strong></span></h3>
+<ul>
+<li><span style="color: #ff0000;"><em>1 X gel de limpieza de polvo</em></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004920416</id>
+      <title>AZUL</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>QJN-LAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004920416</id>
+      <title>VERDE</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>QJN-LV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004920416</id>
+      <title>AMARILLO</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>QJN-HUANG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286004396128</id>
+    <published>2019-10-18T00:20:54-05:00</published>
+    <updated>2019-10-18T00:20:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/protector-de-drenaje-permanente"/>
+    <title>Protector de Drenaje Permanente</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>Vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/20190919230901.jpg?v=1575021716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            16.99 - 24.99
+            <a href="https://idealdia.com/products/protector-de-drenaje-permanente">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span style="color: #ff0000;"><strong><span class="tlid-translation translation" lang="es"><span title="" class="">Por favor, preste atención, este producto es un producto PREVENTA</span></span></strong></span></div>
+<div style="text-align: center;"><span style="color: #ff0000;"><strong><span class="tlid-translation translation" lang="es"><span title="" class="">Vendrá en pronto</span></span></strong></span></div>
+<p><span class="tlid-translation translation" lang="es"><span title="" class="">Nunca comprometa su tapón por un colador nuevamente, nunca llame al plomero nuevamente, nunca use productos químicos nocivos nuevamente.</span><span> </span><span title="">100% libre de BPA y silicona flexible de alto grado.</span></span></p>
+<p><img src="https://odditymall.com/includes/content/the-tub-ring-thumb.gif" alt="The Tub Ring Wraps Around Your Drain To Instantly Catch Every Hair" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h4><span style="color: #ff9900;"><span class="tlid-translation translation" lang="es"><span title="" class="alt-edited">Características</span></span>:</span></h4>
+<ul>
+<li><span class="tlid-translation translation" lang="es"><span title="" class="">Lo mejor de Drain Protector es que puede instalarlo instantáneamente y quitarlo instantáneamente para limpiarlo.</span><span> </span><span style="color: #ff0000;"><em><strong><span title="">No hay un largo proceso de instalación.</span></strong></em> </span><span title="" class="">Simplemente envuélvala alrededor del desagüe de la bañera emergente y tomará aproximadamente 2 segundos pasar de los pelos que caen por el desagüe, a que los pelos se atrapen instantáneamente.</span></span></li>
+<li><span class="tlid-translation translation" lang="es"><span title="" class="">Un diseño único de ranura y anillo ayuda a atrapar cada cabello en su bañera.</span><span> </span><span title="" class="">Es perfecto para familias numerosas que tienen el pelo largo y grueso que generalmente necesita pescar una vez por semana, o para familias con mascotas que se bañan mucho<span style="color: #ff0000;">.</span></span><span style="color: #ff0000;"> <strong><em><span title="" class="">Funciona muy bien para cualquier tipo de cabello, ya sea de una mascota, un humano o incluso probablemente del vello corporal de un Gran Pie.</span></em></strong></span></span></li>
+</ul>
+<div><img src="https://odditymall.com/includes/content/upload/the-tub-ring-2356.gif" alt="Tub Ring Instant Bath Tub Hair Catcher" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<ul>
+<li><span class="tlid-translation translation" lang="es"><span title="" class="">El protector de desagüe significa que no hay más anzuelos de pesca por el desagüe,<span> </span><span style="color: #ff0000;"><strong><em>no más usar un émbolo en la bañera, no más productos químicos fuertes para limpiar una obstrucción, ¡y no más pelo mojado y repugnante en las manos desnudas una vez a la semana después de que la bañera retroceda!</em></strong></span></span><span style="color: #ff0000;"> </span><span title="" class="">Además, tampoco hay que preocuparse por dejar caer un anillo, un arete u otro objeto pequeño por el desagüe, ya que el protector de desagüe lo atrapará.</span></span></li>
+</ul>
+<h4><span style="color: #ff9900;"><span class="tlid-translation translation" lang="es"><span title="" class="">Especificaciones</span></span>:</span></h4>
+<ul>
+<li><span class="tlid-translation translation" lang="es"><span title=""><span><strong>Material:</strong></span><span> </span>silicona de alto grado</span></span></li>
+<li><span class="tlid-translation translation" lang="es"><span title=""><span><strong>Estilo / Color:</strong></span><span> </span>Anillo / Azul cielo</span></span></li>
+<li><span class="tlid-translation translation" lang="es"><span title="" class=""><span><strong>Dimensión:</strong></span><span> </span>3.75 "L x 3.75" W x 1.125 "H</span></span></li>
+<li><span class="tlid-translation translation" lang="es"><span title="" class=""><span><strong>Peso:</strong></span><span> </span>1.7 oz.</span></span></li>
+</ul>
+<h4><span style="color: #ff9900;"><span class="tlid-translation translation" lang="es"><span title="" class="">Paquete Incluye</span></span>:</span></h4>
+<ul>
+<li><span><em><span class="tlid-translation translation" lang="es"><span title="" class="">1 x protector de drenaje permanente</span></span></em></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004396128</id>
+      <title>2 PIEZAS</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>QQ002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004396128</id>
+      <title>3 PIEZAS</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>QQ003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004396128</id>
+      <title>5 PIEZAS</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>QQ005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286002659424</id>
+    <published>2019-10-18T00:19:56-05:00</published>
+    <updated>2019-10-18T00:19:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/santa-que-trepara-al-arbol"/>
+    <title>Santa que Trepará al Árbol</title>
+    <s:type>Jugente</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_6fc1aac6-6220-4dc0-b10f-47443302aedb.jpg?v=1575013490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Jugente<br>
+        <strong>Precio: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #93c47d;"><strong>🎄</strong><em><strong>Santa que Trepará al Árbol</strong></em><strong>🎄</strong></span></h3>
+<p><em><span style="color: #e06666;"><strong>El divertido Santa sube a la cima de la cuerda o la parte superior, como Santa Claus en un cuento de hadas, intentando todos los métodos para subir a la chimenea para darle un regalo al niño y luego automáticamente.</strong></span></em></p>
+<p><em><span style="color: #e06666;"><strong>Todo es automático y le da al niño una experiencia mágica.</strong></span></em></p>
+<h4><span style="color: #ff9900;">Caracteristicas:</span></h4>
+<ul>
+<li>Santa Claus se sube automáticamente mientras canta, con sacos en la espalda.</li>
+<li>Hecho de PVC y felpa de alta calidad, es ecológico, no tóxico y único.</li>
+<li>Su tamaño perfecto es perfecto para decoraciones interiores y exteriores que cuelgan de árboles de Navidad o fiestas.</li>
+<li>Durante la temporada navideña, su jardín, techo, hogar o lugar de negocios tendrá una decoración increíble.</li>
+</ul>
+<ol></ol>
+<h4><span style="color: #ff9900;">Especificaciones:</span></h4>
+<ul>
+<li>
+<strong>Color: </strong><span> </span>rojo</li>
+<li>
+<strong>Peso:</strong><span> </span>202 g (escalera) / 230 g (c<span>ampanilla</span>)</li>
+<li>
+<strong>Longitud:</strong><span> </span>65 cm (escalera) / 100 cm (cuenta).</li>
+<li>
+<strong>Tamaño:</strong><span> </span>19 x 9 cm (escalera) / 25 x 12 cm (c<span>ampanilla</span>).</li>
+</ul>
+<ul></ul>
+<h4><span style="color: #ff9900;">Paquete Incluye:</span></h4>
+<ul>
+<li>1 x Santa que trepará al árbol</li>
+</ul>
+<span style="color: #ff0000;"><strong><em>Notas:</em></strong></span><br><span><em>Permita una ligera diferencia de dimensión debido a diferentes medidas manuales.<br>Debido a los diferentes monitores y efectos de luz, el color real del artículo puede ser ligeramente diferente del color que se muestra en las imágenes.</em></span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002659424</id>
+      <title>ESCALERA</title>
+      <s:price currency="EUR">26.99</s:price>
+      <s:sku>SDS001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002659424</id>
+      <title>CAMPANILLA</title>
+      <s:price currency="EUR">26.99</s:price>
+      <s:sku>SDS002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://idealdia.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://idealdia.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://idealdia.com/collections/mascota.atom"/>
+  <title>idealdia</title>
+  <updated>2020-03-12T01:59:45-05:00</updated>
+  <author>
+    <name>idealdia</name>
+  </author>
+  <entry>
+    <id>https://idealdia.com/products/4537371820128</id>
+    <published>2020-03-12T01:59:45-05:00</published>
+    <updated>2020-03-12T01:59:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/proteccion-ultrasonica-contra-pulgas-y-garrapatas"/>
+    <title>Protección Ultrasónica contra Pulgas y Garrapatas</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_433fded0-f757-4ddb-a985-8f7c55bd8384.jpg?v=1583996394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span style="color: #ff8000;"><strong>-&gt; Envío Gratis</strong></span></h3>
+<p><span>Hay muchas lesiones debido a las picaduras de mosquitos. Las picaduras de mosquitos pueden dañar su piel y la picazón puede molestarlo.</span><br><span>Especialmente cuando un mosquito pica a un bebé, la incomodidad la hace llorar.</span></p>
+<p><span>Las garrapatas y las pulgas pueden enfermar a su mascota con enfermedades como la enfermedad de Lyme y la parálisis.</span><br><br><span>Nuestra protección ultrasónica contra pulgas y garrapatas proporciona una forma segura y fácil de proteger a su familia y a su mascota.</span></p>
+<p><span style="color: #ff8000;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"> <strong>SEGURO Y EFICAZ:</strong></span><span> </span>La emisión de pulso ultrasónico es efectiva en garrapatas en un radio de 2.5 metros que cubre el 99% de todos los perros. Se propaga de la cabeza a los pies, incluso en la cola, la piel y la piel de su mascota, matando y repelando las pulgas y las garrapatas para que no tengan que morder a su perro.</li>
+<li>
+<span style="color: #ff2a00;"> <strong>SIN QUÍMICOS:</strong> </span>¡Tu mascota merece lo mejor! Este repelente ultrasónico es 100% no reactivo, hipoalergénico, resistente al agua, inodoro y fácil de usar. También es seguro para los animales más jóvenes y para las mascotas mayores, enfermas o embarazadas.</li>
+<li>
+<span style="color: #ff2a00;"> <strong>RECARGABLE:</strong></span><span> </span>Gran capacidad de batería. Puede continuar trabajando 7 días después de la carga.</li>
+<li>
+<span style="color: #ff2a00;"> <strong>RESISTENTE AL AGUA:</strong></span><span> </span>El veterinario recomienda la protección contra pulgas y garrapatas con fórmula repelente al agua que ofrece a sus mascotas protección completa en cualquier momento y en cualquier lugar, incluso cuando llueve, nada o se baña. Tus mascotas pueden disfrutar de su tiempo de juego.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li><span>Color: blanco, negro</span></li>
+<li><span>DC: 5V</span></li>
+<li><span>Potencia: 0.07 W</span></li>
+<li><span>Corriente de trabajo: 1.8 mA</span></li>
+<li><span>Material: ABS</span></li>
+<li><span>Peso: 60 gramos.</span></li>
+<li><span>Tamaño: 44.5 * 42.5 * 65 mm</span></li>
+<li><span>Rango efectivo: 10-60㎡</span></li>
+<li><span>Modo de carga: carga USB</span></li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff8000;"><strong>PAQUETE INCLUYE:</strong></span></p>
+<ul>
+<li><span>1*Protección ultrasónica contra pulgas y garrapatas</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4537371820128</id>
+      <title>Blanco</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>CSBTSQZQ-BAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4537371820128</id>
+      <title>Negro</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>CSBTSQZQ-HEI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4459899551840</id>
+    <published>2019-12-29T09:40:09-05:00</published>
+    <updated>2019-12-29T09:40:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juguete-para-gatos"/>
+    <title>Juguete para Gatos</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/3_bc47f10a-25dc-4b34-bbcf-d383596fc640.jpg?v=1577836297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span style="color: #ff8000;">🐱Un Gato Feliz es Un Gato Sano🐱</span></h2>
+<h3><span style="color: #ff8000;"><strong>Caracteristicas:</strong></span></h3>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Tu gato nunca se aburrirá:</strong> </span>¡Diseño único 360 que permite jugar individual o en grupo! Movimientos impredecibles que mantendrán a tu gato entretenido y entretenido. Tu gato se divertirá infinitamente tratando de predecir su movimiento.</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0077/6096/9779/files/giphy_large.gif?v=1570773854" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Duradero y de larga duración:</strong></span><span> </span>base antideslizante y resistente que soportará gatos destructivos. ¡Nuestro Peek-A-Boo está diseñado para soportar la fuerza bruta del juego de tus gatos!</li>
+</ul>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Diseño interactivo inteligente:</strong></span><span> </span>3 configuraciones de velocidad para darle a tu gato un tiempo de juego saludable y activo. Tu gato nunca se cansará de los movimientos erráticos.</li>
+</ul>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Amigable al Gato:</strong> </span>¡Silencioso y silencioso para que tu gatito no tenga miedo! Apto para todas las razas de gatos de todas las edades.</li>
+</ul>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Atractivo construido:</strong> </span>cebo de ratón mullido intercambiable o cebo de plumas para captar la atención de su gato.</li>
+</ul>
+<h3><span style="color: #ff8000;"><strong>Especificaciones:</strong></span></h3>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Tamaño:</strong></span><span> </span>25 * 25 * 12 cm</li>
+<li>
+<span style="color: #ff2a00;"><strong>Potencia:</strong></span><span> </span>2 * pilas AA (no incluidas)</li>
+</ul>
+<h3><span style="color: #ff8000;"><strong>Paquete Incluye:</strong></span></h3>
+<ul>
+<li>1 ×<span> </span>Juguete para Gatos </li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4459899551840</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.99</s:price>
+      <s:sku>MMWJ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286045880416</id>
+    <published>2019-10-18T00:47:52-05:00</published>
+    <updated>2019-10-18T00:47:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juguete-para-mascotas-globo-rotatorio-electrico"/>
+    <title>Juguete para Mascotas, Globo Rotatorio Eléctrico</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/4_d8df75af-b4a6-4e29-925d-63b4fb76e2d0.jpg?v=1575014357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;">
+<span style="color: #93c47d;"><strong>☆</strong></span><em><strong><span style="color: #e06666;"> Bola de comadreja</span> </strong></em><span style="color: #93c47d;"><strong>☆</strong></span>
+</h3>
+<p style="text-align: center;"><span style="color: #93c47d;">Un producto maravilloso para mejorar la relación entre usted y su mascota.</span></p>
+<h4><span style="color: #ff9900;"><strong>Características:</strong></span></h4>
+<ul>
+<li>Fabricado en <span style="color: #ff0000;">plástico de alta calidad</span>, duradero y ligero.</li>
+<li>
+<span style="color: #ff0000;">Alimentado por batería</span>, voltear hacia adelante y hacia atrás para hacer la caza del castor.</li>
+<li>
+<span style="color: #ff0000;">Tamaño pequeño</span>, adecuado para perros y gatos para barbacoas y juegos.</li>
+<li>
+<span style="color: #ff0000;">Un divertido juguete</span> para jugar el tiempo libre.</li>
+<li>
+<span style="color: #ff0000;">Tamaño portátil</span>, fácil de llevar y usar.</li>
+</ul>
+<p><span><span style="color: #ff9900;"><strong>Especificaciones:</strong></span><br> </span></p>
+<ul>
+<li>Color: se muestra como imagen</li>
+<li>Diámetro de la bola: aproximadamente 8 cm / 3.14 ''</li>
+<li>Longitud de la cola: aproximadamente 21 cm / 8.26 ''</li>
+</ul>
+<p><span><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></span></p>
+<p><span>1 * Juguete para Mascotas, Globo Rotatorio Eléctrico</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286045880416</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CWGQ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286031396960</id>
+    <published>2019-10-18T00:39:43-05:00</published>
+    <updated>2019-10-18T00:39:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/collar-de-proteccion-contra-pulgas-para-mascota"/>
+    <title>Collar de Protección Contra Pulgas para Mascota</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_77902faf-7d03-4ce9-908b-ada454cc321a.jpg?v=1575021663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #ea9999;">La forma más efectiva y segura de </span></h3>
+<h3 style="text-align: center;">
+<span style="color: #ea9999;">proteger a las mascotas </span><span style="color: #ea9999;">de todas las plagas peligrosas</span>
+</h3>
+<p>Un collar inodoro, no graso y fácil de usar que mata y repele las pulgas y garrapatas durante 8 meses.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>Los ingredientes activos se almacenan en el collar, se liberan en bajas concentraciones y se distribuyen sobre su perro durante 8 meses.</li>
+<li>Cadena natural concentrada que previene la infestación de pulgas, garrapatas, garras y mosquitos.</li>
+<li>No contiene ningún insecticida químico, por lo que se puede usar en gatitos, hematites fortificantes y gatos con alergias a los insecticidas convencionales.</li>
+<li>Aplicación: Retire el collar de su bolso. Para desenrollar, tire de la pestaña hacia abajo y deslice el cuello del animal cortando la parte sobrante. Vuelva a colocar el collar después de tres meses de uso.</li>
+<li>100% natural, sin productos químicos, sin parabenos, sin alcohol, pH neutro, fórmula bajo veterinaria y no probado en animales en su fineza</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Color: gris</li>
+<li>Longitud: 57 cm (ajustable)</li>
+<li>Duración: hasta 8 meses (también en agua).</li>
+<li>Material: 30% de aceite esencial y 70% de TPE</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 x Collar de Protección Contra Pulgas para Mascota</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031396960</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CQWQ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286030643296</id>
+    <published>2019-10-18T00:39:13-05:00</published>
+    <updated>2019-10-18T00:39:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/guantes-de-masaje-para-mascotas-perros-gatos-1-par"/>
+    <title>Guantes de Masaje para Mascotas, Perros&amp;Gatos - 1 par</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/61_X6JZbjqL._SL1080.jpg?v=1575018086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<span style="color: #e06666;"><strong>Tenemos gran posibilidad de solución para resolver sus problemas de vello.</strong></span><br><span style="color: #e06666;"><strong>Ofrece un masaje cómodo y relajante para tus mascotas.</strong></span>
+</div>
+<div></div>
+<ul>
+<li><span>❤  <span style="color: #ff0000;"><strong>Guantes profesionales para el cuidado de mascotas:</strong></span> elimine de manera efectiva el pelo suelto, el polvo y la suciedad de su mascota. La malla en la parte posterior del cepillo le permite respirar, en lugar de hacer que sus manos sudoren fácilmente, manteniendo la piel limpia y suave.</span></li>
+<li>❤<strong><span style="color: #ff0000;"> Masaje cómodo: </span></strong><span style="color: #000000;">nuestros guantes de cepillo suave para mascotas brindan baños y masajes cómodos para sus mascotas y promueven la circulación sanguínea. El forro de malla hace que sea más rápido para secar el cabello de tu mascota después del baño. Mantiene a tus mascotas limpias y saludables.</span>
+</li>
+<li>❤<strong><span style="color: #ff0000;"> Fácil de limpiar: </span></strong><span style="color: #000000;">la almohadilla de silicona ayuda a mantener el pelaje suelto y usted puede quitarse el cabello suelto. Mantenga su casa ordenada. Es lavable a mano, por lo que puede lavarlo con agua jabonosa y dejar que se seque al aire.</span>
+</li>
+<li>❤<strong><span style="color: #ff0000;"> Imita el toque de su mano para un masaje: </span></strong><span style="color: #000000;">este par de guantes para el cuidado de mascotas diseñados con cinco dedos le permite llegar a la mayoría de las áreas de sus mascotas libremente. Garantiza un cuidado y masaje más flexible y eficiente para sus mascotas.</span>
+</li>
+<li>❤<strong><span style="color: #ff0000;"> Ajustable y cómodo:</span></strong><span style="color: #ff0000;"><span style="color: #000000;"> el guante con cierre de velcro ajustable para adaptarse a todas las formas y tamaños de las manos. Para pelo corto o pelo corto, ideal para perros o gatos. La eliminación del vello más fácil del cabello suelto y la eliminación de la caspa y la suciedad.</span></span>
+</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especiación:</strong></span><br>Tipo: Guante de cuidado de mascotas<br>Material del cepillo: silicona suave<br>Tamaño: 22 x 15 x 8 cm</p>
+<p><span style="color: #ff9900;"><strong>Características：</strong></span></p>
+<p>★ correa de velcro ajustable<br>★ diseño de cinco dedos<br>★ Forro de malla transpirable y de secado rápido.<br>★ Guante de cuidado flexible y silicona suave.<br>★ Lavable a mano y reutilizable.</p>
+<p><span style="color: #ff9900;"><b>Paquete Incluido:</b></span></p>
+<p>Guantes de Masaje para Mascotas, Perros&amp;Gatos - 1 par</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286030643296</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>GG001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286028349536</id>
+    <published>2019-10-18T00:37:38-05:00</published>
+    <updated>2019-10-18T00:37:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/alfombrilla-antideslizante-e-impermeable-para-gatos"/>
+    <title>Alfombrilla Antideslizante e Impermeable para Gatos</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_grande_5cffdcf1-cc4c-4360-956c-b749923eb1e1.jpg?v=1575021566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            25.99 - 29.99
+            <a href="https://idealdia.com/products/alfombrilla-antideslizante-e-impermeable-para-gatos">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><em><span style="color: #e06666;"><strong>Si tiene gatos, sabe ciertamente lo molesto que puede ser después de que usan el inodoro, la arena higiénica de los gatos ha caído por todas partes. </strong></span></em></p>
+<p><span style="color: #ff9900;"><strong>¡Es hora de cambiar!</strong></span></p>
+<h3>
+<em><strong><span style="color: #e06666;">Mantenga el piso limpio</span></strong></em><strong>,</strong><em><strong> </strong></em><strong>¡<span style="color: #444444;">Ya no más basura para gatos en toda la casa después de usar nuestra esterilla para gatos! Y tu puedes</span> <span style="color: #e06666;"><em>r</em><em>eciclar la arena para gatos que cae</em></span></strong><span style="color: #444444;"><strong>, a</strong><strong>horre dinero y sea respetuoso con el medio ambiente.</strong></span>
+</h3>
+<p style="text-align: left;"><img alt="" src="//cdn.shopify.com/s/files/1/0010/8730/7837/files/10_large.jpg?v=1537344165" style="display: block; margin-left: auto; margin-right: auto; float: none;"></p>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>FÁCIL DE LIMPIAR:</strong></span> La alfombrilla para gatos es grande y evita que los desechos se derramen o se extiendan por el piso para <span style="color: #ff9900;">minimizar la propagación de bacterias y maximizar la limpieza</span>. Es completamente impermeable en caso de accidentes, atrapa la suciedad entre dos capas de goma, mantiene su casa limpia y funciona de manera efectiva con todos los tipos de arena para gatos.</li>
+<li>
+<span style="color: #ff0000;"><strong>DISEÑO ÚNICO:</strong></span> Diseñada por Diamond Honeycomb, la alfombrilla sostiene pequeños trozos de arena que han caído entre las capas y <span style="color: #ff9900;">atrapa automáticamente los desechos</span> cuando los gatos dejan su bandeja sanitaria.</li>
+<li>
+<span style="color: #ff0000;"><strong>SUPERFICIE SUAVE:</strong></span> El caucho duradero es seguro, <span style="color: #ff9900;">no tóxico y respetuoso absoluto con los animales</span>. Y como es extra durable y suave en sus pequeños pies acolchados, la superficie lisa y cómoda hará que sea fácil para tus amigos peludos entrar y salir.</li>
+<li>
+<span style="color: #ff0000;"><strong>MÁS APLICACIÓN:</strong></span> Cada tamaño de alfombra soporta <span style="color: #ff9900;">todo tipo de arena higiénica para gatos</span>, incluyendo arcilla, cristal, maíz, grumos, trigo y pellets!</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Color: negro</li>
+<li>2 Tamaño: S / M (Consulte las imágenes de arriba para el tamaño específico).</li>
+<li>Forma: forma de gato / rectangular</li>
+<li>Material: caucho TPE</li>
+</ul>
+<ul></ul>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong></p>
+<ul>
+<li>1 × Alfombrilla Antideslizante e Impermeable para Gatos</li>
+</ul>
+<p><strong><span style="color: #ff0000;">Nota:</span></strong></p>
+<ol>
+<li>Cuando usted consigue nuestra estera, puede tener un nuevo olor de goma. Deje el aire afuera por unos días para eliminarlo.</li>
+<li>La alfombra impermeable está hecha de goma blanda que es fácil de lavar con agua y detergente.</li>
+<li>Deje secar al aire y evite la luz solar directa para proteger el material.</li>
+</ol>
+<ol></ol></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028349536</id>
+      <title>S / Rectangular</title>
+      <s:price currency="EUR">25.99</s:price>
+      <s:sku>CMMSD001-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028349536</id>
+      <title>S / Forma de Gato</title>
+      <s:price currency="EUR">25.99</s:price>
+      <s:sku>CMMSD002-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028349536</id>
+      <title>M / Rectangular</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>CMMSD001-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028349536</id>
+      <title>M / Forma de Gato</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>CMMSD002-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286026252384</id>
+    <published>2019-10-18T00:36:27-05:00</published>
+    <updated>2019-10-18T00:36:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/protector-de-puerta-plegable-para-perros"/>
+    <title>Protector de Puerta Plegable para Perros</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_89cde901-62c4-41ec-be53-e4c2f268a438.jpg?v=1575020300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #93c47d;"><em><strong>☀ La Puerta Mágica ☀</strong></em></span></h3>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>MAGIC PET GATE CUIDARÁ A TUS MASCOTAS:</strong></span> esta red de nylon tejida con perros y gatos te ayudará a llevar a tus mascotas a donde quieren que se queden. Ya no te preocupes por su seguridad, puedes evitar que se vayan de la casa ahora. También puede crear una sección privada para ellos si tiene visitantes.</li>
+<li>
+<span style="color: #ff0000;"><strong>SUPERDURABLE Y PORTÁTIL:<br></strong></span> está hecha de tela de nylon, que es resistente y parcialmente translúcida, ha sido probada y probada y soporta el abuso de las mascotas. Esto es perfecto para sus gatos y perros, puede colocarlo en cualquier lugar de la casa, por puertas, entre paredes, escaleras, dormitorios, cocinas, comedores o incluso en el exterior. También es fácil retirarlo total o parcialmente si alguien tiene que pasar.</li>
+<li>
+<span style="color: #ff0000;"><strong>FÁCIL INSTALACIÓN:</strong></span> Cada juego consta de una tela, dos varillas estirables y cuatro ganchos adhesivos y está listo para usar. No requiere herramientas y es muy ligero para que cualquiera pueda instalar esta puerta para mascotas.</li>
+<li>
+<span style="color: #ff0000;"><strong>DISEÑO ELEGANTE Y ALMACENAMIENTO FÁCIL:</strong></span> cuando no lo está utilizando, puede plegarlo fácilmente y guardarlo donde sea necesario. Además, casi no ocupa espacio. El diseño es muy moderno y elegante, por lo que solo agregará belleza a su casa mientras hace su gran trabajo.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>AJUSTABLE y pasos a utilizar:</strong></span></p>
+<p>Ajuste las dos barras de metal y luego coloque las dos barras en el túnel en ambos lados. Traiga y fije los cuatro ganchos adhesivos donde se instalará, luego simplemente cuelgue la red tejida en los cuatro ganchos y ¡listo!</p>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span><br><span>1 x Protector de Puerta Plegable para Perros</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286026252384</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.99</s:price>
+      <s:sku>CWW001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286025760864</id>
+    <published>2019-10-18T00:36:06-05:00</published>
+    <updated>2019-10-18T00:36:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juguete-electrica-de-bola-rodante-automatica-para-perros-y-gatos"/>
+    <title>Juguete Eléctrica de Bola Rodante Automática para Perros y Gatos</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/0_grande_466dfac9-3f44-4ae7-bfeb-0b3f10aaffad.jpg?v=1575020691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #6aa84f;"><em>Consigue un amigo nuevo para la mascota</em></span></h3>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>[Auto-pelota ruede] </strong></span>Con el dispositivo de rodadura centrífugo en el interior, esta bola mágica de rodillos continúa moviéndose y girando la dirección mientras se bloquea automáticamente.</li>
+<li>
+<strong><span style="color: #ff0000;">[Material seguro]</span></strong> El color exterior de las tapas está hecho de un material de alta calidad, limpio y ecológico que es seguro para sus mascotas. No se decolora y no se deforma, fácil de lavar. 4 cubiertas son fáciles de cambiar.</li>
+<li>
+<span style="color: #ff0000;"><strong>[Calidad duradera]</strong></span> El dispositivo de rodadura centrífuga está completamente cubierto y no se disuelve fácilmente. Al mismo tiempo, la bola de ABS duradera es resistente a la masticación ya la caída, no dude en utilizarla.</li>
+<li>
+<span style="color: #ff0000;"><strong>A las mascotas les gusta ver lo que se mueve</strong></span>, especialmente la pequeña bola que se mueve constantemente. Además, la colorida cubierta oculta atrae a su mascota. Cuando juegas con la pelota, puedes fortalecer tanto el cuerpo como la inteligencia de tu mascota.</li>
+</ul>
+<p><span style="color: #000000;"><span style="color: #ff0000;"><strong>Nota: </strong></span></span>Mientras juega la pelota, mantenga el piso limpio y reemplace la nueva funda de felpa para la seguridad de las mascotas.</p>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Energía clasificada: 2.5 (W)</li>
+<li>Potencia (W): &lt;500</li>
+<li>Voltaje (V): 1.5V</li>
+<li>Baterías: baterías AA * (no incluidas)</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>1 x Bola de balanceo automática</li>
+<li>4 x Cubiertas (4 colores GRATIS)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286025760864</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.99</s:price>
+      <s:sku>ACWCC001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286021304416</id>
+    <published>2019-10-18T00:32:55-05:00</published>
+    <updated>2019-10-18T00:32:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-de-guante-de-pelo-para-mascotas"/>
+    <title>Cepillo de Guante de Pelo para Mascotas</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/2_57f7584e-57ce-401c-9d97-964c05cfae6b.jpg?v=1575022297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            12.99 - 19.99
+            <a href="https://idealdia.com/products/cepillo-de-guante-de-pelo-para-mascotas">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>Masaje para la Mascota</strong></em></span></h3>
+<p><span style="color: #93c47d;"><em><strong>Las puntas de silicona de primera calidad eliminan eficazmente el pelo suelto, el polvo y la suciedad de su mascota.</strong> </em></span></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Las puntas de silicona</strong></span> para el cuidado rápido y suave de mascotas eliminan eficazmente el pelo suelto, el polvo y la suciedad de su mascota.</li>
+<li>
+<span style="color: #ff0000;"><strong>Masaje cómodo:</strong></span> Nuestros guantes de cepillo para mascotas con suaves puntas de silicona ofrecen un cómodo baño y masaje para sus mascotas y promueven la circulación sanguínea. Mesh-Liner hace que el secado del pelo de su mascota sea más rápido después del baño. Mantiene a sus mascotas limpias y saludables.</li>
+<li>
+<span style="color: #ff0000;"><strong>Asiento Universal y Cómodo</strong></span> ajustable, nuestro cepillo proporciona un ajuste cómodo para muñecas de diferentes tamaños sin estar demasiado lejos.</li>
+<li>
+<span style="color: #ff0000;"><strong>Cepillo Flexible de Guantes para Mascotas</strong></span> diseñado ergonómicamente para limpiar, bañar y masajear sin esfuerzo a sus mascotas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de Limpiar y Lavar: </strong></span>La almohadilla de silicona ayuda a mantener la capa suelta para que pueda pelar adecuadamente el cabello suelto. 2 piezas de cepillos de manoplas con soporte de diseño lavable con uso constante</li>
+</ul>
+<p style="text-align: center;"> </p>
+<p style="text-align: left;"><img alt="" src="//cdn.shopify.com/s/files/1/0010/8730/7837/files/12.27_f5cb396b-ec15-45d9-a72c-54464835e449_large.gif?v=1545892777" style="float: none; display: block; margin-left: auto; margin-right: auto;"></p>
+<ul></ul>
+<p><span style="color: #ff0000;"><strong>AMIGABLE CON EL MEDIO AMBIENTE y SALUDABLE: </strong><span style="color: #000000;">Libre de materiales que pueden causar daño a la piel; el caucho suave proporciona un suave masaje y cuidado sin necesidad de quitar o rascar la piel con dolor. Con estos guantes para el cuidado de la piel, usted consigue evitar por completo las reacciones alérgicas de su animal.</span></span></p>
+<p><span style="color: #ff9900;"><b>Paquete Incluido:</b></span></p>
+<p>2 Especificaciones: 1 * Cepillo para mascotas ( para mano derecha)</p>
+                                2 * Cepillo para mascotas (1 par, derecha e izquierda)</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021304416</id>
+      <title>Mano Derecha</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>ST010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021304416</id>
+      <title>1 Par (derecha e izquierda)</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>ST011</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286015340640</id>
+    <published>2019-10-18T00:28:41-05:00</published>
+    <updated>2019-10-18T00:28:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/estera-fresca-para-mascotas"/>
+    <title>Estera Fresca para Mascotas</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_4b7bec25-a55c-4be2-b136-31aa28bd700a.jpg?v=1575013673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            16.99 - 32.99
+            <a href="https://idealdia.com/products/estera-fresca-para-mascotas">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span style="color: #ff9900;"><strong>-&gt; Envío Gratis</strong></span></h3>
+<h3 style="text-align: center;"><em><span style="color: #e06666;">✨Adecuado para perros y gatos<strong>✨</strong></span></em></h3>
+<p>Nuestra <em><span style="color: #e06666;">Estera Fresca para Mascotas</span></em> está hecha de material para bebé. Este verano trae a tus amigos peludos una experiencia diferente. Por supuesto, no sólo sirve como Estera Fresca para Mascotas, sino también como almohada, cojín de asiento. Nuestra esterilla multiusos es universal para mascotas y personas.😜</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0102/9082/3249/files/Q_large.jpg?v=1564023916" alt="" width="296" height="296" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h3><strong><span style="color: #ff9900;">Características:</span></strong></h3>
+<ul>
+<li>🎁La Estera Fresca para Mascotas se puede colocar directamente en el piso para permitir que el perro duerma, toque el frío, se use en el nido del perro o como almohada y cojines del propietario.</li>
+<li>
+<span>🎁</span><span style="color: #ff0000;"><strong>Tecnología de enfriamiento:</strong></span> La sensación de frescor de la tela es que la tela regula la temperatura al absorber el calor, y el factor de enfriamiento le da a la piel una sensación fresca de bienestar.</li>
+<li>
+<span>🎁<span style="color: #ff0000;"><strong>Diseño:</strong></span> </span>El diseño de estera de múltiples lados calma y evita el sobrecalentamiento y el secado en el calor.</li>
+<li>
+<span>🎁</span>El tapete flexible se pliega, mantiene su forma a lo largo del tiempo y se limpia durante años.</li>
+<li>
+<span>🎁</span><span style="color: #ff0000;"><strong>Limpieza completa</strong></span>, lavable a máquina, lavable a mano, lavable a máquina</li>
+</ul>
+<ul></ul>
+<h3><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></h3>
+<ul>
+<li>
+<strong> Material:</strong> tela como hielo</li>
+<li>
+<strong>Color:</strong> azul, rosa</li>
+<li><strong>Tamaño: </strong></li>
+</ul>
+<ul></ul>
+<div><strong><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/123_3afd7c87-98e9-44a0-9c1a-ecadea0c7258_large.jpg?v=1564207328" alt="" style="display: block; margin-left: auto; margin-right: auto;"></strong></div>
+<h3><span style="color: #ff9900;"><b><strong>Paquete Incluido: </strong></b></span></h3>
+<p><span>1 * Estera Fresca para Mascotas</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015340640</id>
+      <title>Azul / S</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>CWFHD-S-LAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015340640</id>
+      <title>Azul / M</title>
+      <s:price currency="EUR">21.99</s:price>
+      <s:sku>CWFHD-M-LAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015340640</id>
+      <title>Azul / L</title>
+      <s:price currency="EUR">26.99</s:price>
+      <s:sku>CWFHD-L-LAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015340640</id>
+      <title>Azul / XL</title>
+      <s:price currency="EUR">32.99</s:price>
+      <s:sku>CWFHD-XL-LAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015340640</id>
+      <title>Rosa / S</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>CWFHD-S-FENSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015340640</id>
+      <title>Rosa / M</title>
+      <s:price currency="EUR">21.99</s:price>
+      <s:sku>CWFHD-M-FENSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015340640</id>
+      <title>Rosa / L</title>
+      <s:price currency="EUR">26.99</s:price>
+      <s:sku>CWFHD-L-FENSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015340640</id>
+      <title>Rosa / XL</title>
+      <s:price currency="EUR">32.99</s:price>
+      <s:sku>CWFHD-XL-FENSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

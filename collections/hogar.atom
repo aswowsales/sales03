@@ -1,0 +1,2284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://idealdia.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://idealdia.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://idealdia.com/collections/hogar.atom"/>
+  <title>idealdia</title>
+  <updated>2020-03-27T03:38:45-05:00</updated>
+  <author>
+    <name>idealdia</name>
+  </author>
+  <entry>
+    <id>https://idealdia.com/products/4562772688992</id>
+    <published>2020-03-27T03:38:45-05:00</published>
+    <updated>2020-03-27T03:38:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-de-silicona-para-lavar-platos"/>
+    <title>Cepillo de Silicona para Lavar Platos</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_33d9fefe-7822-4084-ad02-edaa19612cd5.jpg?v=1585298333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            12.99 - 19.99
+            <a href="https://idealdia.com/products/cepillo-de-silicona-para-lavar-platos">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong>&gt;&gt; Envío Gratis</strong></span></p>
+<p>Nuestra nueva herramienta multiuso para cocina tiene más de mil cerdas antideslizantes y duraderas que se pueden usar para eliminar eficazmente la suciedad y la mugre. ¡Puede usarse como una esponja de cocina ultra limpia, un abrebotellas antideslizante, un salvamanteles, un limpiador de toallas de baño y más de lo que puedas imaginar!</p>
+<p><span style="color: #ff8000;"><strong>CARACTERISTICAS: </strong></span></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Universal:</strong> </span>se puede usar de cualquier forma que pueda imaginar: como una esponja de cocina ultra limpia, soporte para manijas de olla / sartén, posavasos, abrebotellas antideslizante, limpiador de frutas / verduras, limpiador de pelo para mascotas, esponja de limpieza de maquillaje, cuerpo de baño depurador, etc.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Duradero:</strong> </span>esta es su alternativa antibacteriana y sin olor en comparación con las esponjas normales. Está hecho de silicona de grado alimenticio que no permite el crecimiento de bacterias, NUNCA huele y dura AÑOS.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Limpieza a cara doble:</strong> </span>¡Cada lado tiene más de 1000 "dedos" de limpieza individuales que hacen el trabajo duro por usted! Y debido a que son súper flexibles, pueden entrar incluso en los espacios más pequeños y estrechos. Ahora puede limpiar áreas que nunca antes había podido alcanzar.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Resistencia a temperaturas altas:</strong></span> puede soportar temperaturas de hasta 230 ° C / 450 ° F, lo que permite su uso como posavasos o para sostener sartenes / ollas de calentamiento.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Siempre fresco y limpio:</strong> </span>puedes desinfectarlos poniéndolos en el lavavajillas, microondas o incluso en agua hirviendo, ¡para que siempre tengas un cepillo limpio y fresco!</li>
+</ul>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"> <strong>Color:</strong> </span>rojo, amarillo, verde.<br>
+</li>
+<li>
+<span style="color: #ff2a00;"> <strong>Material:</strong> </span>silicona 100% de grado alimenticio<br>
+</li>
+<li>
+<span style="color: #ff2a00;"> <strong>Tamaño:</strong></span><span> </span>12.5 * 7 * 1.6cm / 4.92 "* 2.75" * 0.63 "</li>
+</ul>
+<p><strong><span style="color: #ff8000;">PAQUETE INCLUYE:</span></strong></p>
+<p><strong>1/3 *<span> </span><span><em>Cepillo de silicona para lavar platos de cocina</em></span></strong></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>ROJO+AMARILLO+VERDE(3 PIEZAS)</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>DGNHM-SANSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>ROJO</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-HONG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>AMARILLO</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-JIN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>VERDE</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-LV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4561910956128</id>
+    <published>2020-03-27T01:45:49-05:00</published>
+    <updated>2020-03-27T01:45:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/moldeos-de-tortilla-antiadherente-de-silicona-reutilizable"/>
+    <title>Moldeos de Tortilla Antiadherente de Silicona Reutilizable</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_d6f46519-76db-47bd-9677-a593b3a4306b.jpg?v=1585291559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>-&gt; Envío Gratis</strong></span></p>
+<p>Este producto se puede usar para hacer pasteles y para decorar pizza, pan, mousse, gelatina, chocolate, budín, pasteles, etc. Puedes hacer los pasteles hermosos y atractivos de una manera simple como el pastelero</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> [RÁPIDO Y AHORRE TIEMPO]</strong></span> Las formas de panqueque tienen 7 anillos redondos, alimentos separados de cada anillo, el diámetro es de 3 pulgadas, una forma fantástica y rápida de hacer tortilla perfectas</li>
+<li>
+<span style="color: #ff0000;"><strong>[SILICONA DE GRADO ALIMENTARIO]</strong></span> 100% de calidad premium pura, sin desvanecimiento, ecológico, no tóxico, manera rápida y fácil de hacer <span>t</span><span>ortilla perfectas</span>
+</li>
+<li>
+<span style="color: #ff0000;"><strong>[FÁCIL DE VOLTAR y NO-STICK]</strong></span><span> </span>Nuevo diseño de pequeños orificios de aire alrededor de un simple giro y 2 orejas extendidas para evitar alimentos, evitar quemaduras, silicona flexible</li>
+<li>
+<span style="color: #ff0000;"><strong>[SEGURO PARA EL USO]</strong></span> Amplio rango de temperatura de -104 a 446 ℉ (-40 + 220 ℃), lavavajillas, microondas, apto para horno, tamaño: 40 * 23 * 1.5 cm, se adapta a la sartén y la parte superior de 10 "</li>
+<li>
+<span style="color: #ff0000;"><strong>[FÁCIL DE LIMPIAR Y AHORRAR]</strong> </span>Después de su uso, el molde de silicona se puede limpiar fácilmente con agua caliente o se puede colocar en el lavavajillas. En el armario, ocupa muy poco espacio, porque puedes apilar diferentes formas muy bien.</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Material: silicona de grado alimenticio</li>
+<li>Color: rojo (como color de la imagen)</li>
+<li>Peso: 150g</li>
+<li>Tamaño: 39.5CM * 23CM * 1.5CM</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluye:</strong></span></p>
+<p>1 * Moldeos de Tortilla Antiadherente de Silicona Reutilizable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4561910956128</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.99</s:price>
+      <s:sku>JDMJ-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4551317684320</id>
+    <published>2020-03-20T02:10:38-05:00</published>
+    <updated>2020-03-20T02:10:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juguete-de-futbolin"/>
+    <title>Juguete de Futbolín</title>
+    <s:type>Juguete</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_01893d6f-f2f3-484e-92a3-bf15013f7864.jpg?v=1584688246"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Juguete<br>
+        <strong>Precio: </strong>
+            27.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong>&gt;&gt; Envío Gratis</strong></span></p>
+<h3><span style="color: #ff8000;"><strong>Caracteristicas:</strong></span></h3>
+<p style="text-align: center;"><span style="color: #00aaff;"><strong>⚽Juguete de Futbolín⚽</strong></span></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li><span class="a-list-item"><strong><span style="color: #ff2a00;">【JUGUETES DE MESA】</span></strong>⚽2020 nuevo juguete de futbolín, muy entretenido. El tamaño compacto facilita su almacenamiento y transporte, para que pueda jugar y disfrutar en cualquier lugar de la mesa o en una superficie plana. Este mini futbolín no ocupa la mayor parte del espacio y el espacio en las mesas caras. Puedes usar los minijuegos en las actividades de la fiesta para activar la atmósfera.</span></li>
+<li><span class="a-list-item"><strong><span style="color: #ff2a00;">【JUGUETE PARA PADRES E HIJOS】</span></strong>⚽ Mejore la coordinación mano-ojo y la capacidad de respuesta de los niños. La apariencia linda y el tamaño pequeño pueden ser divertidos y atractivos para los niños. Los padres juegan con sus hijos en casa, pasan tiempo con ellos y mejoran su relación con su hijo. Es perfecto o aumenta la amistad entre su hijo y amigos. ¡Este juguete también es la mejor opción para regalos de cumpleaños y regalos de Navidad!</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>【CONTIENE JUGUETES DE FÚTBOL】</strong></span>⚽Contiene 2 mini accesorios de fútbol y campo de fútbol. 2 x puertas laterales, 2 x media pensión, 4 manijas de control, 2 x porterías de fútbol, 2 balones de fútbol. Este juguete para niños restaura completamente los elementos básicos del fútbol y le permite a su hijo jugar juegos de fútbol en casa. Es conveniente llevarlo y le permite a su hijo jugar con amigos, familiares y compañeros de clase en cualquier momento y en cualquier lugar.</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>【MATERIAL DE JUGUETE】</strong></span>⚽El futbolín hecho de plástico de calidad alta es duradero. El material plástico es ecológico y reciclable. Incluso si el juguete se juega durante mucho tiempo, no daña el cuerpo humano y el medio ambiente.</span></li>
+</ul>
+<div><strong><img src="https://cdn.shopify.com/s/files/1/0310/6213/0823/files/333_480x480.gif?v=1582809382" style="display: block; margin-left: auto; margin-right: auto;"></strong></div>
+<p><span class="a-list-item"><br></span></p>
+<h3>
+<span style="color: #ff8000;"><strong>Especificaciones:</strong></span><br>
+</h3>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Material básico:</strong> </span>Plástico ABS</li>
+<li><span><span style="color: #ff2a00;"><strong>Tamaño:</strong> </span>38 * 18 * 7,5 cm (15 x 7,1 x 3 Pulgadas)</span></li>
+</ul>
+<h3>
+<span style="color: #ff8000;"><strong>Paquete Incluye:</strong></span><br>
+</h3>
+<ul>
+<li>1 × Juguete de Futbolín</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4551317684320</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">27.99</s:price>
+      <s:sku>ZMZQ-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4551305429088</id>
+    <published>2020-03-20T01:52:36-05:00</published>
+    <updated>2020-03-20T01:52:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/plantillas-artisticas-practicas-12-hojas-juego"/>
+    <title>Plantillas Artísticas Prácticas (12 Hojas / Juego)</title>
+    <s:type>Juguete</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_c828135f-70ce-4265-96e4-0b7dfac53ac1.jpg?v=1584687169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Juguete<br>
+        <strong>Precio: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: left;"><span style="color: #ff8000;">&gt;&gt; Envío Gratis</span></h3>
+<h3 style="text-align: center;"><span style="color: #00aaff;">✨Plantillas para Colorear🎨</span></h3>
+<h4><span style="color: #ff2a00;">🧐Si dibujar no es lo tuyo ... ¡no te preocupes! ¡La página para colorear es la forma más fácil de ser creativo sin tener que dibujar! 😘</span></h4>
+<p><img src="https://cdn.shopify.com/s/files/1/0243/8945/1842/files/1_861e6f8c-83e5-44e6-94c5-37a36580dd72_480x480.gif?v=1584513877" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h3 style="text-align: left;"><span style="color: #ff8000;">Característica:</span></h3>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>DISEÑOS INTRICADOS ALTAMENTE DEFINIDOS: </strong></span><span>Patrones de corte láser con una variedad de diseños elegantes para elegir. Esto le brinda muchas posibilidades creativas para dejar volar su imaginación y desarrollar su máxima creatividad. Combina los patrones para crear un toque artístico y crea impresionantes obras de arte.</span>
+</li>
+<li>
+<span style="color: #ff2a00;"><strong>SEGURO Y FÁCIL DE USAR PARA NIÑOS: </strong></span><span>Inspira a los niños a ser creativos y crear diseños geniales. Simplemente coloque el patrón en la superficie (papel, madera o tela) y rastrearlo, pintarlo o rociarlo. Trazar con lápiz, aplicar con pinceles de esponja o con spray de aire. Estos patrones no tienen objetos afilados y, por lo tanto, definitivamente son seguros para los niños.</span>
+</li>
+<li>
+<span style="color: #ff2a00;"><strong>HAZ LAS PROPIAS OBRAS: </strong></span>Perfecto para proyectos de arte, álbumes de recortes, marcadores, tarjetas de felicitación y más. También aplicable a tela, madera y pintura.</li>
+</ul>
+<p><strong><span><img src="https://cdn.shopify.com/s/files/1/0095/6733/8543/files/main_5a884bcd-c748-4342-b435-539d6e9d4246_480x480.jpg?v=1583215825" width="249" height="296" style="display: block; margin-left: auto; margin-right: auto;"></span></strong></p>
+<ul>
+<li><span><span style="color: #ff2a00;"><strong>AMBIENTALMENTE AMIGABLE: </strong></span>Patrones de plástico gruesos, flexibles y resistentes que puede usar repetidamente después del lavado. Se pueden limpiar fácilmente con agua y jabón y están especialmente diseñados para un uso a largo plazo.</span></li>
+</ul>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0095/6733/8543/files/diy_480x480.jpg?v=1583215905" width="251" height="321" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<h4><span style="color: #ff8000;">Especificaciones:</span></h4>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Material:</strong> </span>PET</li>
+<li>
+<span style="color: #ff2a00;"><strong>Tamaño:</strong> </span>21 x 29,7 cm</li>
+<li>
+<span style="color: #ff2a00;"><strong>Color:</strong> </span>Leche blanca translúcida</li>
+<li>
+<span style="color: #ff2a00;"><strong>Peso:</strong> </span>200 g / Set</li>
+<li>
+<span style="color: #ff2a00;"><strong>Conjuntos de diseño disponibles:</strong> </span>Padres / Niño + Deportes + Graduación + Baile + Tiburón + Delfín + Animal + Ciervo Lobo + Dinosaurios + Coco + Árbol + Flores</li>
+</ul>
+<h4><span style="color: #ff8000;">Paquete Incluye:</span></h4>
+<ul>
+<li>1 * Plantillas Artísticas Prácticas (12 Hojas / Juego)</li>
+</ul>
+<h4><span style="color: #ff2a00;">Nota:</span></h4>
+<ul>
+<li>¡Vendemos juntos como un conjunto, que incluye 12 hojas！</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4551305429088</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>KSHTMB-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4542087004256</id>
+    <published>2020-03-16T02:51:07-05:00</published>
+    <updated>2020-03-16T02:51:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/caja-portatil-de-jabon"/>
+    <title>Caja Portátil de Jabón, 20 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_453118fe-b326-4129-a740-1d4e122cd418.jpg?v=1584345082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            12.99 - 17.99
+            <a href="https://idealdia.com/products/caja-portatil-de-jabon">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong><b>--&gt; </b></strong><strong><b>Envío Gratis</b></strong></span></p>
+<div style="text-align: center;">
+<span style="color: #ff2a00;"><strong>El jabón único para viajar</strong></span><br><span style="color: #ff2a00;"><strong>Portátil y práctico</strong></span>
+</div>
+<p><span><strong><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/01_36527619-23a2-4503-baa7-7493289935ac_large.gif?v=1558076020" alt="" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<p>El jabón es muy adecuado para viajar. Y el jabón es muy ligero y pequeño y por eso es portátil. El sabor es muy suave y la función del jabón también es muy efectiva. Si vas de viaje, puedes llevar el jabón contigo.</p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/x1_e06242c8-0c06-440e-a3b5-45c3478a484e_grande.jpg?v=1558076116" alt=""></span></p>
+<p><span style="color: #ff8000;"><strong>CARACTERISTICAS: </strong></span></p>
+<ul>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>Es limpio y fácil de transportar</strong> </span>y una pieza se puede lavar. Si usa jabón de papel, siempre estará bien equipado si lo deja en baños públicos. Va con cualquier pantalón o bolso.</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>El jabón es ideal</strong> </span>para lavarse las manos mientras viaja, viajar, acampar, hacer senderismo, asar a la parrilla o para actividades al aire libre.</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>Tres tipos de fragancias:</strong> </span>rosa (rosa), lavanda (púrpura), té verde (verde).</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>Práctico y fácil de usar:</strong> </span>el jabón desechable se puede usar en lugares sin jabón. Simplemente sostenga la barra de jabón con los dedos secos y límpiela con agua entre las manos. La jabonera se disuelve completamente durante el uso para que pueda lavarse bien las manos</span></li>
+</ul>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/x2_e9f3eab3-0bd2-4db9-80fa-89b46c9157dc_grande.jpg?v=1558076140" alt=""></span></p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/x3_8f688b82-43c7-4e75-a98f-f87d9a489abc_grande.jpg?v=1558076158" alt=""></span></p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/x4_7db07f5a-85d1-4783-911e-fbaf704aa094_grande.jpg?v=1558076177" alt=""></span></p>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES: </strong></span></p>
+<ul>
+<li><span><span style="color: #ff2a00;"><strong>Materia:</strong></span> plástico y jabón<br></span></li>
+<li><span><span style="color: #ff2a00;"><strong>Color:</strong> </span>azul, amarillo, rosa, violeta</span></li>
+<li><span><span style="color: #ff2a00;"><strong>Pesot: </strong></span>15G</span></li>
+<li><span><span style="color: #ff2a00;"><strong>Tamaño: </strong></span>6.5CM* 4.5CM</span></li>
+</ul>
+<p><span style="color: #ff8000;"><strong>Paquete Incluye:</strong></span><br></p>
+<p><span>1 * Caja Portátil de Jabón (Selección automática de color) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4542087004256</id>
+      <title>5</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>BXFZP-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4542087004256</id>
+      <title>10</title>
+      <s:price currency="EUR">17.99</s:price>
+      <s:sku>BXFZP-0002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4541978050656</id>
+    <published>2020-03-16T01:32:30-05:00</published>
+    <updated>2020-03-16T01:32:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/1-juego-de-bloques-de-madera"/>
+    <title>1 Juego de Bloques de Madera</title>
+    <s:type>Juguete</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_15fe43fe-4667-4566-aad6-42da6b1d8f75.jpg?v=1584340359"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Juguete<br>
+        <strong>Precio: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><b>&gt;&gt; Envío Gratis</b></span><br></p>
+<p><span style="color: #ff2a00;"><strong>DESARROLLA LAS HABILIDADES DE TUS HIJOS</strong></span></p>
+<p>Promueva la imaginación, la creatividad, la imaginación espacial y el pensamiento lógico para niños de 3 años.<br><br>Este elemento es una serie de bloques de construcción. Los bloques de madera  con pintura ecológica son seguros para que jueguen los niños. Divertido e interesante para tu pequeño. Es ideal para desarrollar coordinación mano-ojo, razonamiento y creatividad. Un gran regalo para los niños.</p>
+<h3><span style="color: #ff8000;"><b>Característica:</b></span></h3>
+<ul>
+<li>Lindos bloques de formas de animales en diferentes colores, ideales para que los bebés mejoren la capacidad cognitiva del color.</li>
+<li>Excelente para desarrollar coordinación mano-ojo, pensamiento lógico y creatividad.</li>
+<li>Use materiales de alta calidad y una superficie lisa sin púas, los bebés nunca lastiman la piel sensible.</li>
+<li>Divertido e interesante para tu pequeño.</li>
+<li>El juguete está hecho de madera y es seguro para que jueguen los niños.</li>
+</ul>
+<h3><span style="color: #ff8000;"><b>Especificación:</b></span></h3>
+<p><span class="a-list-item"><span><strong><span style="color: #ff2a00;">- </span><span style="color: #ff2a00;">Color:</span></strong> como se muestra.</span><br><span><span style="color: #ff2a00;"><strong>- Material:</strong> </span>madera.</span><br><span><span style="color: #ff2a00;"><strong>- Tamaño:</strong> </span>ca. 5,5 x 4,5 x 1,5 cm.</span></span></p>
+<p><b><span style="color: #ff8000;" mce-data-marked="1">Paquete Incluye</span><br></b>1 Juego de Bloques de Madera<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4541978050656</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>XXJM-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4541975691360</id>
+    <published>2020-03-16T01:29:54-05:00</published>
+    <updated>2020-03-16T01:29:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juego-de-mini-bolos-de-madera"/>
+    <title>Juego de Mini Bolos de Madera</title>
+    <s:type>Juguete</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_df3d8079-4b10-40b7-a4c4-69b7894e2051.jpg?v=1584340208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Juguete<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #ff8000;">&gt;&gt; Envío gratis</span></strong></p>
+<p><span>✨El juguete de bolos hecho de madera y metal de alta calidad, que es <span style="color: #00aaff;"><strong>seguro, resistente, ligero y duradero</strong></span>. Portátil e interesante! Ideal para que los niños se diviertan y los oficiales <span style="color: #00aaff;"><strong>alivien su estrés</strong></span>. La apariencia es como una bolera real, con dos canales y un bloque que evita que los bolos salgan volando. El juego de juguetes también puede ser una decoración o un regalo ideal para que juegue un niño.✨</span><br></p>
+<h3><b><span style="color: #ff8000;">Característica:</span></b></h3>
+<span><span style="color: #ff2a00;"><strong>--MATERIAL DE CALIFICACIÓN:</strong> </span>El juguete de bolos está hecho de madera y metal de  calidad alta que es seguro, resistente, ligero y duradero. Portátil e interesante! Ideal para que los niños se diviertan y los oficiales alivien su estrés.</span><br><span><span style="color: #ff2a00;"><strong>--APARIENCIA:</strong> </span>La apariencia es como una bolera real, con dos canales y un bloque para evitar que los bolos salgan volando.</span><br><span><span style="color: #ff2a00;"><strong>--CÓMO USAR</strong><strong>:</strong></span> la bola de metal se coloca en una placa que se puede ajustar en diferentes ángulos para apuntar a los bolos.</span><br><span><span style="color: #ff2a00;"><strong>--REGALO IDEAL:</strong></span> el conjunto de juguetes también puede ser una decoración o un regalo ideal para que el niño juegue.</span><br><br>
+<h3><span style="color: #ff8000;"><b>Especificación:</b></span></h3>
+<p><span><span style="color: #ff2a00;"><strong>Material:</strong></span> madera &amp; amp; Metal<br><span style="color: #ff2a00;"><strong>Color:</strong></span> se muestra como una imagen<br><span style="color: #ff2a00;"><strong>Tamaño:</strong> </span>aprox. 295 * 100 mm / 11.64 * 3.93 pulgadas</span></p>
+<p><br><b><span style="color: #ff8000;">Paquete Incluye:</span><br></b><br><span>1 * Juego de Mini Bolos de Madera</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4541975691360</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>MNBLQ-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4471958372448</id>
+    <published>2020-01-10T03:09:03-05:00</published>
+    <updated>2020-01-10T03:09:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/gancho-adhesivo-sin-costuras-10-20-30-piezas"/>
+    <title>Gancho Adhesivo sin Costuras (10/20/30 Piezas)</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_c6f73d3e-585b-4bb8-8b52-695f85dc207c.jpg?v=1578643756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            14.99 - 24.99
+            <a href="https://idealdia.com/products/gancho-adhesivo-sin-costuras-10-20-30-piezas">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span style="color: #ff8000;">-&gt; Envío Gratis</span></h4>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/1_5c714bc1-918d-4877-b502-314a1b22852e.gif?6604" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p><span style="color: #ff8000;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>Aplicación Amplio</strong></span></li>
+</ul>
+<p>Este gancho adhesivo es versátil y es adecuado para una variedad de escenas en la cocina, baño, hogar, sala de estar, etc. Es adecuado para superficies duras y lisas, como azulejos, puertas de refrigeradores, armarios, mármol, tejas, cerámica, espejos, acrílico, plástico, Laminados, etc. No se recomiendan paredes de cal, paredes pintadas, paredes secas y papel tapiz con texturas, ya que se caerán o dañarán su pared.</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>GRAN CAPACIDAD DE CARGA</strong></span></li>
+</ul>
+<p>Estos ganchos de pared están hechos de acero inoxidable resistente y una estructura de PVC con calidad buena y vida larga. Montajes de pared robustos y pegajosos sin clavos, carga máxima de 15 libras. ¡Cuerpo pequeño, gran energía!</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>DISEÑO TRANSPARENTE</strong></span></li>
+</ul>
+<p>Los ganchos se ven muy delgados y modernos y se ven bien. Son prácticamente invisibles cuando se montan en paneles u otros lugares. La superficie adicional lo hace particularmente seguro y la forma cuadrada permanece plana, haciendo que la instalación sea un juego de niños.</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>FÁCIL DE USAR</strong></span></li>
+</ul>
+<p>Fácil de pegar y no daña tus paredes. No tienes que clavar y perforar. Fácil de quitar sin dañar la superficie. Use y seque varias veces después de la limpieza.</p>
+<p><span style="color: #ff8000;"><strong>Escenarios de Uso</strong></span></p>
+<p>Ideal para utensilios de cocina, abrigos de llaves, bolsos, sombrillas, albornoces, toallas de baño, toallas, sombreros, bufandas, billeteras.</p>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Materiales: acero inoxidable y PVC.</li>
+<li>TIPO: PATRÓN COLORIDO (patrón aleatorio) y PATRÓN TRANSPARENTE</li>
+</ul>
+<span color="#ff2a00" style="color: #ff2a00;"><b>Nota</b></span><br>
+<ul>
+<li>Permita ligeras desviaciones dimensionales debido a mediciones manuales.</li>
+<li>Debido a los diferentes efectos de iluminación y visualización, el color real del artículo puede variar ligeramente del color que se muestra en la imagen.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff8000;"><strong>PAQUETE INCLUYE:</strong></span></p>
+<p><span style="color: #ff8000;"><strong>3 Opciones(10 o 20 o 30)</strong></span></p>
+<ul>
+<li>10 Gancho Adhesivo sin Costuras</li>
+</ul>
+<ul>
+<li>20 Gancho Adhesivo sin Costuras</li>
+</ul>
+<ul>
+<li>30 Gancho Adhesivo sin Costuras</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 10 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CFGG-CAISE-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 20 Piezas</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CFGG-CAISE-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 30 Piezas</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>CFGG-CAISE-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 10 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CFGG-TOUMING-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 20 Piezas</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CFGG-TOUMING-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 30 Piezas</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>CFGG-TOUMING-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4468233109600</id>
+    <published>2020-01-08T01:48:11-05:00</published>
+    <updated>2020-01-08T01:48:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/afilador-de-cuchillos-profesional"/>
+    <title>Afilador de Cuchillos Profesional</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_5e151064-5031-48e7-b1ae-815746067f7a.jpg?v=1578466104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong>-&gt; Envío Gratis</strong></span></p>
+<p>¿Tienes algunos cuchillos viejos en la casa? ¿Sigues usando piedra de afilar o afilador de cuchillos en general? Pruebe el afilador de cuchillos de cocina de acero inoxidable. ¡Con esto puedes darle al cuchillo un nuevo aspecto! ¡Y te dará una experiencia diferente!</p>
+<p><span style="color: #ff8000;"><strong>Características:</strong></span></p>
+<ul>
+<li><span class="a-list-item"><strong><span style="color: #ff2a00;">✔ GENERAL:</span> </strong>Afila, muele y pule TODOS los cuchillos de cocina romos como un profesional</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>✔ IMPORTANTE:</strong></span> Adecuado para cuchillos de sierra, cuchillos combinados, cuchillos utilitarios, cuchillos de cocinero, cuchillos de jamón, cuchillos de verduras, cuchillos para filetear, cuchillos de cocina y mucho más con cuchillas biseladas en uno y ambos lados</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>✔ CARACTERÍSTICAS ESPECIALES:</strong></span> Rectificado de brazos de carburo de tungsteno ultraduro, más duro que el acero y el titanio, extremadamente resistente y duradero, adecuado para todos los tipos comunes de cuchillas</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>✔ APLICACIÓN:</strong> <span style="color: #000000;">Fácil manejo gracias a la tecnología X-Cross, que se adapta con flexibilidad a cualquier cuchilla, es portátil y se puede usar en cualquier lugar</span></span></span></li>
+</ul>
+<p><span style="color: #ff8000;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: acero inoxidable</li>
+<li>Ángulo de afilado: 11 ° a 21 °</li>
+<li>Un eje de afilado ensanchado en la parte superior facilita la fijación de los cuchillos.</li>
+<li>Los elementos de afilado son fáciles de reemplazar si es necesario</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><strong><span style="color: #ff8000;">Paquete Incluido:</span></strong><br>1 * Afilador de Cuchillos Profesional</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4468233109600</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>MDQ-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4468190937184</id>
+    <published>2020-01-08T00:47:51-05:00</published>
+    <updated>2020-01-08T00:47:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/caja-de-zapatos"/>
+    <title>Caja de Zapatos</title>
+    <s:type>Hogar</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/123456_847bbe73-d551-437a-aba6-932da49037b8.jpg?v=1578462492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Hogar<br>
+        <strong>Precio: </strong>
+            12.99 - 39.99
+            <a href="https://idealdia.com/products/caja-de-zapatos">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h4><span style="color: #ff8000;">-&gt; Envío Gratis</span></h4>
+<h3 style="text-align: center;"><span style="color: #ff2a00;"><strong>😝La Moda Nueva🔥</strong></span></h3>
+</div>
+<div>
+<p><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/111_0b0d188a-28fa-4327-abf6-a008d1e97b08_480x480.gif?v=1576824121" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Nuestras cajas de zapatos tienen puertas plegables para que pueda acceder fácilmente a sus zapatos incluso cuando los dispositivos están apilados o en un estante alto. El frente y los lados transparentes le permiten ver lo que hay dentro de un vistazo</p>
+</div>
+<h3><span style="color: #ff8000;"><em>Protege los Zapatos</em></span></h3>
+<div><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/222_d62a114f-2609-43a4-8bae-cc63383534ec_480x480.gif?v=1576824198" alt="" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div>
+<ul>
+<li>
+<strong><span style="color: #ff2a00;">Como caja de almacenamiento</span></strong>, lleva buenos zapatos a buenos lugares, y sus zapatos merecen la mejor atención posible. Estos contenedores de zapatos se ajustan a una variedad de <span style="color: #ff2a00;"><em>zapatos de hombre, tacones de mujer, zapatillas de deporte para hombres y mujeres</em></span>.</li>
+<li>Multifunción, nuestros cubos de almacenamiento también<span style="color: #ff2a00;"><strong> se utilizan como cajones de almacenamiento</strong></span>, organizadores de estantes para piezas pequeñas.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Abra la puerta a 120 grados</strong></span>, quítese los zapatos sin esfuerzo, corra la caja de zapatos después del aire fresco</li>
+</ul>
+</div>
+<div><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/1_932f5440-ebad-4a11-8332-7c2025c4f1ee_480x480.jpg?v=1576824725" alt="" width="345" height="345" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<ul>
+<li>Categoría de producto: caja de zapatos</li>
+<li>Tamaño universal: 24 x 33 x 13 cm</li>
+</ul>
+<ul></ul>
+<div><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/a555710489c26d0959eb9fc33dc9bfb3_480x480.jpg?v=1577934369" width="480x480" height="480x480"></div>
+<h3><span style="color: #ff8000;">Paquete incluido:</span></h3>
+<ul>
+<li>Caja de Zapatos con Cajones</li>
+</ul>
+<div><img src="https://cdn.shopify.com/s/files/1/0081/7905/6751/files/9089006901_1833180743.jpg?v=1557589670" width="386" height="217" style="display: block; margin-left: auto; margin-right: auto;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>BLANCO / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-BAI-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>BLANCO / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-BAI-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>ROSA / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-FEN-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>ROSA / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-FEN-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>AZUL / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-LAN-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>AZUL / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-LAN-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>VERDE / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-LV-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>VERDE / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-LV-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4464555458656</id>
+    <published>2020-01-03T02:54:22-05:00</published>
+    <updated>2020-01-03T02:54:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-de-polvo-largo-extra"/>
+    <title>Cepillo de Polvo, Largo Extra</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_1400x_d76c2e37-3b88-4d9d-909f-81ab7e98fea3.jpg?v=1578067530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong><b>-&gt;Envío Gratis</b></strong></span></p>
+<p><span style="color: #404040;"><em> Hecho de materiales de alta calidad, duradero. Para la limpieza de esquinas y suciedad. Tamaño pequeño y almacenamiento práctico. Es un buen ayudante para limpiar su hogar.</em></span></p>
+<p><span style="color: #ff8000;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong> El mango de material PP,</strong></span> diseño extendido, cabezal de cepillo plano con 2 piezas de tela de microfibra, puede eliminar efectivamente el polvo en el espacio.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Profundice en los espacios</strong> </span>que otros cepillos de limpieza no pueden alcanzar para eliminar el polvo. No más preocupaciones por el polvo en las costuras.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Extienda la manija para limpiar fácilmente la altura.</strong></span> Ya no tiene que mover su sofá, los muebles pueden eliminar fácilmente el polvo en la parte inferior.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Tipo: cepillos de limpieza</li>
+<li>Materiales: PP, tela de microfibra, varilla de aluminio.</li>
+</ul>
+<p><span style="color: #ff8000;"><strong><b>PAQUETE INCLUIDO:</b></strong></span></p>
+<ul>
+<li>1 * cepillo de polvo</li>
+<li>2 * tejido de microfibra</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4464555458656</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CTTB-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4427555471456</id>
+    <published>2019-12-07T01:17:29-05:00</published>
+    <updated>2019-12-07T01:17:29-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/funda-con-los-estampados-para-sofa-20-estilos"/>
+    <title>Funda con los Estampados para Sofá, 20 Estilos</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_384142c4-9dba-47f0-907e-989f432cd52f.jpg?v=1575817667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            24.99 - 39.99
+            <a href="https://idealdia.com/products/funda-con-los-estampados-para-sofa-20-estilos">(80 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span style="color: #93c47d;">😍<strong>¡Solo renueva tu sofá!</strong></span></div>
+<span style="color: #e06666;"><strong>No malgastes dinero para comprar un sofá nuevo. Solo usa nuestra funda de sofá. Tu sofá tendrá un nuevo aspecto. </strong>✨✨✨</span><br><br><span style="color: #ff9900;"><strong>Características:</strong></span><br>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Antideslizante:</strong></span><span> </span>las fundas de sofá altamente elásticas son flexibles, suaves y antideslizantes para una comodidad a largo plazo. No se requieren correas para asegurar esta funda de sofá en un solo lugar, ya que permanece firmemente en el lugar deseado sin moverse.</li>
+<li>
+<span style="color: #ff0000;"><strong>Protección del sofá:</strong> </span>esta funda de sofá es imprescindible para familias con niños y mascotas. Protege sus muebles contra el polvo, las manchas, el desgaste y le da un aspecto fresco. (No importa cómo se vea o sienta su sofá, ¡con nuestra funda se ve como nuevo!)</li>
+<li>
+<span style="color: #ff0000;"><strong>Tejido de alta calidad:</strong></span><span> </span>esta funda hecha de 85% poliéster y 15% spandex se siente suave y fácil de cuidar. ¡Mejora al instante el aspecto de cada sofá de tu hogar con estas fundas de sofá elásticas!</li>
+<li>
+<span style="color: #ff0000;"><strong>Duradero y asequible:</strong> </span>se enorgullece de su elegancia asequible que mejora la decoración de su hogar al tiempo que mantiene el estándar de calidad. La funda del sofá ofrece una combinación de materiales de alta calidad y diseño de vanguardia, sin sacrificar la comodidad y la durabilidad.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Cómo elegir el tamaño:</strong></span></p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0247/9423/4954/files/4217483a2188d6da68ae20620b912f5f_large.jpg?v=1564798582" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul>
+<li>Para los sofás L,<span> </span><span>tienes que comprar 2 fundas, </span>por favor medir una funda para sofás y una para <span>chaise longues </span>respectivamente. S<span>i el sofá L no se puede separar, no es adecuado.</span><span> </span>Mide los tamaños antes de pedir para evitar problemas innecesarias.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: 85% poliéster y 15% spandex.</li>
+<li>Diseño: 20</li>
+<li>Tamaño: sofá individual, doble, tres plazas, cuatro plazas</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluye:</strong></span></p>
+<ul>
+<li>1 * Funda Elástica Para Sofá</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / GRIS CLARO</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-QH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / Verde Claro</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-CAOLV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / Azul Oscuro</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-SHENLAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / Violeta</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-ZISE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / Burdeos</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-JH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / ESTRELLA</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-XING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / FLOR</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-HUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / FLOR MARRÓN</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-ZONGHUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / FLOR TINTA</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-YMH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / FELIZ NAVIDAD</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / LUNARES</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / FLOR AMARILLO</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-HUANGHUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / GOTA DORADA</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-JSSZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / ROMBO</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-LX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / CIELO NOCTURNO</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-XK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / GRIS OSCURO</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-SH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / AZUL AGUA</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / CAQUI</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-KQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / MARRÓN ROJIZO</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-HZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>INDIVIDUAL (90-140CM) / ROSA</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>SFT-01-FEN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / GRIS CLARO</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-QH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / Verde Claro</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-CAOLV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / Azul Oscuro</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-SHENLAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / Violeta</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-ZISE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / Burdeos</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-JH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / ESTRELLA</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-XING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / FLOR</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-HUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / FLOR MARRÓN</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-ZONGHUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / FLOR TINTA</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-YMH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / FELIZ NAVIDAD</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / LUNARES</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / FLOR AMARILLO</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-HUANGHUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / GOTA DORADA</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-JSSZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / ROMBO</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-LX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / CIELO NOCTURNO</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-XK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / GRIS OSCURO</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-SH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / AZUL AGUA</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / CAQUI</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-KQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / MARRÓN ROJIZO</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-HZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>DOBLE (140-185CM) / ROSA</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>SFT-02-FEN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / GRIS CLARO</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-QH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / Verde Claro</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-CAOLV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / Azul Oscuro</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-SHENLAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / Violeta</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-ZISE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / Burdeos</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-JH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / ESTRELLA</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-XING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / FLOR</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-HUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / FLOR MARRÓN</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-ZONGHUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / FLOR TINTA</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-YMH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / FELIZ NAVIDAD</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / LUNARES</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / FLOR AMARILLO</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-HUANGHUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / GOTA DORADA</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-JSSZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / ROMBO</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-LX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / CIELO NOCTURNO</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-XK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / GRIS OSCURO</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-SH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / AZUL AGUA</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / CAQUI</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-KQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / MARRÓN ROJIZO</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-HZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>TRES PLAZAS (185-230CM) / ROSA</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>SFT-03-FEN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / GRIS CLARO</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-QH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / Verde Claro</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-CAOLV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / Azul Oscuro</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-SHENLAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / Violeta</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-ZISE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / Burdeos</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-JH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / ESTRELLA</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-XING</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / FLOR</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-HUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / FLOR MARRÓN</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-ZONGHUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / FLOR TINTA</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-YMH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / FELIZ NAVIDAD</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-SD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / LUNARES</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-BD</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / FLOR AMARILLO</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-HUANGHUA</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / GOTA DORADA</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-JSSZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / ROMBO</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-LX</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / CIELO NOCTURNO</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-XK</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / GRIS OSCURO</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-SH</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / AZUL AGUA</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-SL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / CAQUI</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-KQ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / MARRÓN ROJIZO</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-HZ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4427555471456</id>
+      <title>CUATRO PLAZAS (230-300CM) / ROSA</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>SFT-04-FEN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4421467799648</id>
+    <published>2019-12-05T01:27:27-05:00</published>
+    <updated>2019-12-05T01:27:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/etiqueta-de-aluminio-resistente-al-aceite-y-agua"/>
+    <title>Etiqueta de Aluminio, Resistente al Aceite y Agua</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_53797419-e4d7-44bf-a5c7-2c921b59dd62.jpg?v=1575584000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong><b>-&gt; Envío Gratis</b></strong></span></p>
+<p><span style="color: #ff8000;"><strong>✨<span style="color: #ff2a00;">Por fin se ha lanzado la mejor pegatina de cocina autoadhesiva y resistente al aceite</span>✨</strong></span></p>
+<p><span><strong><img src="https://cdn.shopify.com/s/files/1/0040/3868/8868/files/A_4_480x480.gif?v=1574755098" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<p> </p>
+<div>
+<ol>
+<li><span><em>Fácil de limpiar, reutilizable, rentable, de buena calidad y asequible.</em></span></li>
+<li><span><em>Utilizado ampliamente, distribución mundial, los compradores pueden insertarlos en las paredes de la cocina, armarios, cajones, etc.</em></span></li>
+<li><span><em>Impermeable, sin decoloración, sin rizado, no sucio y puede fregarse.</em></span></li>
+</ol>
+</div>
+<p><span style="color: #ff8000;"><strong>Características:</strong></span></p>
+<ul>
+<li>¡Esta pegatina de cocina hecha de aluminio de alta calidad impresiona por su eficiencia!</li>
+<li>¡Obtenga una pegatina resistente y duradera para un uso prolongado y confiable en todas las superficies de su cocina!</li>
+<li>Resistente al aceite y repelente a la suciedad: evita que la grasa y el aceite ingresen a su cocina, incluidos gabinetes, hornos, mostradores y paredes.</li>
+<li>Resistente al agua, al moho y al fuego: evita la fuga de agua debajo del fregadero y otras áreas, evitando que se forme moho.</li>
+<li>Resiste temperaturas de hasta 250 grados Celsius, que se pueden usar durante mucho tiempo y no se deformarán.</li>
+</ul>
+<ul></ul>
+<p>Simplemente mida las dimensiones de la superficie a cubrir, córtelas a través de las líneas de cuadrícula exactas en la etiqueta posterior extraíble y ¡listo!<br>Fácil de instalar y quitar al instante cuando ya no lo necesita. Esta pegatina de aluminio para la cocina fue hecha para ti.</p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0040/3868/8868/files/A_4__4_480x480.gif?v=1574754977" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p>La etiqueta posterior extraíble tiene líneas de cuadrícula personalizadas para una fácil medición y colocación. Puede crear fácilmente nuevas apariencias o reparar la apariencia de superficies lisas existentes.</p>
+<p><span style="color: #ff8000;"><strong>Cómo utilizar:</strong></span></p>
+<ol>
+<li>Limpie y seque la superficie con agua y jabón suave.</li>
+<li>Asegúrese de que la superficie sea plana y no pueda tener tallas.</li>
+<li>Solo corta el tamaño que quieras.</li>
+<li>Use un trapo de cocina o cartón para eliminar las burbujas de aire.</li>
+</ol>
+<ol></ol>
+<p><span style="color: #ff8000;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Materiales: papel de aluminio.</li>
+<li>Colores: plata</li>
+<li>Tamaño del producto: Ancho: 40 cm Longitud: 2M</li>
+</ul>
+<ul></ul>
+<p><span mce-data-marked="1" style="color: #ff8000;"><strong>Paquete Incluye:</strong></span></p>
+<p>1 × Etiqueta de Aluminio, Resistente al Aceite y Agua</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4421467799648</id>
+      <title>Rejilla</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>CFFYTZ-GEZI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4421467799648</id>
+      <title>Normal</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>CFFYTZ-PUTONG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4408431607904</id>
+    <published>2019-11-29T03:16:13-05:00</published>
+    <updated>2019-11-29T03:16:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/contenedor-de-basura-plegable-creativo-montado-en-la-pared"/>
+    <title>Contenedor de basura plegable creativo montado en la pared</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_1400x_78cdf213-b8b4-4a69-b7d6-4df5cbf35875.jpg?v=1575113108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 style="text-align: center;"><span style="color: #ff0000;"><strong>Contenedor de basura plegable creativo montado en la pared</strong></span></h4>
+<div></div>
+<div><img src="https://cdn.shopify.com/s/files/1/0266/7334/8656/files/GIF_1_50f003f6-febd-4c15-871d-81e93cc1f44f_large.gif?v=1570523190" alt="" width="285" height="285" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div></div>
+<div></div>
+<ul dir="ltr"></ul>
+<p><span style="color: #ff9900;"><strong>💗Caracteristicas:</strong></span></p>
+<ul>
+<li>Nuevo diseño creativo montado en la pared plegable, muy adecuado para gabinetes de cocina con un grosor de 2.2 cm</li>
+<li><span style="color: #ff0000;"><strong>Diga adiós para doblarse tirando las basuras en la cocina</strong></span></li>
+<li>
+<span style="color: #ff0000;"><strong>De gran calibre,</strong></span><span> </span>más conveniente para barrer todos los desechos en el banco o la mesa de cocción;</li>
+<li>Alta calidad y material grueso, Súper rodamiento, duradero para usar;</li>
+<li>Fácil de abrir y cerrar, solo presione y tire,<span> </span><span style="color: #ff0000;"><strong>ahorre espacio al plegar</strong></span>
+</li>
+</ul>
+<ul>
+<li>También se puede utilizar en automóviles, para el almacenamiento de residuos, vómitos de mareo, evite la vergüenza.</li>
+</ul>
+<ul></ul>
+<p><span><span style="color: #ff9900;"><strong>💗Especificaciones:</strong></span><br></span></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>plástico + silicona</li>
+<li>
+<strong>Tamaño:</strong><span> </span>como muestra la imagen</li>
+<li>
+<strong>Capacidad:</strong><span> </span>9L</li>
+<li>
+<strong>Color:</strong><span> </span>marrón, blanco</li>
+<li>
+<strong>Ocasiones:</strong><span> </span>cocina / baño, aseo, coches.</li>
+</ul>
+<ul></ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0077/6096/9779/files/989f1a752ca823fdfce8d6b290acdfa7_20ecda2c-ce9f-43cf-a5d1-516132b92343_large.jpg?v=1571109721" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul dir="ltr"></ul>
+<p><span style="color: #ff9900;"><strong>🎁Paquete Incluye:</strong></span></p>
+<ul>
+<li>1* Contenedor de basura plegable creativo</li>
+</ul>
+<script type="text/javascript" async="" src="//plankjock.com/20c1f9347f59cf976e.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4408431607904</id>
+      <title>BLANCO</title>
+      <s:price currency="EUR">26.99</s:price>
+      <s:sku>LJT-BAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4408431607904</id>
+      <title>BEIGE</title>
+      <s:price currency="EUR">26.99</s:price>
+      <s:sku>LJT-MI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286042570848</id>
+    <published>2019-10-18T00:46:18-05:00</published>
+    <updated>2019-10-18T00:46:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/bombillas-led-con-efecto-de-llama"/>
+    <title>Bombillas LED con Efecto de Llama</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/a_d79b9ca1-a612-4dc9-b1d5-1a94b4d2e7ec.jpg?v=1575018801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>☀ Bombilla Encendida ☀</strong></em></span></h3>
+<p><span style="color: #e06666;"><strong>Efecto de llama perfecto y más seguro:</strong></span> el color de las bombillas está cerca del fuego real, es el elemento perfecto para colocar velas tradicionales. Cuando abres la luz, te muestra un ambiente muy cálido y romántico. La llama parpadeante le da a su hogar una sensación acogedora en invierno, sin el peligro de una llama abierta.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> 4 modos de luz y función invertida:</strong></span> los modos de parpadeo, respiración e iluminación general se pueden cambiar fácilmente mediante el encendido / apagado según sus preferencias o los requisitos de la aplicación. Integrada con el sensor de gravedad, esta lámpara puede detectar la dirección de fijación y ajustar automáticamente la llama para que apunte hacia arriba.</li>
+<li>
+<strong><span style="color: #ff0000;">Bombillas LED con efecto de llama:</span></strong> Las fuentes de luz LED seguras y que ahorran energía simulan un efecto de llama natural. La bombilla se acerca mucho a una verdadera llama parpadeante y le brinda momentos cálidos, románticos y relajantes.</li>
+<li>
+<span style="color: #ff0000;"><strong>Posibilidades de aplicación variadas:</strong> </span>genial como decoración para el hogar, dormitorio, sala de estar, bar, hotel o discotecas, cervecerías al aire libre, restaurantes, cafés, bodas, fiestas, iglesias y castillos y muchos más. La lámpara decorativa irradia colores cálidos como una llama real y crea un ambiente tranquilo, romántico y relajado.</li>
+<li>
+<span style="color: #ff0000;"><strong>Recomendación de uso:</strong> </span>para crear un mejor efecto de llama parpadeante, debe instalar la bombilla en una pantalla apagada, una linterna, etc.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff0000;"><strong>Nota:</strong></span></p>
+<ul>
+<li>Los enchufes son intercambiables con E26 y E27.</li>
+<li>Nuestra antorcha de llama LED con sensor de gravedad se suministra con un sensor de gravedad. La dirección del fuego se invierte automáticamente.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Voltaje: 100-240 V CA, 50/60 Hz.</li>
+<li>Fuente de alimentación: 7 W.</li>
+<li>Fuente de luz: 2835 diodos emisores de luz LED, 108 piezas.</li>
+<li>Versión: E27.</li>
+<li>Temperatura de funcionamiento: -20 ° C a + 50 ° C.</li>
+<li>Dimensiones: 62 x 136 mm.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span><br></span></span></span></span></p>
+<p>1 * Bombillas LED con Efecto de Llama</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286042570848</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>HYD001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286041882720</id>
+    <published>2019-10-18T00:45:50-05:00</published>
+    <updated>2019-10-18T00:45:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cubo-de-hielo-con-tapa"/>
+    <title>Cubo de Hielo con Tapa</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_1400x_3358bf8f-e0c3-4e6b-87e9-2e3e854b0a57.jpg?v=1575018280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Gadgets<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><em><span style="color: #00ffff;"><strong><span style="color: #0000ff;">🍻🍹<span style="color: #e06666;">Genio del hielo</span></span><span style="color: #0000ff;">🍻🍹</span></strong></span></em></h3>
+<p>El contenedor de cubitos de hielo puede contener hasta <span style="color: #93c47d;"><strong>120 cubitos de hielo</strong></span>, este espíritu de hielo de las cámaras externas congela el hielo, disminuye continuamente la temperatura del balde de hielo y disminuye la velocidad de fusión del hielo en el balde.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Hecho de silicona segura para alimentos sin BPA</strong></span>, segura y no tóxica, apta para lavavajillas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Adecuado para refrescar todas las bebidas</strong></span> en bares, fiestas, restaurantes o clubes.</li>
+<li>
+<span style="color: #ff0000;"><strong>Adecuado para muchos lugares y bebidas</strong></span>, adecuado para familias, casas, bares, cafés, hoteles, restaurantes, fiestas, buffets, etc. Proporciona un tiempo de enfriamiento prolongado para whisky, cócteles, bebidas, etc., bebidas refrigeradas rápidamente en botellas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Diseño único de doble cámara</strong></span> que puede albergar hasta 130 cubitos de hielo.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de usar</strong></span>, solo llena y almacena cubitos de hielo.</li>
+<li>
+<span style="color: #ff0000;"><strong>Portátil</strong></span>, equipado con una tapa y un cubo antideslizante para facilitar su transporte.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: silicona libre de BPA</li>
+<li>Color azul</li>
+<li>Tamaño: 5.1 * 5.5 * 5.7 pulgadas / 13cm * 13cm * 14.5cm</li>
+<li>Peso: 433g</li>
+</ul>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong></p>
+<p>1 x Cubo de Hielo con Tapa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286041882720</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>BT001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286040408160</id>
+    <published>2019-10-18T00:44:58-05:00</published>
+    <updated>2019-10-18T00:44:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/estera-absorbente-impermeable"/>
+    <title>Estera Absorbente &amp; Impermeable</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1.jpg?v=1575020675"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            35.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 itemprop="name" style="text-align: center;"><span style="color: #e06666;"><em><strong>✯ Alfombra absorbente Mágica</strong></em></span></h3>
+<p style="text-align: center;"><span style="color: #e06666;"><em>Ponlo frente a la puerta y mantén tu cuarto limpio</em></span></p>
+<h3><span style="color: #ff9900;"><strong>Características：</strong></span></h3>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Calidad Alta:</strong></span> material de poliéster de alta calidad con excelente durabilidad, se puede utilizar durante mucho tiempo, adecuado para uso doméstico.</li>
+<li>
+<span style="color: #ff0000;"><strong>Limpieza mágica:</strong></span> no tiene que limpiarse los pies, solo pise sobre ellos para eliminar el polvo, el agua, el polvo, la arena, el lodo, la hierba, la lluvia, la nieve y materiales absorbentes para mantener el piso limpio y seco.</li>
+<li>
+<span style="color: #ff0000;"><strong>Parte inferior de goma antideslizante:</strong></span> la alfombrilla se puede usar en casi cualquier superficie y tiene una parte inferior antideslizante que mantiene la alfombrilla en su lugar mientras camina.</li>
+<li>
+<span style="color: #ff0000;"><strong>Reutilizable:</strong></span> se puede lavar repetidamente, no intente lavar el agua, el primer lavado dejará caer una pequeña cantidad de fibra.</li>
+<li>
+<span style="color: #ff0000;"><strong>Aplicable para cualquier ocasión:</strong></span> recepción interior, alfombra de bienvenida y alfombra de cocina, alfombra de piso, dormitorio, puerta trasera, lavandería, sala de estar, garaje, oficina, etc.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ol>
+<li>Fuerte absorción de agua: mantenga el piso de su casa u oficina limpio y seco.</li>
+<li>Reutilizable: Puede ser lavado repetidamente y duradero.</li>
+</ol>
+<p><span style="color: #000000;"><strong><span style="color: #ff9900;">Especificación:</span> </strong><br></span></p>
+<ol>
+<li>Material: poliéster</li>
+<li>Tamaño del producto: 45 x 70 cm.</li>
+</ol>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido :</b></strong></span></p>
+<p>1* Estera Absorbente &amp; Impermeable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040408160</id>
+      <title>GRIS OSCURO</title>
+      <s:price currency="EUR">35.99</s:price>
+      <s:sku>DD001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040408160</id>
+      <title>CAQUI</title>
+      <s:price currency="EUR">35.99</s:price>
+      <s:sku>DD002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286039064672</id>
+    <published>2019-10-18T00:44:12-05:00</published>
+    <updated>2019-10-18T00:44:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/antihaft-bbq-grill-mesh-wiederverwendbare-teflon-grill-netz-matte"/>
+    <title>Esteras Antiadherentes de la Parrilla del BBQ</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/x_grande_aa9e477c-fba0-49f1-81c0-02586d8e3714.jpg?v=1575013154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Gadgets<br>
+        <strong>Precio: </strong>
+            14.99 - 15.99
+            <a href="https://idealdia.com/products/antihaft-bbq-grill-mesh-wiederverwendbare-teflon-grill-netz-matte">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><strong><span style="color: #ff0000;">🔥Añade un euro para conseguir otro🔥</span></strong></div>
+<div style="text-align: center;"><strong><span style="color: #ff0000;">🔥<span>Añade un euro para conseguir otro</span>🔥</span></strong></div>
+<h3 style="text-align: center;">
+<span style="color: #93c47d;"><em>♨Disfruta de una barbacoa con nuestra alfombra de barbacoa</em></span><span style="color: #93c47d;"><em>♨</em></span>
+</h3>
+<h3><span style="color: #ff9900;"><strong>Características:</strong></span></h3>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>La estera para la parrilla está hecha de tela de fibra de vidrio recubierta con <span style="color: #ff0000;"><strong>PTFE</strong></span>, una tela libre de PFOA que vuelve a hacer que la parrilla sea divertida otra vez</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de limpiar y reutilizable.</strong></span> Simplemente limpie con un paño húmedo</li>
+<li>Resistente al calor hasta <span style="color: #ff0000;"><strong>260 grados</strong></span>.Perfecto para cada parrilla, incluyendo gas, carbón, propano, parrillas eléctricas, chimeneas, estufas o humo</li>
+<li>
+<span style="color: #ff0000;"><strong>Instrucciones de lavado:</strong></span> Lavar con agua tibia y jabón o limpiar en la rejilla superior del lavavajillas. Si es necesario, use un cepillo con cerdas suaves para eliminar los residuos quemados. Seque con un paño suave y deje reposar cuando no esté en uso</li>
+</ul>
+<h3><span style="color: #ff9900;"><strong>Especificación:</strong></span></h3>
+<ul>
+<li>Color: negro</li>
+<li>Material: PTFE</li>
+<li>Tamaño: 33 * 40 cm</li>
+<li>Peso: 60 g / pcs</li>
+</ul>
+<h3><span style="color: #ff0000;"><strong>Nota:</strong></span></h3>
+<p>Este producto no debe tocar directamente las llamas abiertas.</p>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido : </b></strong></span></p>
+<p><span style="color: #ff9900;"><strong><b><span style="color: #444444;">1</span></b></strong></span> * Esteras Antiadherentes de la Parrilla del BBQ (33x40 cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286039064672</id>
+      <title>1 Pieza</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>WGSKD-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286039064672</id>
+      <title>2 Piezas (venta limitada)</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>WGSKD-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286038081632</id>
+    <published>2019-10-18T00:43:38-05:00</published>
+    <updated>2019-10-18T00:43:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/bomba-de-agua-de-fuente-flotante-solar"/>
+    <title>Bomba de Agua de Fuente Flotante Solar</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/81JjaP6f0ML._SL1200.jpg?v=1575019690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><b>☀ Un Regalo Especial para su Familia y Amigos ☀</b></em></span></h3>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>bomba solar para estanque con panel solar monocristalino, por lo tanto, el agua puede estar en pocos segundos al sol.</li>
+<li>Motor sin escobillas incorporado con mayor vida útil y menor consumo.</li>
+<li>Alta tasa de conversión de energía y respetuoso con el medio ambiente.</li>
+<li>Fácil de instalar y operar.</li>
+<li>Adecuado para baño de pájaros, acuario, estanque, decoración de jardines, circuito de agua para oxígeno, etc.</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><span class="a-list-item"><span><span style="color: #ff9900;"><strong>Especificación:</strong></span><br>Panel solar: 7V / 1.4W, diámetro: 6.3 pulgadas<br>Caudal máximo: 180L / h<br></span></span></p>
+<p><span style="color: #ff0000;"><strong>Notas:</strong></span></p>
+<ul>
+<li>La bomba es accionada directamente por la luz solar. Así que solo funcionará constantemente si la luz del sol es suficiente. Debido a que la energía del panel solar depende de la luz solar, la bomba también se ve afectada por el clima, las estaciones, los lugares, etc., para pelar la protección de la película plástica en la superficie lo mejorará.</li>
+<li>Deje que la bomba funcione sin agua durante mucho tiempo o acorte su vida útil.</li>
+<li>Limpie la bomba regularmente</li>
+<li>Colóquelo en el agua y asegúrese de que el panel solar no esté protegido del sol. Entonces generalmente funcionará tan pronto como el sol sea suficiente.</li>
+<li>Si hay algo de aire en la bomba. No debe conectar el cabezal rociador a la bomba hasta que el aire esté todo conectado y se rocíe normalmente.</li>
+</ul>
+<ul></ul>
+<p>Colóquelo en el agua y asegúrese de que el panel solar no esté protegido del sol. Entonces funcionará generalmente tan pronto como el sol sea suficiente.<br>Si hay algo de aire en la bomba. No debe conectar el cabezal rociador a la bomba hasta que el aire esté todo conectado y se rocíe normalmente.</p>
+<p><span class="a-list-item"><span><span style="color: #ff9900;"><strong>Lista de Embalaje:</strong></span><br>1 x bomba de estanque solar<br>4 x boquillas<br>1 x manual<br></span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286038081632</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">25.99</s:price>
+      <s:sku>PQ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286034280544</id>
+    <published>2019-10-18T00:41:16-05:00</published>
+    <updated>2019-10-18T00:41:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/bolsa-de-filtro-de-malla-lavadora"/>
+    <title>Bolsa de Filtro de Malla Lavadora</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_9c3b6f0a-5993-45b7-b061-780a456c2c7b.jpg?v=1575013958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            9.99 - 14.99
+            <a href="https://idealdia.com/products/bolsa-de-filtro-de-malla-lavadora">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<span style="color: #e06666;"><em><strong>¿Estás cansado de pelos y pelusas de animales</strong></em></span><br><strong><span style="color: #e06666;"><em>😵en ropa recién lavada?</em></span>😵</strong>
+</div>
+<div style="text-align: center;"><strong>✔<span style="color: #93c47d;"> Filtros revolucionarios de bolsas de filtro y colecciona</span><br><span style="color: #93c47d;">Capa y pelusa durante el proceso de lavado.</span>👚</strong></div>
+<div><strong></strong></div>
+<div><strong><img src="https://cdn.shopify.com/s/files/1/0010/8730/7837/files/dcd43f32399f221415663046a5654bd1_5efad755-a4a6-4d67-aca2-2d8f8fff798b_large.gif?v=1551682871" alt="" style="display: block; margin-left: auto; margin-right: auto;"></strong></div>
+<div><strong></strong></div>
+<div></div>
+<div><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></div>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> Residuos de captura:</strong></span> Cuando se lava con una lavadora, esta bolsa de filtro flotante puede atrapar los residuos como pieles y pelusas en la ropa, y poner suciedad en la red para hacer que su ropa se limpie.</li>
+<li>
+<span style="color: #ff0000;"><strong>Limpieza:</strong></span> Se puede poner el detergente en la bolsa de filtro, los agujeros finos en la bolsa pueden disolver el detergente por completo y crear las espumas densas. Para que la limpieza sea más limpia y el polvo no disuelto no permanezca en la ropa.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de usar:</strong></span> Simplemente coloque esta bolsa de filtro flotante en la lavadora. Flota directamente sobre la ropa. La tabla flotante en forma de flor está hecha de espuma y no daña la ropa.</li>
+<li>
+<span style="color: #ff0000;"><strong>Reutilizable:</strong></span> Bolsas de red cónicas de alta calidad de material poliéster, para uso prolongado. No deje que las cosas pequeñas, la suciedad y el pelo se escapen a ninguna parte.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Color: Azul, Rosa</li>
+<li>Material: plástico, poliéster, espuma</li>
+<li>Tamaño: aprox. 15 * 8 cm</li>
+<li>Peso: 38 g</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>3 Piezas / 6<span> </span><span>Piezas</span><span> Bolsa filtro de malla lavadora</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286034280544</id>
+      <title>Azul / 3 Piezas</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>BLAU-3PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286034280544</id>
+      <title>Azul / 6 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>BLAU-6PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286034280544</id>
+      <title>PINK / 3 Piezas</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>PINK-3PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286034280544</id>
+      <title>PINK / 6 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>PINK-6PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286033035360</id>
+    <published>2019-10-18T00:40:49-05:00</published>
+    <updated>2019-10-18T00:40:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/molde-de-silicona-para-hornear"/>
+    <title>Molde de Silicona para Hornear</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_2000x_7b058f30-a95f-4996-a648-9546e9b6726e.jpg?v=1575021462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description bottom" itemprop="description"><span style="color: #e06666;">♨ La bandeja para hornear de silicona con seguridad para el horno, la resistencia al calor hasta 500F, sin BPA, es un buen tablero para hornear productos horneados que permite a las madres hacer deliciosos bocadillos para los niños ♨</span></div>
+<div class="description bottom" itemprop="description"><span style="color: #e06666;"></span></div>
+<div class="description bottom" itemprop="description">
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>La bandeja para hornear de silicona con seguridad para el horno, resistencia al calor hasta 500F, sin BPA, es una buena panadería de bricolaje para productos horneados.</li>
+<li>La forma de 24 * 24 cm puede hacer 12 pasteles a la vez, use la forma de un cerdo en la manta para hacer que la hora de la merienda sea más interesante.</li>
+<li>La fiesta de cumpleaños ofrece la decoración de pastel perfecta y se presentará como un regalo para su familia o amigos.</li>
+<li>Fácil de limpiar, apto para lavavajillas y silicona antiadherente para cocinar y limpiar con facilidad.</li>
+<li>Adecuado para la preparación de pasteles, pan, mousse, jalea, platos preparados, chocolate, etc.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Calidad Alta</li>
+<li>Haga que la merienda sea más divertida con los cerdos, hornee 12 golosinas al mismo tiempo con este molde para hornear</li>
+<li>El molde funciona con mini francos y mezclas de panqueques empacados, panqueques caseros, rollos de media luna o masa para pasteles.</li>
+<li>Esta lata de silicona para hornear es resistente al horno y al calor hasta 500 ° C.</li>
+<li>Apto para lavavajillas, por lo que la limpieza es muy fácil</li>
+<li>Material: silicona</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 * Molde de Silicona para Hornear</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286033035360</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>XZMJ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286030086240</id>
+    <published>2019-10-18T00:38:52-05:00</published>
+    <updated>2019-10-18T00:38:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/2-piezas-de-cortador-de-pelador-de-frutas"/>
+    <title>2 Piezas de Cortador de Pelador de Frutas</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_aa9422e6-9164-4904-aa9f-ad6f6c83491a.jpg?v=1575018742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span style="color: #ff9900;"><strong></strong></span></div>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">¡Fácil eliminación del núcleo de frutas y verduras en solo 3 segundos!</span></strong></p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>Ideal para preparar pimientos rellenos, para asar o ensaladas</strong></span></p>
+<h4><span style="color: #ff9900;"><strong>Características:</strong></span></h4>
+<ul>
+<li>Calidad Alta</li>
+<li>Un buen ayudante para las amas de casa, padres.</li>
+<li>El material de nylon resistente agudiza y todavía se usa de manera segura.</li>
+<li>El tamaño más grande es perfecto para pimientos y tomates.</li>
+</ul>
+<h4><span style="color: #ff9900;">Especificaciones:</span></h4>
+<ul>
+<li>Material: plástico de calidad alimentaria.</li>
+<li>Color: verde, amarillo (aleatorio).</li>
+<li>Tamaño: como se muestra.</li>
+<li>Peso: unos 24 g.</li>
+</ul>
+<p><span class="a-list-item"><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span><br></span></p>
+<ul>
+<li>2 Piezas de Cortador de Pelador de Frutas</li>
+</ul>
+<p><span style="color: #ff0000;"><strong>Nota:</strong></span></p>
+<p>¡Entrega aleatoria sin selección de color!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286030086240</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>JS010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286029103200</id>
+    <published>2019-10-18T00:38:10-05:00</published>
+    <updated>2019-10-18T00:38:10-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/bomba-de-sifon-electrica-de-transferencia-de-liquidos"/>
+    <title>Bomba de Sifón Eléctrica de Transferencia de Líquidos</title>
+    <s:type>Accessorios de Coche</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/3_9f528b09-1a7b-4c21-959a-bf571ee136f5.jpg?v=1575022049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Accessorios de Coche<br>
+        <strong>Precio: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div></div>
+<h3 style="text-align: center;"><span style="color: #ea9999;"><em>Mueva líquidos de forma segura y fácil con esta práctica bomba manual</em></span></h3>
+<h3><em><strong></strong></em></h3>
+<h3></h3>
+<h3><span style="color: #ff9900;"><strong>Características:</strong></span></h3>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Respetuoso con el medio ambiente y alta calidad:</strong></span> la bomba de combustible está hecha de PP y PE de calidad alimentaria. La bomba de gas puede suministrar gas, agua, aceite y otros líquidos no corrosivos. La bomba de sifón se puede utilizar para garaje, acuario, casa, patio, etc.</li>
+<li>
+<span style="color: #ff0000;"><strong>Aumento del rendimiento:</strong></span> la bomba de suministro de combustible puede mover de 10 a 11 litros de gasolina por minuto. La bomba de transferencia de líquidos puede mover 6-7 litros de agua por minuto. Los motores de la bomba de sifón tienen una larga vida útil. El motor de la bomba está silenciado y no hay sonidos que lo molesten.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de usar:</strong></span> la bomba de suministro de combustible requiere dos baterías de tamaño "D" (no incluidas). Desenrosque la tapa de la manija de la bomba de gas e inserte las dos baterías de tamaño "D" en la manija en la dirección indicada por las marcas (+) y (-). Cuando se enciende la unidad, la bomba de sifón puede mover líquido. Presione nuevamente, la bomba de transferencia de líquido se detuvo.</li>
+<li>
+<span style="color: #ff0000;"><strong>Buen sellado:</strong></span> en el centro de la bomba de combustible, donde están conectados el negro y el blanco, hay un desbordamiento. Cuando la bomba de gas entra en funcionamiento, una pequeña cantidad de agua sale del desbordamiento. Si es así, esto es normal. Las otras partes de la bomba de sifón están bien selladas y no se escapan líquidos.</li>
+<li>
+<span style="color: #ff0000;"><strong>ELECCIÓN IDEAL:</strong></span> perfecta para miles de aplicaciones en el hogar, garaje, acuarios, bodegas, baños, tiendas, etc.</li>
+</ul>
+<h3><strong><span style="color: #ff9900;">Especificaciones:</span></strong></h3>
+<ul>
+<li>Color: como se muestra</li>
+<li>Longitud del tubo de aspiración: 30 cm aprox.</li>
+<li>Longitud de la bomba: aproximadamente 64 cm</li>
+<li>Longitud de la manguera de suministro: aproximadamente 60 cm</li>
+<li>Baterías: 2 piezas de baterías D (no incluidas en el paquete)</li>
+</ul>
+<h3><span style="color: #ff9900;"><strong>Nota:</strong></span></h3>
+<p>Este producto no es adecuado para líquidos viscosos y tanques de combustible.</p>
+<h3><span class="a-list-item" style="color: #ff9900;">Paquete Incluido:</span></h3>
+<ul>
+<li>1 x Bomba de Sifón Eléctrica de Transferencia de Líquidos</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286029103200</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>CCSQ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286028939360</id>
+    <published>2019-10-18T00:38:01-05:00</published>
+    <updated>2019-10-18T00:38:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/extreme-limpiador-fuerte-para-eliminar-manchas-persistentes"/>
+    <title>Extreme Limpiador Fuerte para Eliminar Manchas Persistentes</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_ecc54856-63e3-481f-92a7-ff3a09879187.jpg?v=1575020879"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong><span style="color: #e06666;">Es el mejor desodorante y limpiador para cocinar en casa, tocador, baño, ducha, drenaje de aguas residuales y fregadero.</span></strong></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Seguro y Efectivo:</strong></span> la tecnología de espuma tridimensional, la limpieza profunda multidireccional para eliminar las manchas ocultas, puede limpiar todos los rincones. No irritante, no daña las tuberías para satisfacer diferentes necesidades.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de Usar: </strong></span>Simplemente vierta el polvo en el inodoro e inmediatamente enjuáguelo con la cantidad correcta de agua y espuma, remoje durante 30 minutos, luego limpie y enjuague suavemente.</li>
+<li>
+<span style="color: #ff0000;"><strong>Limpieza Completa: </strong></span>Limpieza poderosa, dragado, desodorización, no dañar las manos, gránulos de espuma mágica, puntos de escondite limpios de una manera integral, elimina las manchas de cal y óxido.</li>
+<li>
+<span style="color: #ff0000;"><strong>Amplia Gama de Aplicaciones:</strong></span> aleación de aluminio / acero inoxidable / piso / baldosa / pared y otros materiales. Inodoro / lavabo / fregadero / lavadora / varios tubos / baldosas / paredes y otros lugares difíciles de limpiar.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Instrucciones:</strong></span></p>
+<ol>
+<li>Tome la cantidad correcta de polvo.</li>
+<li>Vierta el polvo en el tubo.</li>
+<li>Enjuague la cantidad correcta de agua</li>
+<li>Remoje durante 30 minutos, luego puede descontaminar fácilmente.</li>
+</ol>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Volumen de suministro:</strong></span></p>
+<p>1 x Extreme Limpiador Fuerte (ca. 250g)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028939360</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CPPJ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286028644448</id>
+    <published>2019-10-18T00:37:47-05:00</published>
+    <updated>2019-10-18T00:37:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-multifuncional-de-limpieza-5-piezas"/>
+    <title>Cepillo Multifuncional de Limpieza, 5 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_585cd732-3130-4a73-8f32-8217403f39e6.jpg?v=1575022402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 style="text-align: left;"><span style="color: #e06666;">Mejore la higiene de la cocina - Con sus colores brillantes y la linda forma, las esponjas de silicona son un accesorio de cocina encantador</span></h4>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Limpiador de silicona para alimentos</strong></span>; silicona resistente al calor de alta calidad; Cepillo antibacterial de silicona para platos, sin BPA, aprobado por la FDA</li>
+<li>
+<span style="color: #ff0000;"><strong>Más seguro de usar:</strong> </span>la lavadora de la cocina no absorbe el agua; Moho no; fácil; Alta resistencia al calor; Se puede lavar en lavavajillas y secar más rápido</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de limpiar:</strong></span> simplemente enjuague las esponjas de silicona o póngalas en el lavaplatos; Diseño de lazo colgante para un almacenamiento conveniente</li>
+<li>
+<span style="color: #ff0000;"><strong>Aparato de cocina ideal:</strong></span> más limpiador de silicona para facilitar el lavado; con cerdas de silicona flexibles y suaves, lo suficientemente flexibles para limpiar utensilios de cocina irregulares</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><span style="color: #ff0000;"><strong>Material:</strong></span> silicona<br><br><strong><span style="color: #ff0000;">Color:</span></strong> color aleatorio</p>
+<h3><span style="color: #ff9900;"><strong>Notas:</strong></span></h3>
+<p>Debido a los diferentes efectos del monitor y de la iluminación, el color real del elemento puede diferir ligeramente del color que se muestra en las imágenes.</p>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong><br> 1 * Cepillo Multifuncional de Limpieza, 5 Piezas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028644448</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>SS002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

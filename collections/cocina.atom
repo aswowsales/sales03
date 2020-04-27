@@ -1,0 +1,1410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://idealdia.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://idealdia.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://idealdia.com/collections/cocina.atom"/>
+  <title>idealdia</title>
+  <updated>2020-03-27T03:38:45-05:00</updated>
+  <author>
+    <name>idealdia</name>
+  </author>
+  <entry>
+    <id>https://idealdia.com/products/4562772688992</id>
+    <published>2020-03-27T03:38:45-05:00</published>
+    <updated>2020-03-27T03:38:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-de-silicona-para-lavar-platos"/>
+    <title>Cepillo de Silicona para Lavar Platos</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_33d9fefe-7822-4084-ad02-edaa19612cd5.jpg?v=1585298333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            12.99 - 19.99
+            <a href="https://idealdia.com/products/cepillo-de-silicona-para-lavar-platos">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong>&gt;&gt; Envío Gratis</strong></span></p>
+<p>Nuestra nueva herramienta multiuso para cocina tiene más de mil cerdas antideslizantes y duraderas que se pueden usar para eliminar eficazmente la suciedad y la mugre. ¡Puede usarse como una esponja de cocina ultra limpia, un abrebotellas antideslizante, un salvamanteles, un limpiador de toallas de baño y más de lo que puedas imaginar!</p>
+<p><span style="color: #ff8000;"><strong>CARACTERISTICAS: </strong></span></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Universal:</strong> </span>se puede usar de cualquier forma que pueda imaginar: como una esponja de cocina ultra limpia, soporte para manijas de olla / sartén, posavasos, abrebotellas antideslizante, limpiador de frutas / verduras, limpiador de pelo para mascotas, esponja de limpieza de maquillaje, cuerpo de baño depurador, etc.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Duradero:</strong> </span>esta es su alternativa antibacteriana y sin olor en comparación con las esponjas normales. Está hecho de silicona de grado alimenticio que no permite el crecimiento de bacterias, NUNCA huele y dura AÑOS.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Limpieza a cara doble:</strong> </span>¡Cada lado tiene más de 1000 "dedos" de limpieza individuales que hacen el trabajo duro por usted! Y debido a que son súper flexibles, pueden entrar incluso en los espacios más pequeños y estrechos. Ahora puede limpiar áreas que nunca antes había podido alcanzar.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Resistencia a temperaturas altas:</strong></span> puede soportar temperaturas de hasta 230 ° C / 450 ° F, lo que permite su uso como posavasos o para sostener sartenes / ollas de calentamiento.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Siempre fresco y limpio:</strong> </span>puedes desinfectarlos poniéndolos en el lavavajillas, microondas o incluso en agua hirviendo, ¡para que siempre tengas un cepillo limpio y fresco!</li>
+</ul>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"> <strong>Color:</strong> </span>rojo, amarillo, verde.<br>
+</li>
+<li>
+<span style="color: #ff2a00;"> <strong>Material:</strong> </span>silicona 100% de grado alimenticio<br>
+</li>
+<li>
+<span style="color: #ff2a00;"> <strong>Tamaño:</strong></span><span> </span>12.5 * 7 * 1.6cm / 4.92 "* 2.75" * 0.63 "</li>
+</ul>
+<p><strong><span style="color: #ff8000;">PAQUETE INCLUYE:</span></strong></p>
+<p><strong>1/3 *<span> </span><span><em>Cepillo de silicona para lavar platos de cocina</em></span></strong></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>ROJO+AMARILLO+VERDE(3 PIEZAS)</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>DGNHM-SANSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>ROJO</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-HONG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>AMARILLO</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-JIN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>VERDE</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-LV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4561910956128</id>
+    <published>2020-03-27T01:45:49-05:00</published>
+    <updated>2020-03-27T01:45:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/moldeos-de-tortilla-antiadherente-de-silicona-reutilizable"/>
+    <title>Moldeos de Tortilla Antiadherente de Silicona Reutilizable</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_d6f46519-76db-47bd-9677-a593b3a4306b.jpg?v=1585291559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>-&gt; Envío Gratis</strong></span></p>
+<p>Este producto se puede usar para hacer pasteles y para decorar pizza, pan, mousse, gelatina, chocolate, budín, pasteles, etc. Puedes hacer los pasteles hermosos y atractivos de una manera simple como el pastelero</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> [RÁPIDO Y AHORRE TIEMPO]</strong></span> Las formas de panqueque tienen 7 anillos redondos, alimentos separados de cada anillo, el diámetro es de 3 pulgadas, una forma fantástica y rápida de hacer tortilla perfectas</li>
+<li>
+<span style="color: #ff0000;"><strong>[SILICONA DE GRADO ALIMENTARIO]</strong></span> 100% de calidad premium pura, sin desvanecimiento, ecológico, no tóxico, manera rápida y fácil de hacer <span>t</span><span>ortilla perfectas</span>
+</li>
+<li>
+<span style="color: #ff0000;"><strong>[FÁCIL DE VOLTAR y NO-STICK]</strong></span><span> </span>Nuevo diseño de pequeños orificios de aire alrededor de un simple giro y 2 orejas extendidas para evitar alimentos, evitar quemaduras, silicona flexible</li>
+<li>
+<span style="color: #ff0000;"><strong>[SEGURO PARA EL USO]</strong></span> Amplio rango de temperatura de -104 a 446 ℉ (-40 + 220 ℃), lavavajillas, microondas, apto para horno, tamaño: 40 * 23 * 1.5 cm, se adapta a la sartén y la parte superior de 10 "</li>
+<li>
+<span style="color: #ff0000;"><strong>[FÁCIL DE LIMPIAR Y AHORRAR]</strong> </span>Después de su uso, el molde de silicona se puede limpiar fácilmente con agua caliente o se puede colocar en el lavavajillas. En el armario, ocupa muy poco espacio, porque puedes apilar diferentes formas muy bien.</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Material: silicona de grado alimenticio</li>
+<li>Color: rojo (como color de la imagen)</li>
+<li>Peso: 150g</li>
+<li>Tamaño: 39.5CM * 23CM * 1.5CM</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluye:</strong></span></p>
+<p>1 * Moldeos de Tortilla Antiadherente de Silicona Reutilizable</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4561910956128</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">18.99</s:price>
+      <s:sku>JDMJ-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4471958372448</id>
+    <published>2020-01-10T03:09:03-05:00</published>
+    <updated>2020-01-10T03:09:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/gancho-adhesivo-sin-costuras-10-20-30-piezas"/>
+    <title>Gancho Adhesivo sin Costuras (10/20/30 Piezas)</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_c6f73d3e-585b-4bb8-8b52-695f85dc207c.jpg?v=1578643756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            14.99 - 24.99
+            <a href="https://idealdia.com/products/gancho-adhesivo-sin-costuras-10-20-30-piezas">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span style="color: #ff8000;">-&gt; Envío Gratis</span></h4>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/1_5c714bc1-918d-4877-b502-314a1b22852e.gif?6604" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p><span style="color: #ff8000;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>Aplicación Amplio</strong></span></li>
+</ul>
+<p>Este gancho adhesivo es versátil y es adecuado para una variedad de escenas en la cocina, baño, hogar, sala de estar, etc. Es adecuado para superficies duras y lisas, como azulejos, puertas de refrigeradores, armarios, mármol, tejas, cerámica, espejos, acrílico, plástico, Laminados, etc. No se recomiendan paredes de cal, paredes pintadas, paredes secas y papel tapiz con texturas, ya que se caerán o dañarán su pared.</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>GRAN CAPACIDAD DE CARGA</strong></span></li>
+</ul>
+<p>Estos ganchos de pared están hechos de acero inoxidable resistente y una estructura de PVC con calidad buena y vida larga. Montajes de pared robustos y pegajosos sin clavos, carga máxima de 15 libras. ¡Cuerpo pequeño, gran energía!</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>DISEÑO TRANSPARENTE</strong></span></li>
+</ul>
+<p>Los ganchos se ven muy delgados y modernos y se ven bien. Son prácticamente invisibles cuando se montan en paneles u otros lugares. La superficie adicional lo hace particularmente seguro y la forma cuadrada permanece plana, haciendo que la instalación sea un juego de niños.</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>FÁCIL DE USAR</strong></span></li>
+</ul>
+<p>Fácil de pegar y no daña tus paredes. No tienes que clavar y perforar. Fácil de quitar sin dañar la superficie. Use y seque varias veces después de la limpieza.</p>
+<p><span style="color: #ff8000;"><strong>Escenarios de Uso</strong></span></p>
+<p>Ideal para utensilios de cocina, abrigos de llaves, bolsos, sombrillas, albornoces, toallas de baño, toallas, sombreros, bufandas, billeteras.</p>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Materiales: acero inoxidable y PVC.</li>
+<li>TIPO: PATRÓN COLORIDO (patrón aleatorio) y PATRÓN TRANSPARENTE</li>
+</ul>
+<span color="#ff2a00" style="color: #ff2a00;"><b>Nota</b></span><br>
+<ul>
+<li>Permita ligeras desviaciones dimensionales debido a mediciones manuales.</li>
+<li>Debido a los diferentes efectos de iluminación y visualización, el color real del artículo puede variar ligeramente del color que se muestra en la imagen.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff8000;"><strong>PAQUETE INCLUYE:</strong></span></p>
+<p><span style="color: #ff8000;"><strong>3 Opciones(10 o 20 o 30)</strong></span></p>
+<ul>
+<li>10 Gancho Adhesivo sin Costuras</li>
+</ul>
+<ul>
+<li>20 Gancho Adhesivo sin Costuras</li>
+</ul>
+<ul>
+<li>30 Gancho Adhesivo sin Costuras</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 10 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CFGG-CAISE-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 20 Piezas</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CFGG-CAISE-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 30 Piezas</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>CFGG-CAISE-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 10 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CFGG-TOUMING-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 20 Piezas</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CFGG-TOUMING-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 30 Piezas</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>CFGG-TOUMING-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4468233109600</id>
+    <published>2020-01-08T01:48:11-05:00</published>
+    <updated>2020-01-08T01:48:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/afilador-de-cuchillos-profesional"/>
+    <title>Afilador de Cuchillos Profesional</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_5e151064-5031-48e7-b1ae-815746067f7a.jpg?v=1578466104"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong>-&gt; Envío Gratis</strong></span></p>
+<p>¿Tienes algunos cuchillos viejos en la casa? ¿Sigues usando piedra de afilar o afilador de cuchillos en general? Pruebe el afilador de cuchillos de cocina de acero inoxidable. ¡Con esto puedes darle al cuchillo un nuevo aspecto! ¡Y te dará una experiencia diferente!</p>
+<p><span style="color: #ff8000;"><strong>Características:</strong></span></p>
+<ul>
+<li><span class="a-list-item"><strong><span style="color: #ff2a00;">✔ GENERAL:</span> </strong>Afila, muele y pule TODOS los cuchillos de cocina romos como un profesional</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>✔ IMPORTANTE:</strong></span> Adecuado para cuchillos de sierra, cuchillos combinados, cuchillos utilitarios, cuchillos de cocinero, cuchillos de jamón, cuchillos de verduras, cuchillos para filetear, cuchillos de cocina y mucho más con cuchillas biseladas en uno y ambos lados</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>✔ CARACTERÍSTICAS ESPECIALES:</strong></span> Rectificado de brazos de carburo de tungsteno ultraduro, más duro que el acero y el titanio, extremadamente resistente y duradero, adecuado para todos los tipos comunes de cuchillas</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>✔ APLICACIÓN:</strong> <span style="color: #000000;">Fácil manejo gracias a la tecnología X-Cross, que se adapta con flexibilidad a cualquier cuchilla, es portátil y se puede usar en cualquier lugar</span></span></span></li>
+</ul>
+<p><span style="color: #ff8000;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: acero inoxidable</li>
+<li>Ángulo de afilado: 11 ° a 21 °</li>
+<li>Un eje de afilado ensanchado en la parte superior facilita la fijación de los cuchillos.</li>
+<li>Los elementos de afilado son fáciles de reemplazar si es necesario</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><strong><span style="color: #ff8000;">Paquete Incluido:</span></strong><br>1 * Afilador de Cuchillos Profesional</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4468233109600</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>MDQ-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4421467799648</id>
+    <published>2019-12-05T01:27:27-05:00</published>
+    <updated>2019-12-05T01:27:27-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/etiqueta-de-aluminio-resistente-al-aceite-y-agua"/>
+    <title>Etiqueta de Aluminio, Resistente al Aceite y Agua</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_53797419-e4d7-44bf-a5c7-2c921b59dd62.jpg?v=1575584000"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong><b>-&gt; Envío Gratis</b></strong></span></p>
+<p><span style="color: #ff8000;"><strong>✨<span style="color: #ff2a00;">Por fin se ha lanzado la mejor pegatina de cocina autoadhesiva y resistente al aceite</span>✨</strong></span></p>
+<p><span><strong><img src="https://cdn.shopify.com/s/files/1/0040/3868/8868/files/A_4_480x480.gif?v=1574755098" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<p> </p>
+<div>
+<ol>
+<li><span><em>Fácil de limpiar, reutilizable, rentable, de buena calidad y asequible.</em></span></li>
+<li><span><em>Utilizado ampliamente, distribución mundial, los compradores pueden insertarlos en las paredes de la cocina, armarios, cajones, etc.</em></span></li>
+<li><span><em>Impermeable, sin decoloración, sin rizado, no sucio y puede fregarse.</em></span></li>
+</ol>
+</div>
+<p><span style="color: #ff8000;"><strong>Características:</strong></span></p>
+<ul>
+<li>¡Esta pegatina de cocina hecha de aluminio de alta calidad impresiona por su eficiencia!</li>
+<li>¡Obtenga una pegatina resistente y duradera para un uso prolongado y confiable en todas las superficies de su cocina!</li>
+<li>Resistente al aceite y repelente a la suciedad: evita que la grasa y el aceite ingresen a su cocina, incluidos gabinetes, hornos, mostradores y paredes.</li>
+<li>Resistente al agua, al moho y al fuego: evita la fuga de agua debajo del fregadero y otras áreas, evitando que se forme moho.</li>
+<li>Resiste temperaturas de hasta 250 grados Celsius, que se pueden usar durante mucho tiempo y no se deformarán.</li>
+</ul>
+<ul></ul>
+<p>Simplemente mida las dimensiones de la superficie a cubrir, córtelas a través de las líneas de cuadrícula exactas en la etiqueta posterior extraíble y ¡listo!<br>Fácil de instalar y quitar al instante cuando ya no lo necesita. Esta pegatina de aluminio para la cocina fue hecha para ti.</p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0040/3868/8868/files/A_4__4_480x480.gif?v=1574754977" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p>La etiqueta posterior extraíble tiene líneas de cuadrícula personalizadas para una fácil medición y colocación. Puede crear fácilmente nuevas apariencias o reparar la apariencia de superficies lisas existentes.</p>
+<p><span style="color: #ff8000;"><strong>Cómo utilizar:</strong></span></p>
+<ol>
+<li>Limpie y seque la superficie con agua y jabón suave.</li>
+<li>Asegúrese de que la superficie sea plana y no pueda tener tallas.</li>
+<li>Solo corta el tamaño que quieras.</li>
+<li>Use un trapo de cocina o cartón para eliminar las burbujas de aire.</li>
+</ol>
+<ol></ol>
+<p><span style="color: #ff8000;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Materiales: papel de aluminio.</li>
+<li>Colores: plata</li>
+<li>Tamaño del producto: Ancho: 40 cm Longitud: 2M</li>
+</ul>
+<ul></ul>
+<p><span mce-data-marked="1" style="color: #ff8000;"><strong>Paquete Incluye:</strong></span></p>
+<p>1 × Etiqueta de Aluminio, Resistente al Aceite y Agua</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4421467799648</id>
+      <title>Rejilla</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>CFFYTZ-GEZI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4421467799648</id>
+      <title>Normal</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>CFFYTZ-PUTONG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4408431607904</id>
+    <published>2019-11-29T03:16:13-05:00</published>
+    <updated>2019-11-29T03:16:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/contenedor-de-basura-plegable-creativo-montado-en-la-pared"/>
+    <title>Contenedor de basura plegable creativo montado en la pared</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_1400x_78cdf213-b8b4-4a69-b7d6-4df5cbf35875.jpg?v=1575113108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            26.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 style="text-align: center;"><span style="color: #ff0000;"><strong>Contenedor de basura plegable creativo montado en la pared</strong></span></h4>
+<div></div>
+<div><img src="https://cdn.shopify.com/s/files/1/0266/7334/8656/files/GIF_1_50f003f6-febd-4c15-871d-81e93cc1f44f_large.gif?v=1570523190" alt="" width="285" height="285" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div></div>
+<div></div>
+<ul dir="ltr"></ul>
+<p><span style="color: #ff9900;"><strong>💗Caracteristicas:</strong></span></p>
+<ul>
+<li>Nuevo diseño creativo montado en la pared plegable, muy adecuado para gabinetes de cocina con un grosor de 2.2 cm</li>
+<li><span style="color: #ff0000;"><strong>Diga adiós para doblarse tirando las basuras en la cocina</strong></span></li>
+<li>
+<span style="color: #ff0000;"><strong>De gran calibre,</strong></span><span> </span>más conveniente para barrer todos los desechos en el banco o la mesa de cocción;</li>
+<li>Alta calidad y material grueso, Súper rodamiento, duradero para usar;</li>
+<li>Fácil de abrir y cerrar, solo presione y tire,<span> </span><span style="color: #ff0000;"><strong>ahorre espacio al plegar</strong></span>
+</li>
+</ul>
+<ul>
+<li>También se puede utilizar en automóviles, para el almacenamiento de residuos, vómitos de mareo, evite la vergüenza.</li>
+</ul>
+<ul></ul>
+<p><span><span style="color: #ff9900;"><strong>💗Especificaciones:</strong></span><br></span></p>
+<ul>
+<li>
+<strong>Material:</strong><span> </span>plástico + silicona</li>
+<li>
+<strong>Tamaño:</strong><span> </span>como muestra la imagen</li>
+<li>
+<strong>Capacidad:</strong><span> </span>9L</li>
+<li>
+<strong>Color:</strong><span> </span>marrón, blanco</li>
+<li>
+<strong>Ocasiones:</strong><span> </span>cocina / baño, aseo, coches.</li>
+</ul>
+<ul></ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0077/6096/9779/files/989f1a752ca823fdfce8d6b290acdfa7_20ecda2c-ce9f-43cf-a5d1-516132b92343_large.jpg?v=1571109721" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul dir="ltr"></ul>
+<p><span style="color: #ff9900;"><strong>🎁Paquete Incluye:</strong></span></p>
+<ul>
+<li>1* Contenedor de basura plegable creativo</li>
+</ul>
+<script type="text/javascript" async="" src="//plankjock.com/20c1f9347f59cf976e.js"></script></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4408431607904</id>
+      <title>BLANCO</title>
+      <s:price currency="EUR">26.99</s:price>
+      <s:sku>LJT-BAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4408431607904</id>
+      <title>BEIGE</title>
+      <s:price currency="EUR">26.99</s:price>
+      <s:sku>LJT-MI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4408408670304</id>
+    <published>2019-11-29T03:07:31-05:00</published>
+    <updated>2019-11-29T03:07:31-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cazuela-con-filtro-incorporado"/>
+    <title>Cazuela con Filtro Incorporado</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_0c122686-d933-46ed-b2d8-91a7b22cc3d0.jpg?v=1575113007"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            45.99 - 50.45
+            <a href="https://idealdia.com/products/cazuela-con-filtro-incorporado">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3><span style="color: #ff8000;"><strong>--&gt;Envío Gratis</strong></span></h3>
+<p style="text-align: center;"><span style="color: #ff2a00;"><strong>🔥Cocinar nunca ha sido tan Fácil🔥</strong></span></p>
+<p style="text-align: center;"><em><span style="color: #ff2a00;">🤗Si usa nuestra cacerola, la comida derramada es cosa del pasado.</span></em></p>
+<p style="text-align: center;"><span style="color: #ff2a00;"><strong>¡El Filtro está instalado!</strong></span></p>
+<p><img src="https://cdn.shopify.com/s/files/1/0247/5143/9956/files/1_2b483dd9-f4e1-4d65-ac94-dda0d2f35fd1_480x480.gif?v=1574323391" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff8000;"><strong>Cómo utilizar: </strong></span></p>
+<p>Cocine sus fideos en nuestra olla con tamiz incorporado. Cuando se escurre, el agua se escurre, pero los fideos se quedan en el tamiz. Simplemente levante la cesta y estará lista para servir. Ya no se inyecta en un tamiz, ya que el tamiz está integrado directamente en esta olla.<br><br>No es sólo para la pasta. Úsalo hasta <span style="color: #ff2a00;"><strong>5 libras de conchas</strong></span> y cuando se abran, simplemente saca la canasta y ya están listas para servir. Hervir las patatas, escurrir el agua y triturarlas en la misma olla para obtener puré de patatas de forma rápida y sencilla.<br></p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0104/6364/1663/files/3_dcf02d25-2abf-4c2a-bedc-29a81a91cd2b_480x480.gif?v=1572489280" style="display: block; margin-left: auto; margin-right: auto;"></strong></p>
+<p><span style="color: #ff8000;"><strong>Característica:</strong></span></p>
+<ul>
+<li>¡No importa cuánto lo incline, la canasta siempre se mantendrá en posición vertical!</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0104/6364/1663/files/2_02f1834e-df46-4295-809a-d3e5025d61d3_480x480.gif?v=1572417997" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Limpiar es muy fácil.</strong></span> ¡Ahorra tiempo al limpiar, ya que su comida se desliza fuera de la superficie de cocción antiadherente! Lavar en el lavavajillas!</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0247/5143/9956/files/00_00_26--00_00_30_480x480.gif?v=1574326370" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul>
+<li>Perfecto para una variedad de platos, rigatoni, conchas de pasta, pajaritas, linguini y estos deliciosos ravioles que no se romperán al servir.</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0247/5143/9956/files/00_00_04--00_00_08_480x480.gif?v=1574326316" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff8000;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: seguro y 100% de calidad alimentaria</li>
+<li>Tamaño del paquete: Pequeño: 27.5 * 27.5 * 13.5 cm, Grande: 31 * 31 * 14.5 cm</li>
+<li>Color: negro</li>
+<li>Peso: 1200 g / 1700 g</li>
+</ul>
+<p><span style="color: #ff8000;"><strong>Paquete Incluye:</strong></span></p>
+<p>1 * Cazuela con Filtro Incorporado</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4408408670304</id>
+      <title>Pequeño</title>
+      <s:price currency="EUR">45.99</s:price>
+      <s:sku>LSG-XIAO-HEI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4408408670304</id>
+      <title>Grande</title>
+      <s:price currency="EUR">50.45</s:price>
+      <s:sku>LSG-DA-HEI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286041882720</id>
+    <published>2019-10-18T00:45:50-05:00</published>
+    <updated>2019-10-18T00:45:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cubo-de-hielo-con-tapa"/>
+    <title>Cubo de Hielo con Tapa</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_1400x_3358bf8f-e0c3-4e6b-87e9-2e3e854b0a57.jpg?v=1575018280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Gadgets<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><em><span style="color: #00ffff;"><strong><span style="color: #0000ff;">🍻🍹<span style="color: #e06666;">Genio del hielo</span></span><span style="color: #0000ff;">🍻🍹</span></strong></span></em></h3>
+<p>El contenedor de cubitos de hielo puede contener hasta <span style="color: #93c47d;"><strong>120 cubitos de hielo</strong></span>, este espíritu de hielo de las cámaras externas congela el hielo, disminuye continuamente la temperatura del balde de hielo y disminuye la velocidad de fusión del hielo en el balde.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Hecho de silicona segura para alimentos sin BPA</strong></span>, segura y no tóxica, apta para lavavajillas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Adecuado para refrescar todas las bebidas</strong></span> en bares, fiestas, restaurantes o clubes.</li>
+<li>
+<span style="color: #ff0000;"><strong>Adecuado para muchos lugares y bebidas</strong></span>, adecuado para familias, casas, bares, cafés, hoteles, restaurantes, fiestas, buffets, etc. Proporciona un tiempo de enfriamiento prolongado para whisky, cócteles, bebidas, etc., bebidas refrigeradas rápidamente en botellas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Diseño único de doble cámara</strong></span> que puede albergar hasta 130 cubitos de hielo.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de usar</strong></span>, solo llena y almacena cubitos de hielo.</li>
+<li>
+<span style="color: #ff0000;"><strong>Portátil</strong></span>, equipado con una tapa y un cubo antideslizante para facilitar su transporte.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: silicona libre de BPA</li>
+<li>Color azul</li>
+<li>Tamaño: 5.1 * 5.5 * 5.7 pulgadas / 13cm * 13cm * 14.5cm</li>
+<li>Peso: 433g</li>
+</ul>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong></p>
+<p>1 x Cubo de Hielo con Tapa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286041882720</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>BT001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286040014944</id>
+    <published>2019-10-18T00:44:48-05:00</published>
+    <updated>2019-10-18T00:44:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cinta-de-sellado-linea-de-la-esquina"/>
+    <title>Cinta de Sellado Línea de la Esquina</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_270cf5fa-8331-4727-a06a-817fd5b133c1.jpg?v=1575019988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: left;"><span style="color: #ff8000;"><strong>--&gt;&gt;Envío Gratis</strong></span></h3>
+<h3 style="text-align: center;"><span style="color: #e06666;"><strong>✯ No más fugas en la cocina y en el baño✯</strong></span></h3>
+<p><span style="color: #e06666;"><strong><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/Gifs_1_medium_large_d2f9bc78-8c29-41b0-acba-9118503ff995_grande.gif?v=1553667715" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<h3><span style="color: #ff9900;"><strong>Características:</strong></span></h3>
+<ul>
+<li>La cinta para la pared del baño de polvo es fácil de aplicar a su baño o rincón de la cocina, lo que facilita su limpieza</li>
+<li>La línea de cocina es de 300 cm de largo, que se adapta a sus diferentes necesidades en diferentes lugares.</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0115/6304/0868/files/Caulk_sticker1_medium.gif?v=1552670426" style="display: block; margin-left: auto; margin-right: auto;"><br>
+<ul>
+<li>El burlete es adhesivo diseñado para ser fácil y conveniente de instalar</li>
+<li>La banda impermeable está hecha principalmente de material de PVC que es impermeable y puede durar mucho tiempo.</li>
+<li>La cinta impermeable es pequeña, que puede almacenarse fácilmente cuando no está en uso y no ocupará demasiado espacio</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0115/6304/0868/files/Caulk_sticker_medium.gif?v=1552670277" style="display: block; margin-left: auto; margin-right: auto;"><br>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Color: Blanco, Café Marrón, Gris, Beige, Azul, Rosa, Verde</li>
+<li>Material: PVC</li>
+<li>Tamaño: 300 * 3,8 cm</li>
+</ul>
+<ul></ul>
+<p><strong><span style="color: #ff0000;">Nota:</span></strong></p>
+<p>Existen pocas diferencias de color en función de la resolución.<br>Puede haber un error menor debido a varias medidas.</p>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido :</b></strong></span></p>
+<p>1 * Cinta de Sellado Línea de la Esquina (300cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Blanco</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-BAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Marrón</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Kaffeebraun</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Gris</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Grau</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Beige</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Beige</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Azul</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Blau</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Pink</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Verde</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Grün</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286033035360</id>
+    <published>2019-10-18T00:40:49-05:00</published>
+    <updated>2019-10-18T00:40:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/molde-de-silicona-para-hornear"/>
+    <title>Molde de Silicona para Hornear</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_2000x_7b058f30-a95f-4996-a648-9546e9b6726e.jpg?v=1575021462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description bottom" itemprop="description"><span style="color: #e06666;">♨ La bandeja para hornear de silicona con seguridad para el horno, la resistencia al calor hasta 500F, sin BPA, es un buen tablero para hornear productos horneados que permite a las madres hacer deliciosos bocadillos para los niños ♨</span></div>
+<div class="description bottom" itemprop="description"><span style="color: #e06666;"></span></div>
+<div class="description bottom" itemprop="description">
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>La bandeja para hornear de silicona con seguridad para el horno, resistencia al calor hasta 500F, sin BPA, es una buena panadería de bricolaje para productos horneados.</li>
+<li>La forma de 24 * 24 cm puede hacer 12 pasteles a la vez, use la forma de un cerdo en la manta para hacer que la hora de la merienda sea más interesante.</li>
+<li>La fiesta de cumpleaños ofrece la decoración de pastel perfecta y se presentará como un regalo para su familia o amigos.</li>
+<li>Fácil de limpiar, apto para lavavajillas y silicona antiadherente para cocinar y limpiar con facilidad.</li>
+<li>Adecuado para la preparación de pasteles, pan, mousse, jalea, platos preparados, chocolate, etc.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Calidad Alta</li>
+<li>Haga que la merienda sea más divertida con los cerdos, hornee 12 golosinas al mismo tiempo con este molde para hornear</li>
+<li>El molde funciona con mini francos y mezclas de panqueques empacados, panqueques caseros, rollos de media luna o masa para pasteles.</li>
+<li>Esta lata de silicona para hornear es resistente al horno y al calor hasta 500 ° C.</li>
+<li>Apto para lavavajillas, por lo que la limpieza es muy fácil</li>
+<li>Material: silicona</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 * Molde de Silicona para Hornear</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286033035360</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>XZMJ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286030086240</id>
+    <published>2019-10-18T00:38:52-05:00</published>
+    <updated>2019-10-18T00:38:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/2-piezas-de-cortador-de-pelador-de-frutas"/>
+    <title>2 Piezas de Cortador de Pelador de Frutas</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_aa9422e6-9164-4904-aa9f-ad6f6c83491a.jpg?v=1575018742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><span style="color: #ff9900;"><strong></strong></span></div>
+<p style="text-align: center;"><strong><span style="color: #ff0000;">¡Fácil eliminación del núcleo de frutas y verduras en solo 3 segundos!</span></strong></p>
+<p style="text-align: center;"><span style="color: #ff0000;"><strong>Ideal para preparar pimientos rellenos, para asar o ensaladas</strong></span></p>
+<h4><span style="color: #ff9900;"><strong>Características:</strong></span></h4>
+<ul>
+<li>Calidad Alta</li>
+<li>Un buen ayudante para las amas de casa, padres.</li>
+<li>El material de nylon resistente agudiza y todavía se usa de manera segura.</li>
+<li>El tamaño más grande es perfecto para pimientos y tomates.</li>
+</ul>
+<h4><span style="color: #ff9900;">Especificaciones:</span></h4>
+<ul>
+<li>Material: plástico de calidad alimentaria.</li>
+<li>Color: verde, amarillo (aleatorio).</li>
+<li>Tamaño: como se muestra.</li>
+<li>Peso: unos 24 g.</li>
+</ul>
+<p><span class="a-list-item"><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span><br></span></p>
+<ul>
+<li>2 Piezas de Cortador de Pelador de Frutas</li>
+</ul>
+<p><span style="color: #ff0000;"><strong>Nota:</strong></span></p>
+<p>¡Entrega aleatoria sin selección de color!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286030086240</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>JS010</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286028644448</id>
+    <published>2019-10-18T00:37:47-05:00</published>
+    <updated>2019-10-18T00:37:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-multifuncional-de-limpieza-5-piezas"/>
+    <title>Cepillo Multifuncional de Limpieza, 5 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_585cd732-3130-4a73-8f32-8217403f39e6.jpg?v=1575022402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 style="text-align: left;"><span style="color: #e06666;">Mejore la higiene de la cocina - Con sus colores brillantes y la linda forma, las esponjas de silicona son un accesorio de cocina encantador</span></h4>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Limpiador de silicona para alimentos</strong></span>; silicona resistente al calor de alta calidad; Cepillo antibacterial de silicona para platos, sin BPA, aprobado por la FDA</li>
+<li>
+<span style="color: #ff0000;"><strong>Más seguro de usar:</strong> </span>la lavadora de la cocina no absorbe el agua; Moho no; fácil; Alta resistencia al calor; Se puede lavar en lavavajillas y secar más rápido</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de limpiar:</strong></span> simplemente enjuague las esponjas de silicona o póngalas en el lavaplatos; Diseño de lazo colgante para un almacenamiento conveniente</li>
+<li>
+<span style="color: #ff0000;"><strong>Aparato de cocina ideal:</strong></span> más limpiador de silicona para facilitar el lavado; con cerdas de silicona flexibles y suaves, lo suficientemente flexibles para limpiar utensilios de cocina irregulares</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><span style="color: #ff0000;"><strong>Material:</strong></span> silicona<br><br><strong><span style="color: #ff0000;">Color:</span></strong> color aleatorio</p>
+<h3><span style="color: #ff9900;"><strong>Notas:</strong></span></h3>
+<p>Debido a los diferentes efectos del monitor y de la iluminación, el color real del elemento puede diferir ligeramente del color que se muestra en las imágenes.</p>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong><br> 1 * Cepillo Multifuncional de Limpieza, 5 Piezas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028644448</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>SS002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286024024160</id>
+    <published>2019-10-18T00:35:06-05:00</published>
+    <updated>2019-10-18T00:35:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cortador-de-ensalada-ensalada-en-60-segundos"/>
+    <title>Cortador de Ensalada, Ensalada en 60 Segundos</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/11_4a521abb-2b04-4059-910f-59222d7e9bcf.jpg?v=1575019738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span style="color: #e06666;"><em><strong>5 en 1: tazón de verduras + colador de agua + tabla de cortar + rebanador seguro + exprimidor de limón</strong></em></span></h2>
+<h4 style="text-align: left;">Con nuestro tazón mejorado para cortar ensaladas usted puede ahorrar tiempo y hacer ensaladas saludables para usted y su familia. Usted puede comprar uno a un familiar o amigo como regalo.</h4>
+<p style="text-align: center;"><img alt="" src="//cdn.shopify.com/s/files/1/0010/8730/7837/files/36.gif?v=1543047186" style="float: none;"></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Rápido, Fácil, Seguro:</strong></span></li>
+</ul>
+<p>Preparar una ensalada ya no es una tarea. Enjuague, corte y sirva la ensalada y el jugo en 60 segundos con la ayuda de este cortador de ensaladas mejorado con exprimidor de limón. Menos herramientas y nunca cortar dedos. Buena opción para los amantes de la ensalada.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Tazón saludable aprobado por la FDA:</strong></span></li>
+</ul>
+<p>Hecho de PE + PP material de calidad alimentaria.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Versión mejorada:</strong></span></li>
+</ul>
+<p>(1) Se coloca un "fregadero" alrededor del piso para evitar que el jugo caiga sobre la mesa. Mantenga su mesa limpia y seca.<br><br>(2) En comparación con el diseño "plano" del plato, nuestro diseño Wavy Edge le permite girar con facilidad y rapidez.<br><br>(3) Dos alas en ambos lados facilitan mover o levantar el tazón.<br><br>(4) Un agujero colgante es conveniente para guardar la base y mantenerla seca y limpia.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Combinación perfecta:</strong></span></li>
+</ul>
+<p>No solo hay una ensaladera mejorada, sino también un exprimidor de limón. Todas las piezas son aptas para lavavajillas y separables, fáciles de limpiar.</p>
+<p><span style="color: #ff9900;"><strong>Características y Consejos:</strong></span></p>
+<ul>
+<li>Diseño mejorado: Se puede colgar hasta secar. El jugo se puede almacenar en el fregadero. Simplemente gira el tazón, usando las alas de ambos lados.</li>
+<li>Tamaño del producto: 7.5 * 4.7 * 7.8 pulgadas, suficiente para 2 personas.</li>
+<li>No se recomiendan los alimentos duros. Asegúrese de que solo se utilice 3/4 del recipiente para llenar los alimentos.</li>
+<li>El cuchillo no debe ser menor de 7 pulgadas.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 *  Cortador de Ensalada</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024024160</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>SLW-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286021468256</id>
+    <published>2019-10-18T00:33:04-05:00</published>
+    <updated>2019-10-18T00:33:04-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/limpiador-de-aerosol-efervescente-de-tabletas"/>
+    <title>Limpiador de Aerosol Efervescente de Tabletas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/6_grande_5c500a82-6012-48a4-8f1a-57c1f3db764b.jpg?v=1575018212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            16.99 - 29.99
+            <a href="https://idealdia.com/products/limpiador-de-aerosol-efervescente-de-tabletas">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff0000;"><strong>¡Ahora hay limpiador de tabletas más conveniente!</strong></span></p>
+<h4><span style="color: #ff9900;">A. 10 Piezas con Botella, <span style="color: #ff0000;">16,99</span> Euro</span></h4>
+<h4>
+<span style="color: #ff9900;">B. 30 </span><span style="color: #ff9900;">Piezas con Botella</span><span style="color: #ff9900;">, <span style="color: #ff0000;">24,99</span> Euro</span>
+</h4>
+<h4>
+<span style="color: #ff9900;">C. 50 </span><span style="color: #ff9900;">Piezas con Botella</span><span style="color: #ff9900;">, <span style="color: #ff0000;">29,99 </span>Euro</span>
+</h4>
+<p><strong><span style="color: #ff9900;">D. 30 Piezas sin Botella, <span style="color: #ff0000;">19.99</span> Euro</span></strong></p>
+<p><strong><span style="color: #ff9900;">E. 50 Piezas sin Botella, <span style="color: #ff0000;">24.99</span> Euro</span></strong></p>
+<p>El limpiador en spray multifuncional es un poderoso agente de limpieza integrado. No solo es adecuado para las manchas de ropa sino que también tiene un fuerte efecto de descontaminación en las manchas de la campana de la cocina, las manchas del piso del inodoro, el lustre de madera, etc. que pueden reemplazar su limpieza habitual. Con un limpiador de una sola pieza, sin lejía química, se puede usar de manera segura para las manchas de mascotas sin dañar a las mascotas.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Limpiador de Aerosol Efervescente de Tabletas</strong></span> con botella de limpieza de uso general limpiador de espuma burbujeante.</li>
+<li>
+<span style="color: #ff0000;"><strong>Formato Súper Concentrado</strong></span>, la tableta de 1pc equivale a 4L de vidrio automático para agua.</li>
+<li>
+<span style="color: #ff0000;"><strong>Práctico de Usar</strong></span>, solo disuelve la tableta en agua.</li>
+<li>
+<span style="color: #ff0000;"><strong>Uso Multifuncional</strong></span>, ropa, mancha de aceite de cocina, mancha del piso del inodoro, madera contrachapada, parabrisas de automóviles, etc.</li>
+<li>
+<span style="color: #ff0000;"><strong>Seguro y Respetuoso con el Medio Ambiente</strong></span>: uso de enzimas biológicas para descomponer las manchas para un efecto limpio, respetuoso con el medio ambiente y no tóxico.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span><br>Material: hecho de enzimas biológicas, respetuoso con el medio ambiente, no tóxico<br>Diámetro de la tableta: 2 cm<br>Tamaño de las botellas: 26 * 5 * 8.5 cm / 10.2 "* 2" * 3.3 "(H * W * L)<br>Añadir 1 pastilla a 4 litros de agua.</p>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Notas: </strong></span></p>
+<p>Si mezcla el polvo limpio con agua, úselo mejor dentro de 6 horas.</p>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>Botella de Spray vacía y hoja de limpieza</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021468256</id>
+      <title>10 Piezas + Botella</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>QWF001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021468256</id>
+      <title>30 Piezas + Botella</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>QWF007</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021468256</id>
+      <title>50 Piezas + Botella</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>QWF008</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021468256</id>
+      <title>30 Piezas sin Botella</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>QWF003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021468256</id>
+      <title>50 Piezas sin Botella</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>QWF002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286020845664</id>
+    <published>2019-10-18T00:32:38-05:00</published>
+    <updated>2019-10-18T00:32:38-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/tapa-de-frescura-de-silicona-elastica-alternativa-ecologica-y-reutilizable"/>
+    <title>Tapa de Frescura de Silicona Elástica Alternativa Ecológica y Reutilizable</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_7059b230-4105-4ce1-bb1a-530be727ac95.jpg?v=1575013409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            15.99 - 20.99
+            <a href="https://idealdia.com/products/tapa-de-frescura-de-silicona-elastica-alternativa-ecologica-y-reutilizable">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><em><span style="color: #ff00ff;"><strong><span>✌ <span style="color: #e06666;">A partir de hoy, Tira la envoltura de plástico</span></span> <span>✌ </span></strong></span></em></h3>
+<p><span style="color: #93c47d;"><em>Para todos los que desean mantener su comida no solo práctica sino también fresca responsable </em></span></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<p>Salud y seguridad: tapas de silicona 100% aptas para alimentos, material elástico libre de BPA, simplemente puede poner la tapa de silicona sobre la comida y calentarla en el horno o en el microondas.</p>
+<div>
+<ul>
+<li> <span style="color: #ff0000;"><strong>ALLROUND-SET:</strong></span> Las tapas de silicona de diferentes tamaños sustituyen ahora a las tapas demasiado grandes o demasiado pequeñas, pero también a las frescas o al papel de aluminio. También pueden apilarse o almacenarse entre sí para ahorrar espacio y pueden utilizarse de forma flexible.</li>
+<li>
+<strong><span style="color: #ff0000;"> DEHNBAR &amp; FLEXIBLE:</span></strong> Nuestras tapas de silicona son extensibles, muy elásticas y se adaptan a cualquier contenedor, ya sea redondo o cuadrado. Nunca más tendrá que luchar con tapas inadecuadas. ¡Prometido!</li>
+<li>
+<span style="color: #ff0000;"><strong> VERSÁTIL Y LARGA:</strong></span> Su comida durará mucho más tiempo ahora porque está sellada herméticamente. No sólo la fruta cortada se mantiene fresca durante mucho tiempo. Con cada uso se evita el desperdicio y se protege el medio ambiente.</li>
+<li>
+<span style="color: #ff0000;"><strong> FÁCIL DE LIMPIAR:</strong></span> Ya sea a mano o en el lavavajillas, nuestras tapas están listas para su uso en cuestión de segundos.</li>
+</ul>
+<ul></ul>
+<h3 style="text-align: center;"><em><span style="color: #e06666;">Realiza tu Contribución al Medio Ambiente Ahora</span></em></h3>
+</div>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Material: silicona</li>
+<li>Diámetro: 6.5 cm (2.6 "), 9.5 cm (3.7"), 11.5 cm (4.5 "), 14.5 cm (5.7"), 16.5 cm (6.5 "), 21 cm (8.3")</li>
+<li>Color: azul transparente</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><b><span color="#005000">Paquete Incluido:</span></b></span><span><br>1 Juego (6 * tapa de alimentos frescos) / 2 Juegos (12 * tapa de alimentos frescos)<br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286020845664</id>
+      <title>1 Set (6 Piezas) / Azul</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>BXG-LAN-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286020845664</id>
+      <title>1 Set (6 Piezas) / Blanco</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>BXG-TOU-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286020845664</id>
+      <title>2 Set (12 Piezas) / Azul</title>
+      <s:price currency="EUR">20.99</s:price>
+      <s:sku>BXG-LAN-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286020845664</id>
+      <title>2 Set (12 Piezas) / Blanco</title>
+      <s:price currency="EUR">20.99</s:price>
+      <s:sku>BXG-TOU-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286016946272</id>
+    <published>2019-10-18T00:29:43-05:00</published>
+    <updated>2019-10-18T00:29:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/organizador-de-los-cubiertos-en-cocina"/>
+    <title>Organizador de los Cubiertos en Cocina</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_86bb73fa-5f52-42cd-b0b1-470517c256b4.png?v=1575021249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span style="color: #ff9900;"><strong><em>💐<span style="color: #e06666;">Organizador de suministros de cocina</span></em></strong><span style="color: #e06666;">🍴</span></span></div>
+<div style="text-align: center;"><span style="color: #ff9900;"><span style="color: #e06666;">🍹 Mantenga sus cuchillos, cucharas, tenedores limpios y bien ordenados.</span>🥄</span></div>
+<p><img src="https://cdn.shopify.com/s/files/1/0191/5210/9668/files/SCREEN_REPAIR_PATCH_LOGO2_large.gif?v=1562233076" alt="" width="347" height="347" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<br><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span><br>
+<ul>
+<li>Una forma nueva y ahorra espacio de almacenar sus cubiertos y crea más espacio en su cajón.</li>
+<li>Compartimentos individuales, apilados para diferentes cubiertos. Puedes colocarlos como quieras.</li>
+<li>Iconos de cubiertos para una fácil identificación, conveniente y ordenado.</li>
+<li>Hecho de material PP de calidad alimentaria, no tóxico y duradero.</li>
+<li>Adecuado para cajones con una altura mínima de 3,25 pulgadas. Dimensión del producto es 39.6 * 11 * 5.5 cm.</li>
+</ul>
+<span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span><br>
+<ul>
+<li><span>Material: PP</span></li>
+<li><span>Peso: 450 g</span></li>
+<li><span>Tamaño: 39.6 * 11 * 5.5 cm</span></li>
+<li><span>Color: gris / blanco</span></li>
+</ul>
+<span style="color: #ff0000;"><strong>NOTAS:</strong></span><span></span>
+<ul>
+<li><span>Debido a los diferentes monitores y efectos de luz, el color real del elemento puede ser ligeramente diferente del color mostrado en las imágenes.</span></li>
+</ul>
+<span style="color: #ff9900;"><strong>PAQUETE INCLUYE:</strong></span><br>
+<ul>
+<li><span>1 * Organizador de los Cubiertos en Cocina</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286016946272</id>
+      <title>Gris</title>
+      <s:price currency="EUR">21.99</s:price>
+      <s:sku>SZH-HUI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286016946272</id>
+      <title>Blanco</title>
+      <s:price currency="EUR">21.99</s:price>
+      <s:sku>SZH-BAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286012915808</id>
+    <published>2019-10-18T00:26:52-05:00</published>
+    <updated>2019-10-18T00:26:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/bolsa-de-almacenamiento-reutilizable-12-piezas"/>
+    <title>Bolsa de Almacenamiento Reutilizable, 12 Piezas</title>
+    <s:type>Accessorios de Coche</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_1a442ffe-66c1-489f-930a-0f15cae37669.jpg?v=1575019703"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Accessorios de Coche<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 style="text-align: center;"><span style="color: #93c47d;">Reduce <span style="color: #000000;">el uso de</span> bolsas de plástico,</span></h4>
+<h4><span style="color: #ff9900;"><strong>elige un estilo de vida <em>más amigable con <span style="color: #ff0000;">el medio ambiente</span></em></strong></span></h4>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Transpirable:</strong></span><span> </span>el diseño de malla transpirable es mejor y más ecológico que las bolsas de plástico normales. El diseño de malla fina permite el flujo de aire en lugar de sudar en las bolsas de plástico.<span> </span><span>La transpirabilidad evita la condensación en el refrigerador y asegura que las frutas y verduras se mantengan frescas por más tiempo.</span>
+</li>
+<li>
+<span style="color: #ff0000;"><strong>Lavable:</strong></span><span> </span>Las bolsas son lavables y reutilizables para alimentos y almacenamiento.</li>
+<li>
+<strong><span style="color: #ff0000;">Duraderas:</span><span> </span></strong>las bolsas están hechas de poliéster de malla resistente, liviana y bien transparente. Extiende la vida útil de la bolsa, ahorrando dinero.<span> </span><span>Una alternativa sostenible al plástico desechable.</span>
+</li>
+<li>
+<span style="color: #ff0000;"><strong>Portátil:</strong></span><span> </span>Puedes llevar las bolsas al comprar. Son ligeros y fáciles de usar. Puede poner las frutas y verduras en su bolsillo y luego ponerlas directamente en el refrigerador.</li>
+<li>
+<span style="color: #ff0000;"><strong>Multifuncional:</strong></span><span> </span>estas bolsas de almacenamiento reutilizables son adecuadas para todos los miembros de la familia. Son perfectos para juguetes, frutas, monedas, medicinas, cables, cosméticos, accesorios, etc. Utilícelos para ir de compras, acampar, pescar, cultivar un huerto, ir a la playa y viajar, etc.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: malla de poliéster (sin BPA)</li>
+<li>Tamaño: 30 * 20 cm, 30 * 36 cm, 30 * 43 cm</li>
+<li>Peso: alrededor de 258g</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Volumen de suministro:</strong></span></p>
+<ul>
+<li>3 x bolsa de almacenamiento pequeña roja</li>
+<li>6 x bolsa de almacenamiento verde medio</li>
+<li>3 x bolsa de almacenamiento grande azul</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286012915808</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>XCD001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286010261600</id>
+    <published>2019-10-18T00:24:55-05:00</published>
+    <updated>2019-10-18T00:24:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/conjunto-de-cano-de-acero-inoxidable-13-piezas-para-decoracion-de-pasteles"/>
+    <title>Conjunto de Caño de Acero Inoxidable (13 piezas) para Decoración de Pasteles</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_4318066a-70a9-4710-a58b-3d2519557b7a.jpg?v=1571376304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>-&gt;Envío Gratis</strong></span></p>
+<h3 style="text-align: center;">
+<span style="color: #93c47d;">Con el Caño Listo Pronto</span><br><span style="color: #93c47d;">para Decorar como un Profesional</span>
+</h3>
+<p><span style="color: #93c47d;"><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/2_83ebd56b-74f7-408b-9925-ec868cf262ec_large.jpg?v=1566009190" alt="" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p>Utilice 7 formas diferentes de boquillas para crear una variedad de patrones de flores, y utilice adaptadores tricolores para crear flores coloridas, decorar su pastel y divertirse horneando con los hijos.</p>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<p>🍪 El conjunto de boquillas de pulverización tiene <span style="color: #e06666;"><strong>una amplia gama de aplicaciones</strong></span>: Pasteles, tartaletas, magdalenas, donas, fiestas, panaderías, etc...</p>
+<p>🍩<span><span style="color: #e06666;"><strong> 9 diferentes patrones de boquillas</strong></span>, puede producir todo tipo de flores.</span></p>
+<p>🍰 <span style="color: #e06666;"><strong>Buena elección</strong></span> para los pasteleros profesionales y los entusiastas de la panadería.</p>
+<p>🎂 Formas robustas y ligeras, fáciles de usar y de limpiar.</p>
+<p>🍨 Fabricado en acero inoxidable,<span style="color: #e06666;"><strong> reutilizable e inodoro</strong></span>.</p>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>
+<strong>Material:</strong> acero inoxidable + silicona</li>
+<li>
+<strong>Peso:</strong> 175 g</li>
+<li>
+<strong>Tamaño:</strong> como se muestra en la imagen 6.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>PAQUETE INCLUYE:</strong></span></p>
+<ul>
+<li>9 * caños</li>
+<li>1 * bolsa de tubería</li>
+<li>1 * adaptador tricolor</li>
+<li>1 * adaptador de arandela</li>
+<li>1 * cepillo de limpieza</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286010261600</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>BIAOHUAQI-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286004396128</id>
+    <published>2019-10-18T00:20:54-05:00</published>
+    <updated>2019-10-18T00:20:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/protector-de-drenaje-permanente"/>
+    <title>Protector de Drenaje Permanente</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>Vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/20190919230901.jpg?v=1575021716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            16.99 - 24.99
+            <a href="https://idealdia.com/products/protector-de-drenaje-permanente">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span style="color: #ff0000;"><strong><span class="tlid-translation translation" lang="es"><span title="" class="">Por favor, preste atención, este producto es un producto PREVENTA</span></span></strong></span></div>
+<div style="text-align: center;"><span style="color: #ff0000;"><strong><span class="tlid-translation translation" lang="es"><span title="" class="">Vendrá en pronto</span></span></strong></span></div>
+<p><span class="tlid-translation translation" lang="es"><span title="" class="">Nunca comprometa su tapón por un colador nuevamente, nunca llame al plomero nuevamente, nunca use productos químicos nocivos nuevamente.</span><span> </span><span title="">100% libre de BPA y silicona flexible de alto grado.</span></span></p>
+<p><img src="https://odditymall.com/includes/content/the-tub-ring-thumb.gif" alt="The Tub Ring Wraps Around Your Drain To Instantly Catch Every Hair" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h4><span style="color: #ff9900;"><span class="tlid-translation translation" lang="es"><span title="" class="alt-edited">Características</span></span>:</span></h4>
+<ul>
+<li><span class="tlid-translation translation" lang="es"><span title="" class="">Lo mejor de Drain Protector es que puede instalarlo instantáneamente y quitarlo instantáneamente para limpiarlo.</span><span> </span><span style="color: #ff0000;"><em><strong><span title="">No hay un largo proceso de instalación.</span></strong></em> </span><span title="" class="">Simplemente envuélvala alrededor del desagüe de la bañera emergente y tomará aproximadamente 2 segundos pasar de los pelos que caen por el desagüe, a que los pelos se atrapen instantáneamente.</span></span></li>
+<li><span class="tlid-translation translation" lang="es"><span title="" class="">Un diseño único de ranura y anillo ayuda a atrapar cada cabello en su bañera.</span><span> </span><span title="" class="">Es perfecto para familias numerosas que tienen el pelo largo y grueso que generalmente necesita pescar una vez por semana, o para familias con mascotas que se bañan mucho<span style="color: #ff0000;">.</span></span><span style="color: #ff0000;"> <strong><em><span title="" class="">Funciona muy bien para cualquier tipo de cabello, ya sea de una mascota, un humano o incluso probablemente del vello corporal de un Gran Pie.</span></em></strong></span></span></li>
+</ul>
+<div><img src="https://odditymall.com/includes/content/upload/the-tub-ring-2356.gif" alt="Tub Ring Instant Bath Tub Hair Catcher" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<ul>
+<li><span class="tlid-translation translation" lang="es"><span title="" class="">El protector de desagüe significa que no hay más anzuelos de pesca por el desagüe,<span> </span><span style="color: #ff0000;"><strong><em>no más usar un émbolo en la bañera, no más productos químicos fuertes para limpiar una obstrucción, ¡y no más pelo mojado y repugnante en las manos desnudas una vez a la semana después de que la bañera retroceda!</em></strong></span></span><span style="color: #ff0000;"> </span><span title="" class="">Además, tampoco hay que preocuparse por dejar caer un anillo, un arete u otro objeto pequeño por el desagüe, ya que el protector de desagüe lo atrapará.</span></span></li>
+</ul>
+<h4><span style="color: #ff9900;"><span class="tlid-translation translation" lang="es"><span title="" class="">Especificaciones</span></span>:</span></h4>
+<ul>
+<li><span class="tlid-translation translation" lang="es"><span title=""><span><strong>Material:</strong></span><span> </span>silicona de alto grado</span></span></li>
+<li><span class="tlid-translation translation" lang="es"><span title=""><span><strong>Estilo / Color:</strong></span><span> </span>Anillo / Azul cielo</span></span></li>
+<li><span class="tlid-translation translation" lang="es"><span title="" class=""><span><strong>Dimensión:</strong></span><span> </span>3.75 "L x 3.75" W x 1.125 "H</span></span></li>
+<li><span class="tlid-translation translation" lang="es"><span title="" class=""><span><strong>Peso:</strong></span><span> </span>1.7 oz.</span></span></li>
+</ul>
+<h4><span style="color: #ff9900;"><span class="tlid-translation translation" lang="es"><span title="" class="">Paquete Incluye</span></span>:</span></h4>
+<ul>
+<li><span><em><span class="tlid-translation translation" lang="es"><span title="" class="">1 x protector de drenaje permanente</span></span></em></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004396128</id>
+      <title>2 PIEZAS</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>QQ002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004396128</id>
+      <title>3 PIEZAS</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>QQ003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004396128</id>
+      <title>5 PIEZAS</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>QQ005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

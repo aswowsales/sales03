@@ -1,0 +1,2434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://idealdia.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://idealdia.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://idealdia.com/collections/oferta-especial.atom"/>
+  <title>idealdia</title>
+  <updated>2020-04-22T07:48:03-05:00</updated>
+  <author>
+    <name>idealdia</name>
+  </author>
+  <entry>
+    <id>https://idealdia.com/products/4592981540960</id>
+    <published>2020-04-22T07:48:03-05:00</published>
+    <updated>2020-04-22T07:48:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/estante-de-almacenamiento-4-colores"/>
+    <title>Estante de Almacenamiento, 4 Colores</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_3d269616-34bb-4361-952f-133e6f10859a.jpg?v=1587559691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            13.99 - 46.99
+            <a href="https://idealdia.com/products/estante-de-almacenamiento-4-colores">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span color="#444444" style="color: #ff8000;"><b>Estante de Almacenamiento</b></span></h3>
+<h3 style="text-align: center;"><span color="#444444" style="color: #ff8000;"><b>🍐🍊🍐🍊🍐🍊</b></span></h3>
+<p><em><strong>Este estante de almacenamiento ahorra espacio, mantiene los alimentos frescos y organiza alimentos / bebidas / piezas pequeñas; se usan en refrigeradores, congeladores, mesas, escritorios, gabinetes, y son ideales para almacenar y organizar alimentos o manipular artículos pequeños en mesas y mesas.</strong></em></p>
+<p><img src="https://ae01.alicdn.com/kf/HTB1ovqtbvvsK1RjSspdq6AZepXaG.jpg" alt="O1CN01VF4afV1bHYy14DcCh_!!50983440" width="310" height="310" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h4><span style="color: #ff8000;"><strong>CARACTERISTICAS: </strong></span></h4>
+<ul>
+<li>El diseño deslizante retráctil le permite extraer la caja de almacenamiento y sacar las cosas cómodamente.</li>
+<li>Puede aprovechar al máximo el espacio del refrigerador y mantener los artículos pequeños pedidos con este estante de almacenamiento.</li>
+<li>Se puede colocar debajo de la mesa para albergar objetos pequeños. Ahorro de espacio.</li>
+</ul>
+<p><img src="https://ae01.alicdn.com/kf/HTB1AoQEJgTqK1RjSZPhq6xfOFXaS.jpg" alt="O1CN01xhgYFK1bHYy35exUt_!!50983440" width="302" height="302" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="https://ae01.alicdn.com/kf/HTB1jlkSay_1gK0jSZFqq6ApaXXai.jpg" width="301" height="301" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h4><span style="color: #ff8000;"><strong>ESPECIFICACIONES: </strong></span></h4>
+<ul>
+<li>Material: PP</li>
+<li>Tamaño: 20.5 * 16.5 * 7.5cm</li>
+<li>Color: beige, rosa, azul, blanco</li>
+</ul>
+<p><img src="https://ae01.alicdn.com/kf/HTB1HhsTaAL0gK0jSZFxq6xWHVXaC.jpg" width="323" height="323" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><img src="https://ae01.alicdn.com/kf/HTB1p_UTaAH0gK0jSZPiq6yvapXa1.jpg" width="347" height="347" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<h4><span style="color: #ff8000;"><strong>Paquete Incluye: </strong></span></h4>
+<ul>
+<li>1/3/6 piezas de Estante de Almacenamiento</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Blanco / 1 Pieza</title>
+      <s:price currency="EUR">13.99</s:price>
+      <s:sku>CWJ001-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Blanco / 3 Piezas</title>
+      <s:price currency="EUR">27.99</s:price>
+      <s:sku>CWJ003-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Blanco / 6 Piezas</title>
+      <s:price currency="EUR">46.99</s:price>
+      <s:sku>CWJ006-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Azul / 1 Pieza</title>
+      <s:price currency="EUR">13.99</s:price>
+      <s:sku>CWJ001-Blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Azul / 3 Piezas</title>
+      <s:price currency="EUR">27.99</s:price>
+      <s:sku>CWJ003-Blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Azul / 6 Piezas</title>
+      <s:price currency="EUR">46.99</s:price>
+      <s:sku>CWJ006-Blue</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Rosa / 1 Pieza</title>
+      <s:price currency="EUR">13.99</s:price>
+      <s:sku>CWJ001-Pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Rosa / 3 Piezas</title>
+      <s:price currency="EUR">27.99</s:price>
+      <s:sku>CWJ003-Pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Rosa / 6 Piezas</title>
+      <s:price currency="EUR">46.99</s:price>
+      <s:sku>CWJ006-Pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Beige / 1 Pieza</title>
+      <s:price currency="EUR">13.99</s:price>
+      <s:sku>CWJ001-Beige</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Beige / 3 Piezas</title>
+      <s:price currency="EUR">27.99</s:price>
+      <s:sku>CWJ003-Beige</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4592981540960</id>
+      <title>Beige / 6 Piezas</title>
+      <s:price currency="EUR">46.99</s:price>
+      <s:sku>CWJ006-Beige</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4562772688992</id>
+    <published>2020-03-27T03:38:45-05:00</published>
+    <updated>2020-03-27T03:38:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-de-silicona-para-lavar-platos"/>
+    <title>Cepillo de Silicona para Lavar Platos</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_33d9fefe-7822-4084-ad02-edaa19612cd5.jpg?v=1585298333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            12.99 - 19.99
+            <a href="https://idealdia.com/products/cepillo-de-silicona-para-lavar-platos">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong>&gt;&gt; Envío Gratis</strong></span></p>
+<p>Nuestra nueva herramienta multiuso para cocina tiene más de mil cerdas antideslizantes y duraderas que se pueden usar para eliminar eficazmente la suciedad y la mugre. ¡Puede usarse como una esponja de cocina ultra limpia, un abrebotellas antideslizante, un salvamanteles, un limpiador de toallas de baño y más de lo que puedas imaginar!</p>
+<p><span style="color: #ff8000;"><strong>CARACTERISTICAS: </strong></span></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"><strong>Universal:</strong> </span>se puede usar de cualquier forma que pueda imaginar: como una esponja de cocina ultra limpia, soporte para manijas de olla / sartén, posavasos, abrebotellas antideslizante, limpiador de frutas / verduras, limpiador de pelo para mascotas, esponja de limpieza de maquillaje, cuerpo de baño depurador, etc.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Duradero:</strong> </span>esta es su alternativa antibacteriana y sin olor en comparación con las esponjas normales. Está hecho de silicona de grado alimenticio que no permite el crecimiento de bacterias, NUNCA huele y dura AÑOS.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Limpieza a cara doble:</strong> </span>¡Cada lado tiene más de 1000 "dedos" de limpieza individuales que hacen el trabajo duro por usted! Y debido a que son súper flexibles, pueden entrar incluso en los espacios más pequeños y estrechos. Ahora puede limpiar áreas que nunca antes había podido alcanzar.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Resistencia a temperaturas altas:</strong></span> puede soportar temperaturas de hasta 230 ° C / 450 ° F, lo que permite su uso como posavasos o para sostener sartenes / ollas de calentamiento.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Siempre fresco y limpio:</strong> </span>puedes desinfectarlos poniéndolos en el lavavajillas, microondas o incluso en agua hirviendo, ¡para que siempre tengas un cepillo limpio y fresco!</li>
+</ul>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff2a00;"> <strong>Color:</strong> </span>rojo, amarillo, verde.<br>
+</li>
+<li>
+<span style="color: #ff2a00;"> <strong>Material:</strong> </span>silicona 100% de grado alimenticio<br>
+</li>
+<li>
+<span style="color: #ff2a00;"> <strong>Tamaño:</strong></span><span> </span>12.5 * 7 * 1.6cm / 4.92 "* 2.75" * 0.63 "</li>
+</ul>
+<p><strong><span style="color: #ff8000;">PAQUETE INCLUYE:</span></strong></p>
+<p><strong>1/3 *<span> </span><span><em>Cepillo de silicona para lavar platos de cocina</em></span></strong></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>ROJO+AMARILLO+VERDE(3 PIEZAS)</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>DGNHM-SANSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>ROJO</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-HONG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>AMARILLO</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-JIN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4562772688992</id>
+      <title>VERDE</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>DGNHM-LV</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4542087004256</id>
+    <published>2020-03-16T02:51:07-05:00</published>
+    <updated>2020-03-16T02:51:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/caja-portatil-de-jabon"/>
+    <title>Caja Portátil de Jabón, 20 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_453118fe-b326-4129-a740-1d4e122cd418.jpg?v=1584345082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            12.99 - 17.99
+            <a href="https://idealdia.com/products/caja-portatil-de-jabon">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff8000;"><strong><b>--&gt; </b></strong><strong><b>Envío Gratis</b></strong></span></p>
+<div style="text-align: center;">
+<span style="color: #ff2a00;"><strong>El jabón único para viajar</strong></span><br><span style="color: #ff2a00;"><strong>Portátil y práctico</strong></span>
+</div>
+<p><span><strong><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/01_36527619-23a2-4503-baa7-7493289935ac_large.gif?v=1558076020" alt="" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<p>El jabón es muy adecuado para viajar. Y el jabón es muy ligero y pequeño y por eso es portátil. El sabor es muy suave y la función del jabón también es muy efectiva. Si vas de viaje, puedes llevar el jabón contigo.</p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/x1_e06242c8-0c06-440e-a3b5-45c3478a484e_grande.jpg?v=1558076116" alt=""></span></p>
+<p><span style="color: #ff8000;"><strong>CARACTERISTICAS: </strong></span></p>
+<ul>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>Es limpio y fácil de transportar</strong> </span>y una pieza se puede lavar. Si usa jabón de papel, siempre estará bien equipado si lo deja en baños públicos. Va con cualquier pantalón o bolso.</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>El jabón es ideal</strong> </span>para lavarse las manos mientras viaja, viajar, acampar, hacer senderismo, asar a la parrilla o para actividades al aire libre.</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>Tres tipos de fragancias:</strong> </span>rosa (rosa), lavanda (púrpura), té verde (verde).</span></li>
+<li><span class="a-list-item"><span style="color: #ff2a00;"><strong>Práctico y fácil de usar:</strong> </span>el jabón desechable se puede usar en lugares sin jabón. Simplemente sostenga la barra de jabón con los dedos secos y límpiela con agua entre las manos. La jabonera se disuelve completamente durante el uso para que pueda lavarse bien las manos</span></li>
+</ul>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/x2_e9f3eab3-0bd2-4db9-80fa-89b46c9157dc_grande.jpg?v=1558076140" alt=""></span></p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/x3_8f688b82-43c7-4e75-a98f-f87d9a489abc_grande.jpg?v=1558076158" alt=""></span></p>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/x4_7db07f5a-85d1-4783-911e-fbaf704aa094_grande.jpg?v=1558076177" alt=""></span></p>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES: </strong></span></p>
+<ul>
+<li><span><span style="color: #ff2a00;"><strong>Materia:</strong></span> plástico y jabón<br></span></li>
+<li><span><span style="color: #ff2a00;"><strong>Color:</strong> </span>azul, amarillo, rosa, violeta</span></li>
+<li><span><span style="color: #ff2a00;"><strong>Pesot: </strong></span>15G</span></li>
+<li><span><span style="color: #ff2a00;"><strong>Tamaño: </strong></span>6.5CM* 4.5CM</span></li>
+</ul>
+<p><span style="color: #ff8000;"><strong>Paquete Incluye:</strong></span><br></p>
+<p><span>1 * Caja Portátil de Jabón (Selección automática de color) </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4542087004256</id>
+      <title>5</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>BXFZP-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4542087004256</id>
+      <title>10</title>
+      <s:price currency="EUR">17.99</s:price>
+      <s:sku>BXFZP-0002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4471958372448</id>
+    <published>2020-01-10T03:09:03-05:00</published>
+    <updated>2020-01-10T03:09:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/gancho-adhesivo-sin-costuras-10-20-30-piezas"/>
+    <title>Gancho Adhesivo sin Costuras (10/20/30 Piezas)</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_c6f73d3e-585b-4bb8-8b52-695f85dc207c.jpg?v=1578643756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            14.99 - 24.99
+            <a href="https://idealdia.com/products/gancho-adhesivo-sin-costuras-10-20-30-piezas">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span style="color: #ff8000;">-&gt; Envío Gratis</span></h4>
+<p><span><img src="https://cdn.shopify.com/s/files/1/0173/6140/4004/files/1_5c714bc1-918d-4877-b502-314a1b22852e.gif?6604" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p><span style="color: #ff8000;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>Aplicación Amplio</strong></span></li>
+</ul>
+<p>Este gancho adhesivo es versátil y es adecuado para una variedad de escenas en la cocina, baño, hogar, sala de estar, etc. Es adecuado para superficies duras y lisas, como azulejos, puertas de refrigeradores, armarios, mármol, tejas, cerámica, espejos, acrílico, plástico, Laminados, etc. No se recomiendan paredes de cal, paredes pintadas, paredes secas y papel tapiz con texturas, ya que se caerán o dañarán su pared.</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>GRAN CAPACIDAD DE CARGA</strong></span></li>
+</ul>
+<p>Estos ganchos de pared están hechos de acero inoxidable resistente y una estructura de PVC con calidad buena y vida larga. Montajes de pared robustos y pegajosos sin clavos, carga máxima de 15 libras. ¡Cuerpo pequeño, gran energía!</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>DISEÑO TRANSPARENTE</strong></span></li>
+</ul>
+<p>Los ganchos se ven muy delgados y modernos y se ven bien. Son prácticamente invisibles cuando se montan en paneles u otros lugares. La superficie adicional lo hace particularmente seguro y la forma cuadrada permanece plana, haciendo que la instalación sea un juego de niños.</p>
+<ul>
+<li><span style="color: #ff2a00;"><strong>FÁCIL DE USAR</strong></span></li>
+</ul>
+<p>Fácil de pegar y no daña tus paredes. No tienes que clavar y perforar. Fácil de quitar sin dañar la superficie. Use y seque varias veces después de la limpieza.</p>
+<p><span style="color: #ff8000;"><strong>Escenarios de Uso</strong></span></p>
+<p>Ideal para utensilios de cocina, abrigos de llaves, bolsos, sombrillas, albornoces, toallas de baño, toallas, sombreros, bufandas, billeteras.</p>
+<p><span style="color: #ff8000;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Materiales: acero inoxidable y PVC.</li>
+<li>TIPO: PATRÓN COLORIDO (patrón aleatorio) y PATRÓN TRANSPARENTE</li>
+</ul>
+<span color="#ff2a00" style="color: #ff2a00;"><b>Nota</b></span><br>
+<ul>
+<li>Permita ligeras desviaciones dimensionales debido a mediciones manuales.</li>
+<li>Debido a los diferentes efectos de iluminación y visualización, el color real del artículo puede variar ligeramente del color que se muestra en la imagen.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff8000;"><strong>PAQUETE INCLUYE:</strong></span></p>
+<p><span style="color: #ff8000;"><strong>3 Opciones(10 o 20 o 30)</strong></span></p>
+<ul>
+<li>10 Gancho Adhesivo sin Costuras</li>
+</ul>
+<ul>
+<li>20 Gancho Adhesivo sin Costuras</li>
+</ul>
+<ul>
+<li>30 Gancho Adhesivo sin Costuras</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 10 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CFGG-CAISE-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 20 Piezas</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CFGG-CAISE-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN COLORIDO / 30 Piezas</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>CFGG-CAISE-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 10 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CFGG-TOUMING-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 20 Piezas</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>CFGG-TOUMING-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4471958372448</id>
+      <title>PATRÓN TRANSPARENTE / 30 Piezas</title>
+      <s:price currency="EUR">24.99</s:price>
+      <s:sku>CFGG-TOUMING-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4468190937184</id>
+    <published>2020-01-08T00:47:51-05:00</published>
+    <updated>2020-01-08T00:47:51-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/caja-de-zapatos"/>
+    <title>Caja de Zapatos</title>
+    <s:type>Hogar</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/123456_847bbe73-d551-437a-aba6-932da49037b8.jpg?v=1578462492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Hogar<br>
+        <strong>Precio: </strong>
+            12.99 - 39.99
+            <a href="https://idealdia.com/products/caja-de-zapatos">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<h4><span style="color: #ff8000;">-&gt; Envío Gratis</span></h4>
+<h3 style="text-align: center;"><span style="color: #ff2a00;"><strong>😝La Moda Nueva🔥</strong></span></h3>
+</div>
+<div>
+<p><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/111_0b0d188a-28fa-4327-abf6-a008d1e97b08_480x480.gif?v=1576824121" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Nuestras cajas de zapatos tienen puertas plegables para que pueda acceder fácilmente a sus zapatos incluso cuando los dispositivos están apilados o en un estante alto. El frente y los lados transparentes le permiten ver lo que hay dentro de un vistazo</p>
+</div>
+<h3><span style="color: #ff8000;"><em>Protege los Zapatos</em></span></h3>
+<div><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/222_d62a114f-2609-43a4-8bae-cc63383534ec_480x480.gif?v=1576824198" alt="" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<div>
+<ul>
+<li>
+<strong><span style="color: #ff2a00;">Como caja de almacenamiento</span></strong>, lleva buenos zapatos a buenos lugares, y sus zapatos merecen la mejor atención posible. Estos contenedores de zapatos se ajustan a una variedad de <span style="color: #ff2a00;"><em>zapatos de hombre, tacones de mujer, zapatillas de deporte para hombres y mujeres</em></span>.</li>
+<li>Multifunción, nuestros cubos de almacenamiento también<span style="color: #ff2a00;"><strong> se utilizan como cajones de almacenamiento</strong></span>, organizadores de estantes para piezas pequeñas.</li>
+<li>
+<span style="color: #ff2a00;"><strong>Abra la puerta a 120 grados</strong></span>, quítese los zapatos sin esfuerzo, corra la caja de zapatos después del aire fresco</li>
+</ul>
+</div>
+<div><img src="https://cdn.shopify.com/s/files/1/2488/1680/files/1_932f5440-ebad-4a11-8332-7c2025c4f1ee_480x480.jpg?v=1576824725" alt="" width="345" height="345" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<ul>
+<li>Categoría de producto: caja de zapatos</li>
+<li>Tamaño universal: 24 x 33 x 13 cm</li>
+</ul>
+<ul></ul>
+<div><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/a555710489c26d0959eb9fc33dc9bfb3_480x480.jpg?v=1577934369" width="480x480" height="480x480"></div>
+<h3><span style="color: #ff8000;">Paquete incluido:</span></h3>
+<ul>
+<li>Caja de Zapatos con Cajones</li>
+</ul>
+<div><img src="https://cdn.shopify.com/s/files/1/0081/7905/6751/files/9089006901_1833180743.jpg?v=1557589670" width="386" height="217" style="display: block; margin-left: auto; margin-right: auto;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>BLANCO / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-BAI-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>BLANCO / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-BAI-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>ROSA / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-FEN-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>ROSA / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-FEN-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>AZUL / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-LAN-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>AZUL / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-LAN-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>VERDE / 6 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>XIEHE-LV-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4468190937184</id>
+      <title>VERDE / 1 Pieza</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>XIEHE-LV-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286045880416</id>
+    <published>2019-10-18T00:47:52-05:00</published>
+    <updated>2019-10-18T00:47:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juguete-para-mascotas-globo-rotatorio-electrico"/>
+    <title>Juguete para Mascotas, Globo Rotatorio Eléctrico</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/4_d8df75af-b4a6-4e29-925d-63b4fb76e2d0.jpg?v=1575014357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;">
+<span style="color: #93c47d;"><strong>☆</strong></span><em><strong><span style="color: #e06666;"> Bola de comadreja</span> </strong></em><span style="color: #93c47d;"><strong>☆</strong></span>
+</h3>
+<p style="text-align: center;"><span style="color: #93c47d;">Un producto maravilloso para mejorar la relación entre usted y su mascota.</span></p>
+<h4><span style="color: #ff9900;"><strong>Características:</strong></span></h4>
+<ul>
+<li>Fabricado en <span style="color: #ff0000;">plástico de alta calidad</span>, duradero y ligero.</li>
+<li>
+<span style="color: #ff0000;">Alimentado por batería</span>, voltear hacia adelante y hacia atrás para hacer la caza del castor.</li>
+<li>
+<span style="color: #ff0000;">Tamaño pequeño</span>, adecuado para perros y gatos para barbacoas y juegos.</li>
+<li>
+<span style="color: #ff0000;">Un divertido juguete</span> para jugar el tiempo libre.</li>
+<li>
+<span style="color: #ff0000;">Tamaño portátil</span>, fácil de llevar y usar.</li>
+</ul>
+<p><span><span style="color: #ff9900;"><strong>Especificaciones:</strong></span><br> </span></p>
+<ul>
+<li>Color: se muestra como imagen</li>
+<li>Diámetro de la bola: aproximadamente 8 cm / 3.14 ''</li>
+<li>Longitud de la cola: aproximadamente 21 cm / 8.26 ''</li>
+</ul>
+<p><span><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></span></p>
+<p><span>1 * Juguete para Mascotas, Globo Rotatorio Eléctrico</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286045880416</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CWGQ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286042570848</id>
+    <published>2019-10-18T00:46:18-05:00</published>
+    <updated>2019-10-18T00:46:18-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/bombillas-led-con-efecto-de-llama"/>
+    <title>Bombillas LED con Efecto de Llama</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/a_d79b9ca1-a612-4dc9-b1d5-1a94b4d2e7ec.jpg?v=1575018801"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>☀ Bombilla Encendida ☀</strong></em></span></h3>
+<p><span style="color: #e06666;"><strong>Efecto de llama perfecto y más seguro:</strong></span> el color de las bombillas está cerca del fuego real, es el elemento perfecto para colocar velas tradicionales. Cuando abres la luz, te muestra un ambiente muy cálido y romántico. La llama parpadeante le da a su hogar una sensación acogedora en invierno, sin el peligro de una llama abierta.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> 4 modos de luz y función invertida:</strong></span> los modos de parpadeo, respiración e iluminación general se pueden cambiar fácilmente mediante el encendido / apagado según sus preferencias o los requisitos de la aplicación. Integrada con el sensor de gravedad, esta lámpara puede detectar la dirección de fijación y ajustar automáticamente la llama para que apunte hacia arriba.</li>
+<li>
+<strong><span style="color: #ff0000;">Bombillas LED con efecto de llama:</span></strong> Las fuentes de luz LED seguras y que ahorran energía simulan un efecto de llama natural. La bombilla se acerca mucho a una verdadera llama parpadeante y le brinda momentos cálidos, románticos y relajantes.</li>
+<li>
+<span style="color: #ff0000;"><strong>Posibilidades de aplicación variadas:</strong> </span>genial como decoración para el hogar, dormitorio, sala de estar, bar, hotel o discotecas, cervecerías al aire libre, restaurantes, cafés, bodas, fiestas, iglesias y castillos y muchos más. La lámpara decorativa irradia colores cálidos como una llama real y crea un ambiente tranquilo, romántico y relajado.</li>
+<li>
+<span style="color: #ff0000;"><strong>Recomendación de uso:</strong> </span>para crear un mejor efecto de llama parpadeante, debe instalar la bombilla en una pantalla apagada, una linterna, etc.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff0000;"><strong>Nota:</strong></span></p>
+<ul>
+<li>Los enchufes son intercambiables con E26 y E27.</li>
+<li>Nuestra antorcha de llama LED con sensor de gravedad se suministra con un sensor de gravedad. La dirección del fuego se invierte automáticamente.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Voltaje: 100-240 V CA, 50/60 Hz.</li>
+<li>Fuente de alimentación: 7 W.</li>
+<li>Fuente de luz: 2835 diodos emisores de luz LED, 108 piezas.</li>
+<li>Versión: E27.</li>
+<li>Temperatura de funcionamiento: -20 ° C a + 50 ° C.</li>
+<li>Dimensiones: 62 x 136 mm.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #000000;"><span style="color: #000000;"><span style="color: #000000;"><span><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span><br></span></span></span></span></p>
+<p>1 * Bombillas LED con Efecto de Llama</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286042570848</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>HYD001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286041882720</id>
+    <published>2019-10-18T00:45:50-05:00</published>
+    <updated>2019-10-18T00:45:50-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cubo-de-hielo-con-tapa"/>
+    <title>Cubo de Hielo con Tapa</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_1400x_3358bf8f-e0c3-4e6b-87e9-2e3e854b0a57.jpg?v=1575018280"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Gadgets<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><em><span style="color: #00ffff;"><strong><span style="color: #0000ff;">🍻🍹<span style="color: #e06666;">Genio del hielo</span></span><span style="color: #0000ff;">🍻🍹</span></strong></span></em></h3>
+<p>El contenedor de cubitos de hielo puede contener hasta <span style="color: #93c47d;"><strong>120 cubitos de hielo</strong></span>, este espíritu de hielo de las cámaras externas congela el hielo, disminuye continuamente la temperatura del balde de hielo y disminuye la velocidad de fusión del hielo en el balde.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Hecho de silicona segura para alimentos sin BPA</strong></span>, segura y no tóxica, apta para lavavajillas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Adecuado para refrescar todas las bebidas</strong></span> en bares, fiestas, restaurantes o clubes.</li>
+<li>
+<span style="color: #ff0000;"><strong>Adecuado para muchos lugares y bebidas</strong></span>, adecuado para familias, casas, bares, cafés, hoteles, restaurantes, fiestas, buffets, etc. Proporciona un tiempo de enfriamiento prolongado para whisky, cócteles, bebidas, etc., bebidas refrigeradas rápidamente en botellas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Diseño único de doble cámara</strong></span> que puede albergar hasta 130 cubitos de hielo.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de usar</strong></span>, solo llena y almacena cubitos de hielo.</li>
+<li>
+<span style="color: #ff0000;"><strong>Portátil</strong></span>, equipado con una tapa y un cubo antideslizante para facilitar su transporte.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: silicona libre de BPA</li>
+<li>Color azul</li>
+<li>Tamaño: 5.1 * 5.5 * 5.7 pulgadas / 13cm * 13cm * 14.5cm</li>
+<li>Peso: 433g</li>
+</ul>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong></p>
+<p>1 x Cubo de Hielo con Tapa</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286041882720</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>BT001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286040014944</id>
+    <published>2019-10-18T00:44:48-05:00</published>
+    <updated>2019-10-18T00:44:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cinta-de-sellado-linea-de-la-esquina"/>
+    <title>Cinta de Sellado Línea de la Esquina</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_270cf5fa-8331-4727-a06a-817fd5b133c1.jpg?v=1575019988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: left;"><span style="color: #ff8000;"><strong>--&gt;&gt;Envío Gratis</strong></span></h3>
+<h3 style="text-align: center;"><span style="color: #e06666;"><strong>✯ No más fugas en la cocina y en el baño✯</strong></span></h3>
+<p><span style="color: #e06666;"><strong><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/Gifs_1_medium_large_d2f9bc78-8c29-41b0-acba-9118503ff995_grande.gif?v=1553667715" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<h3><span style="color: #ff9900;"><strong>Características:</strong></span></h3>
+<ul>
+<li>La cinta para la pared del baño de polvo es fácil de aplicar a su baño o rincón de la cocina, lo que facilita su limpieza</li>
+<li>La línea de cocina es de 300 cm de largo, que se adapta a sus diferentes necesidades en diferentes lugares.</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0115/6304/0868/files/Caulk_sticker1_medium.gif?v=1552670426" style="display: block; margin-left: auto; margin-right: auto;"><br>
+<ul>
+<li>El burlete es adhesivo diseñado para ser fácil y conveniente de instalar</li>
+<li>La banda impermeable está hecha principalmente de material de PVC que es impermeable y puede durar mucho tiempo.</li>
+<li>La cinta impermeable es pequeña, que puede almacenarse fácilmente cuando no está en uso y no ocupará demasiado espacio</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0115/6304/0868/files/Caulk_sticker_medium.gif?v=1552670277" style="display: block; margin-left: auto; margin-right: auto;"><br>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Color: Blanco, Café Marrón, Gris, Beige, Azul, Rosa, Verde</li>
+<li>Material: PVC</li>
+<li>Tamaño: 300 * 3,8 cm</li>
+</ul>
+<ul></ul>
+<p><strong><span style="color: #ff0000;">Nota:</span></strong></p>
+<p>Existen pocas diferencias de color en función de la resolución.<br>Puede haber un error menor debido a varias medidas.</p>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido :</b></strong></span></p>
+<p>1 * Cinta de Sellado Línea de la Esquina (300cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Blanco</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-BAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Marrón</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Kaffeebraun</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Gris</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Grau</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Beige</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Beige</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Azul</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Blau</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Pink</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Verde</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Grün</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286039457888</id>
+    <published>2019-10-18T00:44:23-05:00</published>
+    <updated>2019-10-18T00:44:23-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/pistola-de-agua-potente-para-coche-y-jardin"/>
+    <title>Pistola de Agua Potente para Coche y Jardín</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/2_1400x_227baf23-7288-45d3-9923-aa5d901aa8be.jpg?v=1575022481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><em><span style="color: #e06666;"><strong>La mejor herramienta para tu jardín</strong></span></em></h3>
+<p style="text-align: center;"><span style="color: #e06666;"><em>Nuestro producto mejorará el hogar y estilo de vida</em></span></p>
+<h3><span style="color: #ff9900;">Descripción:</span></h3>
+<ul>
+<li>Nuestras pistolas de agua hacen que su trabajo de irrigación sea más fácil y divertido, como un juguete para adultos.</li>
+<li>También puede usar su pistola de agua para limpiar fácilmente su automóvil y limpiar la suciedad.</li>
+<li>También puede simplemente girar la boquilla de la manguera y rociar sus flores más sensibles con un rocío fino. La niebla fina le permite distribuir las flores de manera uniforme sin dañarlas.</li>
+<li>La potente boquilla de la manguera es más poderosa que las boquillas convencionales y ahorra más agua.</li>
+</ul>
+<ul></ul>
+<h3><span style="color: #ff9900;"><strong>Características:</strong></span></h3>
+<ul>
+<li>Se adapta a mangueras estándar de 5/8 pulgadas. Cinco ajustes de agua</li>
+<li>Mango ergonómico. Acero inoxidable de alta calidad.</li>
+<li>Material: aleación de aluminio + ABS + TFR</li>
+<li>Nylon reforzado y goma blanda.</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<h3><span class="a-list-item" style="color: #ff9900;"><strong></strong></span></h3>
+<h3><span style="color: #ff9900;"><strong>Especificación:</strong></span></h3>
+<ul>
+<li>Color: negro</li>
+<li>Tamaño: 23 * 6.5 * 11 cm</li>
+<li>Peso: 315 g</li>
+<li>Distancia de vuelo: 34 m</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1* Pistola de Agua Potente para Coche y Jardín</p>
+<p><span style="color: #ff0000;"><strong>Nota:</strong> </span></p>
+<p>Debido a la radiación luminosa y las pantallas, el tono de color en las fotos y el producto real podrían ser ligeramente diferentes. El error de medición permitido es de +/- 1-3 cm.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286039457888</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GYSQ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286039064672</id>
+    <published>2019-10-18T00:44:12-05:00</published>
+    <updated>2019-10-18T00:44:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/antihaft-bbq-grill-mesh-wiederverwendbare-teflon-grill-netz-matte"/>
+    <title>Esteras Antiadherentes de la Parrilla del BBQ</title>
+    <s:type>Gadgets</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/x_grande_aa9e477c-fba0-49f1-81c0-02586d8e3714.jpg?v=1575013154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Gadgets<br>
+        <strong>Precio: </strong>
+            14.99 - 15.99
+            <a href="https://idealdia.com/products/antihaft-bbq-grill-mesh-wiederverwendbare-teflon-grill-netz-matte">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><strong><span style="color: #ff0000;">🔥Añade un euro para conseguir otro🔥</span></strong></div>
+<div style="text-align: center;"><strong><span style="color: #ff0000;">🔥<span>Añade un euro para conseguir otro</span>🔥</span></strong></div>
+<h3 style="text-align: center;">
+<span style="color: #93c47d;"><em>♨Disfruta de una barbacoa con nuestra alfombra de barbacoa</em></span><span style="color: #93c47d;"><em>♨</em></span>
+</h3>
+<h3><span style="color: #ff9900;"><strong>Características:</strong></span></h3>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>La estera para la parrilla está hecha de tela de fibra de vidrio recubierta con <span style="color: #ff0000;"><strong>PTFE</strong></span>, una tela libre de PFOA que vuelve a hacer que la parrilla sea divertida otra vez</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de limpiar y reutilizable.</strong></span> Simplemente limpie con un paño húmedo</li>
+<li>Resistente al calor hasta <span style="color: #ff0000;"><strong>260 grados</strong></span>.Perfecto para cada parrilla, incluyendo gas, carbón, propano, parrillas eléctricas, chimeneas, estufas o humo</li>
+<li>
+<span style="color: #ff0000;"><strong>Instrucciones de lavado:</strong></span> Lavar con agua tibia y jabón o limpiar en la rejilla superior del lavavajillas. Si es necesario, use un cepillo con cerdas suaves para eliminar los residuos quemados. Seque con un paño suave y deje reposar cuando no esté en uso</li>
+</ul>
+<h3><span style="color: #ff9900;"><strong>Especificación:</strong></span></h3>
+<ul>
+<li>Color: negro</li>
+<li>Material: PTFE</li>
+<li>Tamaño: 33 * 40 cm</li>
+<li>Peso: 60 g / pcs</li>
+</ul>
+<h3><span style="color: #ff0000;"><strong>Nota:</strong></span></h3>
+<p>Este producto no debe tocar directamente las llamas abiertas.</p>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido : </b></strong></span></p>
+<p><span style="color: #ff9900;"><strong><b><span style="color: #444444;">1</span></b></strong></span> * Esteras Antiadherentes de la Parrilla del BBQ (33x40 cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286039064672</id>
+      <title>1 Pieza</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>WGSKD-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286039064672</id>
+      <title>2 Piezas (venta limitada)</title>
+      <s:price currency="EUR">15.99</s:price>
+      <s:sku>WGSKD-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286037327968</id>
+    <published>2019-10-18T00:43:14-05:00</published>
+    <updated>2019-10-18T00:43:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/sujetador-de-encaje-sin-costuras"/>
+    <title>Sujetador de Encaje sin Costuras</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_e4a33415-102d-4eb6-9956-ddd067fe3192.jpg?v=1575020424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            14.99 - 23.99
+            <a href="https://idealdia.com/products/sujetador-de-encaje-sin-costuras">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;">
+<strong><span style="color: #ff00ff;"><span style="color: #ff0000;">♥</span>  <span style="color: #93c47d;">La ropa interior libre de arañazos 👩🏻</span><br><span style="color: #93c47d;">Cómodo y sin arañazos</span> </span></strong><span style="color: #ff0000;"><strong>♥</strong></span>
+</h3>
+<p style="text-align: center;"><span style="color: #e06666;"><strong> <span style="color: #ea9999;">Sin esclavitud, sin presión, sin marcas</span></strong></span></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<p>✿ <span style="color: #ff0000;"><strong>Este sujetador puede soportar mejor tus senos con material suave</strong></span>. Cómodo, agradable a la piel y transpirable, y sin más presión. Disfrute de la comodidad de uso naturalmente suave.<br>✿ <span style="color: #ff0000;"><strong>Este sujetador minimizador sin percha con un diseño de cobertura total</strong></span> y correas anchas con ajuste permite aliviar la presión en los senos y los hombros.<br>✿ <strong><span style="color: #ff0000;">Con toda la tela de encaje</span></strong>, más elástica, más transpirable y más cómoda de usar con U-back se ve muy hermosa y elegante.<br>✿ <span style="color: #ff0000;"><strong>El sujetador sin costuras</strong></span>, sin ataduras ni constricciones, es perfecto para el uso diario, para un buen descanso o para un uso informal.<br><span style="color: #ff9900;"><strong></strong></span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/47876ccd31ab3e88d1ac0947d2f69e2f_large.jpg?v=1564818656" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><strong><span style="color: #ff9900;">Especificación:</span></strong></p>
+<ul>
+<li>
+<span></span>Material: algodón (encaje)</li>
+<li>Color: blanco, azul, negro, rojo de vino, color, rosa</li>
+<li>Peso: 100 g</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p><span>1 x Sujetador de Encaje sin Costuras</span></p>
+<p><span style="color: #ff0000;"><span><strong>Notas:</strong></span> </span>   </p>
+<p>Por favor permita un error de 2-3 cm debido a la medición manual.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+ROSE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / L</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku>NY-B+ROSE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+ROSE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / 2XL</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku>NY-B+ROSE-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / 3XL</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku>NY-B+ROSE-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / 4XL</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku>NY-B+ROSE-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286034280544</id>
+    <published>2019-10-18T00:41:16-05:00</published>
+    <updated>2019-10-18T00:41:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/bolsa-de-filtro-de-malla-lavadora"/>
+    <title>Bolsa de Filtro de Malla Lavadora</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_9c3b6f0a-5993-45b7-b061-780a456c2c7b.jpg?v=1575013958"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            9.99 - 14.99
+            <a href="https://idealdia.com/products/bolsa-de-filtro-de-malla-lavadora">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<span style="color: #e06666;"><em><strong>¿Estás cansado de pelos y pelusas de animales</strong></em></span><br><strong><span style="color: #e06666;"><em>😵en ropa recién lavada?</em></span>😵</strong>
+</div>
+<div style="text-align: center;"><strong>✔<span style="color: #93c47d;"> Filtros revolucionarios de bolsas de filtro y colecciona</span><br><span style="color: #93c47d;">Capa y pelusa durante el proceso de lavado.</span>👚</strong></div>
+<div><strong></strong></div>
+<div><strong><img src="https://cdn.shopify.com/s/files/1/0010/8730/7837/files/dcd43f32399f221415663046a5654bd1_5efad755-a4a6-4d67-aca2-2d8f8fff798b_large.gif?v=1551682871" alt="" style="display: block; margin-left: auto; margin-right: auto;"></strong></div>
+<div><strong></strong></div>
+<div></div>
+<div><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></div>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> Residuos de captura:</strong></span> Cuando se lava con una lavadora, esta bolsa de filtro flotante puede atrapar los residuos como pieles y pelusas en la ropa, y poner suciedad en la red para hacer que su ropa se limpie.</li>
+<li>
+<span style="color: #ff0000;"><strong>Limpieza:</strong></span> Se puede poner el detergente en la bolsa de filtro, los agujeros finos en la bolsa pueden disolver el detergente por completo y crear las espumas densas. Para que la limpieza sea más limpia y el polvo no disuelto no permanezca en la ropa.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de usar:</strong></span> Simplemente coloque esta bolsa de filtro flotante en la lavadora. Flota directamente sobre la ropa. La tabla flotante en forma de flor está hecha de espuma y no daña la ropa.</li>
+<li>
+<span style="color: #ff0000;"><strong>Reutilizable:</strong></span> Bolsas de red cónicas de alta calidad de material poliéster, para uso prolongado. No deje que las cosas pequeñas, la suciedad y el pelo se escapen a ninguna parte.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Color: Azul, Rosa</li>
+<li>Material: plástico, poliéster, espuma</li>
+<li>Tamaño: aprox. 15 * 8 cm</li>
+<li>Peso: 38 g</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>3 Piezas / 6<span> </span><span>Piezas</span><span> Bolsa filtro de malla lavadora</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286034280544</id>
+      <title>Azul / 3 Piezas</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>BLAU-3PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286034280544</id>
+      <title>Azul / 6 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>BLAU-6PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286034280544</id>
+      <title>PINK / 3 Piezas</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>PINK-3PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286034280544</id>
+      <title>PINK / 6 Piezas</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>PINK-6PCS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286031659104</id>
+    <published>2019-10-18T00:40:01-05:00</published>
+    <updated>2019-10-18T00:40:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/herramienta-portatil-12-en-1-pulpo"/>
+    <title>Herramienta Portátil 12 en 1 &quot;Pulpo&quot;</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/12-in-1-Multi-funktionale-Octopus-Fahrrad-Reparatur-Werkzeug-Schraubendreher-mit-Schl-ssel-Ring-Au-en-_1.jpg?v=1575023279"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #ff9900;"><strong>🔧 Herramienta multifuncional y portátil "Pulpo" para 12 uso en exteriores🔧 </strong></span></p>
+<p style="text-align: center;"><span style="color: #000000;"><strong><img alt="" src="//cdn.shopify.com/s/files/1/0044/3901/5498/files/QQ_20190322131152_medium.png?v=1553232197" style="display: block; margin-left: auto; margin-right: auto; float: none;"></strong></span></p>
+<div style="padding-left: 30px;">Este gadget se puede utilizar para reparar bicicletas, así como un destapador o un destornillador. Combina todas las herramientas que necesita y es un gadget perfecto.</div>
+<div style="padding-left: 30px;"></div>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<div style="padding-left: 30px; text-align: left;">
+<strong><span style="color: #e06666;">Hecho de Material Superior:</span></strong> El material es de acero inoxidable. Mano de obra exquisita para garantizar su resistencia y buena durabilidad.<br><span style="color: #e06666;"><strong>Multifunción:</strong></span> acero inoxidable de 12 funciones, tornillos hexagonales externos, 1/4 cánula general, abrebotellas, etc.<br><span style="color: #e06666;"><strong>Aplicación:</strong></span> Puede apretar los tornillos, abrir la tapa, reparar bicicletas, juguetes y mucho más. Y el sol es llavero, puede caber en su llavero.<br>¡Mini y ligero: muy portátil para usar!</div>
+<div style="padding-left: 30px; text-align: left;"></div>
+<div style="text-align: left;"><strong><span style="color: #ff9900;"><span>Nota:</span></span></strong></div>
+<div>
+<ul>
+<li>El material de acero inoxidable se oxidará cuando se use en un ambiente húmedo o con diferencias de temperatura. Por favor, mantenga un roce seco y regular del aceite de protección contra la oxidación.</li>
+<li>Dado que es el proceso de laminado tardío del proceso de moldeo, algunas superficies pueden estar pulidas de manera desigual, la superficie de cada producto tiene ojos o arañazos finos.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 x Herramienta Portátil 12 en 1 "Pulpo"</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031659104</id>
+      <title>Plateado</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CTYP001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031659104</id>
+      <title>Negro</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CTYP002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286031560800</id>
+    <published>2019-10-18T00:39:52-05:00</published>
+    <updated>2019-10-18T00:39:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cable-usb-multiple-cable-de-carga-retractil-3-en-1-micro-type-c-para-iphone-y-android"/>
+    <title>Cable USB Múltiple, Cable de Carga Retráctil 3 en 1, Micro Type C para iPhone y Android</title>
+    <s:type>Accessorios de Móvil</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/5_1eb56fa4-c9ae-45a4-be29-5796bf72a2f1.jpg?v=1575013627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Accessorios de Móvil<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>Guapo ＆ Gadgets Prácticos</strong></em></span></h3>
+<h3 style="text-align: center;">
+<span style="color: #e06666;"><em><strong>♔ </strong></em></span><strong><span style="color: #0000ff;"><span style="color: #e06666;"><em>3-in-1♔</em></span><br></span></strong>
+</h3>
+<p style="text-align: left; padding-left: 30px;">Tira de los enchufes de ambos lados al mismo tiempo para extender el cable, deja de tirar a la altura que necesitas, tira hacia atrás y déjalo ir despacio, retrocederá, un enrollador de cable inteligente para que no haya más cable. 3.3 pies de largo para uso diario.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>Flexible Largo: Diseño retráctil y versátil. Puede tirar del cable USB de 0,2 m a 1 m (4 pasos). Elija la longitud más adecuada para usted.</li>
+<li>Flash de 8 pines + Micro USB 2.0 + Tipo C en un solo cable que puede cargarse con dispositivos iPhone, Micro-USB, USB Tipo C.</li>
+<li>Compatible con iPhone X, 8 7 6 s 6 plus, iPhone 5 SE, Samsung Note 8 / S8 / S8 Plus, Apple New MacBook, MacBook Pro 2016, Google Pixel, Nexus 5X, Nexus 6P, OnePlus 2/3 / 3T, Lumia 950, Huawei P9, LG G5, HTC 10, Galaxy S7 Rand, Huawei P8 Lite</li>
+<li>Soporta hasta 5V / 2.1A de carga segura para que pueda cargar sus dispositivos más rápido que nunca.</li>
+<li>hasta 1,1 metros de largo</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<div style="padding-left: 30px;">Peso: 40g<br>Color: Negro, Rojo, Blanco, Oro Rosa<br>Corriente de salida: 1A-2.1A<br>Alargamiento máximo: 1,1 m</div>
+<div style="padding-left: 30px;"></div>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span> </p>
+<p>1* 3-1 Cable USB Múltiple</p>
+<p><span style="color: #ff0000;"><strong>Notas:</strong></span></p>
+<p>El cable sólo tiene una función de carga, no tiene función de transferencia de datos.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031560800</id>
+      <title>Negro</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CYTSX001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031560800</id>
+      <title>Rojo</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CYTSX002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031560800</id>
+      <title>Blanco</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CYTSX003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286031560800</id>
+      <title>Rosa</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>CYTSX004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286030643296</id>
+    <published>2019-10-18T00:39:13-05:00</published>
+    <updated>2019-10-18T00:39:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/guantes-de-masaje-para-mascotas-perros-gatos-1-par"/>
+    <title>Guantes de Masaje para Mascotas, Perros&amp;Gatos - 1 par</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/61_X6JZbjqL._SL1080.jpg?v=1575018086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<span style="color: #e06666;"><strong>Tenemos gran posibilidad de solución para resolver sus problemas de vello.</strong></span><br><span style="color: #e06666;"><strong>Ofrece un masaje cómodo y relajante para tus mascotas.</strong></span>
+</div>
+<div></div>
+<ul>
+<li><span>❤  <span style="color: #ff0000;"><strong>Guantes profesionales para el cuidado de mascotas:</strong></span> elimine de manera efectiva el pelo suelto, el polvo y la suciedad de su mascota. La malla en la parte posterior del cepillo le permite respirar, en lugar de hacer que sus manos sudoren fácilmente, manteniendo la piel limpia y suave.</span></li>
+<li>❤<strong><span style="color: #ff0000;"> Masaje cómodo: </span></strong><span style="color: #000000;">nuestros guantes de cepillo suave para mascotas brindan baños y masajes cómodos para sus mascotas y promueven la circulación sanguínea. El forro de malla hace que sea más rápido para secar el cabello de tu mascota después del baño. Mantiene a tus mascotas limpias y saludables.</span>
+</li>
+<li>❤<strong><span style="color: #ff0000;"> Fácil de limpiar: </span></strong><span style="color: #000000;">la almohadilla de silicona ayuda a mantener el pelaje suelto y usted puede quitarse el cabello suelto. Mantenga su casa ordenada. Es lavable a mano, por lo que puede lavarlo con agua jabonosa y dejar que se seque al aire.</span>
+</li>
+<li>❤<strong><span style="color: #ff0000;"> Imita el toque de su mano para un masaje: </span></strong><span style="color: #000000;">este par de guantes para el cuidado de mascotas diseñados con cinco dedos le permite llegar a la mayoría de las áreas de sus mascotas libremente. Garantiza un cuidado y masaje más flexible y eficiente para sus mascotas.</span>
+</li>
+<li>❤<strong><span style="color: #ff0000;"> Ajustable y cómodo:</span></strong><span style="color: #ff0000;"><span style="color: #000000;"> el guante con cierre de velcro ajustable para adaptarse a todas las formas y tamaños de las manos. Para pelo corto o pelo corto, ideal para perros o gatos. La eliminación del vello más fácil del cabello suelto y la eliminación de la caspa y la suciedad.</span></span>
+</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especiación:</strong></span><br>Tipo: Guante de cuidado de mascotas<br>Material del cepillo: silicona suave<br>Tamaño: 22 x 15 x 8 cm</p>
+<p><span style="color: #ff9900;"><strong>Características：</strong></span></p>
+<p>★ correa de velcro ajustable<br>★ diseño de cinco dedos<br>★ Forro de malla transpirable y de secado rápido.<br>★ Guante de cuidado flexible y silicona suave.<br>★ Lavable a mano y reutilizable.</p>
+<p><span style="color: #ff9900;"><b>Paquete Incluido:</b></span></p>
+<p>Guantes de Masaje para Mascotas, Perros&amp;Gatos - 1 par</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286030643296</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>GG001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286030348384</id>
+    <published>2019-10-18T00:39:00-05:00</published>
+    <updated>2019-10-18T00:39:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/pano-de-limpieza-profesional-para-automoviles-2-piezas"/>
+    <title>Paño de Limpieza Profesional para Automóviles, 2 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/CCJ01_Bequee_grande_665876fb-f1a8-42d6-9c96-f3f20f35c22f.jpg?v=1575014353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div><em><span style="color: #e06666;"><strong>Con nuestro paño de microfibra usted puede hacer que sus tesoros vuelvan a brillar - no importa si es una motocicleta, un coche o un scooter - el paño de limpieza se puede utilizar para todas las lacas.</strong></span></em></div>
+<div>
+<ul>
+<li>Paño seco, <span style="color: #ff0000;"><strong>absorbente de calidad alta</strong></span>, que garantiza un acabado sin manchas para el lavado de su coche - sin productos de limpieza.</li>
+<li>
+<span style="color: #ff0000;"><strong>P</strong><strong>uede ser utilizado en ambos lados con fibras largas y esponjosas -</strong></span> no comparable con una toalla normal o un paño para la limpieza - este paño seco de coche le hará fantasma!</li>
+<li>
+<span style="color: #ff0000;"><strong>Composición de nuestro paño de secado de coches para uso profesional:</strong></span> 80% poliéster, 20% poliamida - excelente calidad, adecuado para las necesidades profesionales.</li>
+<li>Nuestro paño seco 800GSM es <span style="color: #ff0000;"><strong>R</strong><strong>eutilizable</strong></span> cientos de veces, lavable a máquina y ecológico.</li>
+<li>
+<span style="color: #ff0000;"><strong>100% libre de arañazos y extremadamente esponjoso</strong></span>, imprescindible para todos los amantes de los coches - ¡el lavado de coches es divertido con el paño seco del coche!</li>
+</ul>
+<p><span style="color: #ff9900;"><strong><b>Especificaciones:</b></strong></span><span color="#ff9900"><br></span></p>
+<ul>
+<li>Color: amarillo y gris.</li>
+<li>Tamaño: 30 * 40cm</li>
+<li>Material: vellón de coral</li>
+<li>Peso: 220 g</li>
+</ul>
+<ul></ul>
+</div>
+<p><span style="color: #ff9900;" mce-data-marked="1"><strong>Paquete Incluido:</strong></span></p>
+<p>1 x Paño de Limpieza Profesional para Automóviles, 2 Piezas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286030348384</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CCB001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286028644448</id>
+    <published>2019-10-18T00:37:47-05:00</published>
+    <updated>2019-10-18T00:37:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cepillo-multifuncional-de-limpieza-5-piezas"/>
+    <title>Cepillo Multifuncional de Limpieza, 5 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_585cd732-3130-4a73-8f32-8217403f39e6.jpg?v=1575022402"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 style="text-align: left;"><span style="color: #e06666;">Mejore la higiene de la cocina - Con sus colores brillantes y la linda forma, las esponjas de silicona son un accesorio de cocina encantador</span></h4>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Limpiador de silicona para alimentos</strong></span>; silicona resistente al calor de alta calidad; Cepillo antibacterial de silicona para platos, sin BPA, aprobado por la FDA</li>
+<li>
+<span style="color: #ff0000;"><strong>Más seguro de usar:</strong> </span>la lavadora de la cocina no absorbe el agua; Moho no; fácil; Alta resistencia al calor; Se puede lavar en lavavajillas y secar más rápido</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de limpiar:</strong></span> simplemente enjuague las esponjas de silicona o póngalas en el lavaplatos; Diseño de lazo colgante para un almacenamiento conveniente</li>
+<li>
+<span style="color: #ff0000;"><strong>Aparato de cocina ideal:</strong></span> más limpiador de silicona para facilitar el lavado; con cerdas de silicona flexibles y suaves, lo suficientemente flexibles para limpiar utensilios de cocina irregulares</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><span style="color: #ff0000;"><strong>Material:</strong></span> silicona<br><br><strong><span style="color: #ff0000;">Color:</span></strong> color aleatorio</p>
+<h3><span style="color: #ff9900;"><strong>Notas:</strong></span></h3>
+<p>Debido a los diferentes efectos del monitor y de la iluminación, el color real del elemento puede diferir ligeramente del color que se muestra en las imágenes.</p>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong><br> 1 * Cepillo Multifuncional de Limpieza, 5 Piezas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286028644448</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>SS002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286027366496</id>
+    <published>2019-10-18T00:37:09-05:00</published>
+    <updated>2019-10-18T00:37:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/anti-artritis-guantes-de-compresion"/>
+    <title>Anti-artritis Guantes de Compresión</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_30c243ed-16e7-42b1-a97f-b6775f4d63f4.jpg?v=1575022121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;">
+<span style="color: #ff0000;">✚ <strong>Médicos desarrollan Anti-artritis Guantes de Compresión </strong></span><span style="color: #ff0000;">✚</span>
+</div>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul class="a-unordered-list a-vertical a-spacing-none">
+<li>
+<span style="color: #ff0000;"><strong>Función:</strong></span> Perfecta para <span style="color: #ff0000;">pacientes artríticos</span>. Puede soportar las articulaciones, promover la fuerza y la función de sus manos, así como el entrenamiento de rehabilitación. Ideal para artritis, osteoartritis, artritis reumatoide, enfermedad de Raynaud, síndrome del túnel carpiano, artritis psoriásica, etc.</li>
+<li>
+<span style="color: #ff0000;"><strong>Diseño ergonómico:</strong></span> se adapta perfectamente a los contornos de sus manos sin limitar la flexibilidad de sus manos. Le proporciona un confort óptimo. También puede mejorar la circulación sanguínea. Es un método físico amigable para aliviar el dolor y las articulaciones de las articulaciones.</li>
+<li>
+<span style="color: #ff0000;"><strong>Sin dedos:</strong></span> el uso de ratones, teclados, teléfonos celulares, etc. será fácil y preciso para usted. Tener los dedos libres realmente tiene algo. Es muy fácil hacer todo tipo de trabajo complicado.</li>
+<li>
+<span style="color: #ff0000;"><strong>Unisex:</strong></span> Ideal para hombres y mujeres. Ahora que hace frío, estos guantes son ideales. Después de mucho tiempo, el efecto del alivio del dolor se vuelve obvio.</li>
+</ul>
+<p><span class="a-list-item" style="color: #ff9900;"><strong>Material: </strong></span></p>
+<p>Poliéster + algodón + spandex + nylon, con excelente proceso de costura. Los guantes son ventilados, cómodos, duraderos y fáciles de lavar. Los materiales ventilados dejan respirar la piel. Puedes usarlo todos los días, lo cual es muy cómodo de usar.</p>
+<p><span style="color: #ff9900;"><strong>Condiciones:</strong></span></p>
+<p>✅Proporciona presión y calor para mejorar la circulación sanguínea.<br>✅Sin yemas de los dedos por la libertad de continuar con las tareas cotidianas.<br>✅Muy cómodo de llevar día y noche.<br>✅Alivia eficazmente en la artritis y reduce la hinchazón</p>
+<p><!--StartFragment --></p>
+<div><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></div>
+<div><span style="color: #ff0000;"><strong></strong></span></div>
+<div>
+<span style="color: #ff0000;"><span style="color: #ff0000;"><strong><!--StartFragment --></strong></span></span>
+<div>1 Par de Anti-artritis Guantes de Compresión</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286027366496</id>
+      <title>S</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>CGJYSST001﻿</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286027366496</id>
+      <title>M</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>CGJYSST002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286027366496</id>
+      <title>L</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>CGJYSST003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286027169888</id>
+    <published>2019-10-18T00:37:01-05:00</published>
+    <updated>2019-10-18T00:37:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/soporte-para-el-arco-2-vendas-de-fascitis-plantar-1-par"/>
+    <title>Soporte para el Arco, 2 Vendas de Fascitis Plantar, 1 Par</title>
+    <s:type>Salud</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/3_e5d283b7-7f64-439f-8c5d-498792a5f7e1.jpg?v=1575022386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Salud<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><em><span style="color: #e06666;"><strong>Vendaje médico diario</strong></span></em></h3>
+<div>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+</div>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Función de la abrazadera de apoyo:</strong></span> puede aliviar eficazmente el dolor de la fascitis plantar; Estas abrazaderas de fascitis plantar tienen un contenido de cobre del 30%.</li>
+<li>
+<span style="color: #ff0000;"><strong>Característica:</strong></span> tiene un efecto sobre la hinchazón y aumenta la circulación, también puede levantar el tejido de la fascia plantar para aliviar los problemas de arco y talón</li>
+<li>
+<span style="color: #ff0000;"><strong>Un tamaño:</strong></span> tamaño libre flexible para adaptarse a la mayoría de los pies; El soporte para el arco del pie es conocido por aliviar el dolor en el talón.</li>
+<li>
+<span style="color: #ff0000;"><strong>Cómodo:</strong> </span>puede llevarlo a todas partes todos los días; Cómodo de usar y se puede usar directamente o sobre los calcetines para obtener el soporte que necesita</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Descripción:</strong></span></p>
+<ul>
+<li>De tamaño portátil, puede poner los aparatos de fascitis plantar en su bolsillo si no quiere llevarlos, o como reemplazo.</li>
+<li>Se adaptan a la mayoría de los pies, elásticos y lavables. Puede coincidir con zapatos de trabajo, zapatillas y hasta zapatillas.</li>
+<li>¿Puede la fascitis plantar usar mangas directamente sobre los calcetines para evitar el sudor y el hedor?</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>El Uso Múltiple:</strong></span></p>
+<ul>
+<li>Traje para correr, excursionismo, atletismo, viajes, hidropesía, calambres en las piernas o cualquier persona que pase mucho tiempo con las piernas, es funcional y útil.</li>
+<li>Especialmente para aliviar el dolor de la fascitis plantar y el dolor en el talón cuando se relaja o activa.</li>
+</ul>
+<ul class="a-unordered-list a-vertical a-spacing-none"></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong> </span></p>
+<p><span>1 x Soporte para el Arco, 2 Vendas de Fascitis Plantar, 1 Par</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286027169888</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>AMEB001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286026514528</id>
+    <published>2019-10-18T00:36:36-05:00</published>
+    <updated>2019-10-18T00:36:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/anti-obstruccion-herramienta-para-el-obstaculo-de-las-alcantarillas-2-piezas"/>
+    <title>Anti-obstrucción Herramienta para el Obstáculo de las Alcantarillas, 2 Piezas</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_55dc33b2-aba0-410f-bcad-f25726d6942b.jpg?v=1575018702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 id="title" class="a-size-large a-spacing-none" style="text-align: center;"><span style="color: #ff9900;">¡La forma rápida y fácil de limpiar los obstáculos de las alcantarillas!</span></h3>
+<p style="text-align: left;">Sin problemas ni estrés: con la tecnología patentada de micro ganchos, los desagües obstruidos con el cabello se arreglan de inmediato, se pueden enjuagar o reutilizar simplemente.  </p>
+<p style="text-align: center;"><img src="https://cdn.shopify.com/s/files/1/0044/3901/5498/files/QQ_20180823165902_medium_d945cbc4-6629-412e-b537-b62a0d3b0718_large.gif?v=1556953148"></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #e06666;"><strong>Hecho de PVC</strong></span> de alta calidad y alambre de acero, de uso duradero.</li>
+<li>Hilado y enredo de <span style="color: #e06666;"><strong>3</strong><strong>60 grados</strong></span> obstruidos para una remoción rápida.</li>
+<li>
+<span style="color: #e06666;"><strong>Fácil de Usar:</strong></span> la manija gira 360 ° y enreda las obstrucciones para una extracción rápida. Las barras se pueden separar fácilmente del mango después de su uso.</li>
+<li>Funciona en la mayoría de los lavabos, duchas y bañeras.</li>
+<li>Incluye 2 asas reutilizables y 4 bastones desechables de 18 pulgadas.</li>
+</ul>
+<p>  <img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/111_1_medium.gif?v=1539589634"><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/222_603bd311-0a11-4369-8060-1cbb6f76e59a_medium.gif?v=1539589681"></p>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: PVC, alambre de acero</li>
+<li>Color: como muestra la imagen.</li>
+<li>Cantidad: 2 piezas</li>
+<li>Tamaño: 53 * 10.5 * 1.5 cm / 20.87 * 4.13 * 0.59 "</li>
+<li>Peso neto: 10g / 0.4oz</li>
+</ul>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong></p>
+<p>2 x Anti-obstrucción Herramienta</p>
+<p>4 x Palillos Desechables</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286026514528</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>DW001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286025760864</id>
+    <published>2019-10-18T00:36:06-05:00</published>
+    <updated>2019-10-18T00:36:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juguete-electrica-de-bola-rodante-automatica-para-perros-y-gatos"/>
+    <title>Juguete Eléctrica de Bola Rodante Automática para Perros y Gatos</title>
+    <s:type>Mascota</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/0_grande_466dfac9-3f44-4ae7-bfeb-0b3f10aaffad.jpg?v=1575020691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Mascota<br>
+        <strong>Precio: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #6aa84f;"><em>Consigue un amigo nuevo para la mascota</em></span></h3>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>[Auto-pelota ruede] </strong></span>Con el dispositivo de rodadura centrífugo en el interior, esta bola mágica de rodillos continúa moviéndose y girando la dirección mientras se bloquea automáticamente.</li>
+<li>
+<strong><span style="color: #ff0000;">[Material seguro]</span></strong> El color exterior de las tapas está hecho de un material de alta calidad, limpio y ecológico que es seguro para sus mascotas. No se decolora y no se deforma, fácil de lavar. 4 cubiertas son fáciles de cambiar.</li>
+<li>
+<span style="color: #ff0000;"><strong>[Calidad duradera]</strong></span> El dispositivo de rodadura centrífuga está completamente cubierto y no se disuelve fácilmente. Al mismo tiempo, la bola de ABS duradera es resistente a la masticación ya la caída, no dude en utilizarla.</li>
+<li>
+<span style="color: #ff0000;"><strong>A las mascotas les gusta ver lo que se mueve</strong></span>, especialmente la pequeña bola que se mueve constantemente. Además, la colorida cubierta oculta atrae a su mascota. Cuando juegas con la pelota, puedes fortalecer tanto el cuerpo como la inteligencia de tu mascota.</li>
+</ul>
+<p><span style="color: #000000;"><span style="color: #ff0000;"><strong>Nota: </strong></span></span>Mientras juega la pelota, mantenga el piso limpio y reemplace la nueva funda de felpa para la seguridad de las mascotas.</p>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Energía clasificada: 2.5 (W)</li>
+<li>Potencia (W): &lt;500</li>
+<li>Voltaje (V): 1.5V</li>
+<li>Baterías: baterías AA * (no incluidas)</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>1 x Bola de balanceo automática</li>
+<li>4 x Cubiertas (4 colores GRATIS)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286025760864</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">10.99</s:price>
+      <s:sku>ACWCC001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286025138272</id>
+    <published>2019-10-18T00:35:44-05:00</published>
+    <updated>2019-10-18T00:35:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/estanteria-de-esquina-de-bano-sin-tornillos"/>
+    <title>Estantería de Esquina de Baño Sin Tornillos</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_40fb1940-199f-42c5-813c-0348a963a5a4.jpg?v=1575023228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #6aa84f;"><em><strong>¡Ahora cada esquina puede convertirse en un estante en segundos!</strong></em></span></h3>
+<p><span style="color: #000000;">¿Es fácil caerse de los estantes de tu habitación? ¿Las estanterías de tu baño están oxidadas o siempre llenas de agua? ¿Quieres un estante para resolver todos tus problemas? ¡Estante multifuncional de esquina sin diseños de tornillos para ti!</span></p>
+<p><span style="color: #000000;"><img class="cye-lm-tag" alt="" src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/1_large_9d954ce3-a943-4e6e-9219-9b4ca4331cc9_large.gif?v=1537341420" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Almacenaje adicional en el baño en segundos.</strong></span> Sostenga su champú, jabón, crema de afeitar y más con dos ganchos para esponjas, paños y maquinillas de afeitar.</li>
+<li>Los estantes flotantes<strong><span style="color: #ff0000;"> funcionan en cualquier superficie</span></strong>, incluyendo mármol, baldosas y vidrio, ¡asegurándose de que la superficie no se doble ya que estos estantes usan ventosas de succión lateral sin empuje!</li>
+<li>
+<span style="color: #ff0000;"><strong>Gire las esquinas no utilizadas en el espacio adicional de la plataforma</strong></span>, Los estantes de esquina ajustados y seguros se encajan en segundos.</li>
+<li>La exclusiva tecnología Press Tek soporta <span style="color: #ff0000;"><strong>hasta 10 libras</strong></span> con almohadillas de polímero únicas. Sin ventosas, presión en los lados de la esquina, asegúrese de que el lado de la esquina sea sólido y resistente.</li>
+<li>
+<strong><span style="color: #ff0000;">¡No se necesitan herramientas para instalar!</span></strong> Olvídate de pegamentos que gotean, agujeros en la pared y más. La estantería de esquina que necesitas sin problemas.</li>
+</ul>
+<ul></ul>
+<p class="cye-lm-tag"><span class="cye-lm-tag"><strong class="cye-lm-tag"><img src="https://cdn.shopify.com/s/files/1/0044/3901/5498/files/9999999999_large.gif?v=1557302331" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Color: blanco</li>
+<li>Tamaño: 23 x 23 x 4,5 cm</li>
+</ul>
+<p><span style="color: #ff0000;"><b>Nota:</b></span></p>
+<p>Estos estantes de esquina no tienen una ventosa, la esquina de la pared debe ser de cemento sólido o baldosa, ya que utiliza presión lateral para colgarla, en caso de que la coloque en una cabina de ducha de PVC de pared no sólida, esquina de madera, esquina de panel de yeso o no sólida Muro, no estará bien. Por favor, marque la esquina donde desea colocar estos estantes antes de comprarlos y asegúrese de que estén firmes.</p>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 x Estantería de Esquina de Baño Sin Tornillos</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286025138272</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>YSZWJ-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286024024160</id>
+    <published>2019-10-18T00:35:06-05:00</published>
+    <updated>2019-10-18T00:35:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cortador-de-ensalada-ensalada-en-60-segundos"/>
+    <title>Cortador de Ensalada, Ensalada en 60 Segundos</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/11_4a521abb-2b04-4059-910f-59222d7e9bcf.jpg?v=1575019738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span style="color: #e06666;"><em><strong>5 en 1: tazón de verduras + colador de agua + tabla de cortar + rebanador seguro + exprimidor de limón</strong></em></span></h2>
+<h4 style="text-align: left;">Con nuestro tazón mejorado para cortar ensaladas usted puede ahorrar tiempo y hacer ensaladas saludables para usted y su familia. Usted puede comprar uno a un familiar o amigo como regalo.</h4>
+<p style="text-align: center;"><img alt="" src="//cdn.shopify.com/s/files/1/0010/8730/7837/files/36.gif?v=1543047186" style="float: none;"></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Rápido, Fácil, Seguro:</strong></span></li>
+</ul>
+<p>Preparar una ensalada ya no es una tarea. Enjuague, corte y sirva la ensalada y el jugo en 60 segundos con la ayuda de este cortador de ensaladas mejorado con exprimidor de limón. Menos herramientas y nunca cortar dedos. Buena opción para los amantes de la ensalada.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Tazón saludable aprobado por la FDA:</strong></span></li>
+</ul>
+<p>Hecho de PE + PP material de calidad alimentaria.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Versión mejorada:</strong></span></li>
+</ul>
+<p>(1) Se coloca un "fregadero" alrededor del piso para evitar que el jugo caiga sobre la mesa. Mantenga su mesa limpia y seca.<br><br>(2) En comparación con el diseño "plano" del plato, nuestro diseño Wavy Edge le permite girar con facilidad y rapidez.<br><br>(3) Dos alas en ambos lados facilitan mover o levantar el tazón.<br><br>(4) Un agujero colgante es conveniente para guardar la base y mantenerla seca y limpia.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Combinación perfecta:</strong></span></li>
+</ul>
+<p>No solo hay una ensaladera mejorada, sino también un exprimidor de limón. Todas las piezas son aptas para lavavajillas y separables, fáciles de limpiar.</p>
+<p><span style="color: #ff9900;"><strong>Características y Consejos:</strong></span></p>
+<ul>
+<li>Diseño mejorado: Se puede colgar hasta secar. El jugo se puede almacenar en el fregadero. Simplemente gira el tazón, usando las alas de ambos lados.</li>
+<li>Tamaño del producto: 7.5 * 4.7 * 7.8 pulgadas, suficiente para 2 personas.</li>
+<li>No se recomiendan los alimentos duros. Asegúrese de que solo se utilice 3/4 del recipiente para llenar los alimentos.</li>
+<li>El cuchillo no debe ser menor de 7 pulgadas.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 *  Cortador de Ensalada</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024024160</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>SLW-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286023729248</id>
+    <published>2019-10-18T00:34:52-05:00</published>
+    <updated>2019-10-18T00:34:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/pantalla-tactil-de-cortaviento-guantes-calida"/>
+    <title>Pantalla Táctil de Cortaviento Guantes Cálida</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_5265733b-454f-4866-939b-9d83dd8796e7.jpg?v=1575018174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #e06666;"><em><strong>El pulgar, el dedo índice y el dedo corazón tienen fibras metálicas conductoras, puedes usar el smartphone sin quitarte los guantes.</strong></em></span></p>
+<div style="text-align: center;"><span style="color: #0000ff;"><em><strong></strong></em></span></div>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li>
+<strong><span style="color: #ff0000;"> 【Tecnología de Pantalla Táctil】:</span></strong><span style="color: #000000;">Los guantes pulgar, dedo índice, tienen fibras metálicas conductoras, usted puede usar su smartphone y dispositivo de pantalla táctil de manera efectiva sin tener que quitarse los guantes, mientras mantiene sus manos calientes en climas fríos.</span>
+</li>
+<li>
+<strong><span style="color: #ff0000;">【Impermeable y Cortaviento】:</span></strong>Utilice los últimos materiales impermeables y a prueba de viento que funcionarán bien bajo la lluvia o al andar en bicicleta. Por favor, tenga en cuenta: Esta prenda puede ser impermeable pero ligeramente impermeable y no se puede utilizar bajo el agua o en condiciones de lluvia intensa.</li>
+<li>
+<strong><span style="color: #ff0000;">【Diseño Antideslizante】:</span></strong>La palma de la mano utiliza el diseño de silicona antideslizante resistente a la abrasión, una silicona en la palma de la mano le ayuda a agarrar el mango de la bicicleta o las herramientas con firmeza. Incluso en carreteras irregulares se puede sujetar mejor el manillar.</li>
+<li>
+<strong><span style="color: #ff0000;">【Cremallera Ajustable de 8cm &amp; Caliente】:</span></strong>El guante tiene una cremallera en la espalda. Puede ajustar el tamaño de acuerdo a las diferentes personas. El suave y transpirable forro polar mantiene las manos calientes y no demasiado voluminosas durante las actividades diarias. Haga que su conducción sea más cómoda.</li>
+</ul>
+<ul></ul>
+<div style="text-align: center;">
+<h4 style="text-align: left;"><span style="color: #ff9900;"><strong><span style="color: #ff0000;">Nota:</span></strong></span></h4>
+<p style="text-align: left;">Por favor, elija el tamaño correcto de acuerdo a su tamaño de mano:</p>
+<p style="text-align: left;"><strong><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/9_large.jpg?v=1562652833" alt="" style="display: block; margin-left: auto; margin-right: auto;"></strong></p>
+</div>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Tallas: S / M / L / XL</li>
+<li>Peso: aprox. 100g</li>
+<li>Colores: negro, rosa y azul.</li>
+</ul>
+<ul></ul>
+<p>▲<span style="color: #ff0000;"><strong>¡Atención!</strong></span>▲</p>
+<ol>
+<li>Este guante impermeable es sólo ligeramente impermeable y no debe utilizarse en caso de lluvia fuerte o bajo el agua y no debe estar completamente sumergido en el agua.</li>
+<li>No lavar con agua caliente, blanqueador con cloro, preferiblemente lavado a mano. Sólo hay que remojar los guantes con jabón, luego frotarlos y lavarlos, secarlos a la sombra, sin plancharlos.</li>
+</ol>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>1 x Pantalla Táctil de Cortaviento Guantes Cálida</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Negro / S</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-01Z-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-01Z-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-01Z-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Negro / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-01Z-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Rosa / S</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-14Z-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Rosa / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-14Z-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Rosa / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-14Z-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Rosa / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-14Z-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Azul / S</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-08Z-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Azul / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-08Z-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Azul / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-08Z-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Azul / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-08Z-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

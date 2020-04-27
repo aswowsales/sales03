@@ -1,0 +1,3273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://idealdia.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://idealdia.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://idealdia.com/collections/ropa.atom"/>
+  <title>idealdia</title>
+  <updated>2019-10-18T00:49:02-05:00</updated>
+  <author>
+    <name>idealdia</name>
+  </author>
+  <entry>
+    <id>https://idealdia.com/products/4286047879264</id>
+    <published>2019-10-18T00:49:02-05:00</published>
+    <updated>2019-10-18T00:49:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/sujetador-sin-costuras-bh"/>
+    <title>Sujetador sin Costuras BH</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_7507f2b3-58ec-4088-aecb-77b5548f1db5.jpg?v=1575013091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #e06666;"><strong>¿Estás buscando un sostén para sentirte bien que puedas usar en cualquier situación?</strong></span></p>
+<p><span style="color: #e06666;"><strong><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/gai_1531708c-345a-4c10-a174-210e94733e19_large.gif?v=1556091983" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<p>Ya sea en el deporte, en el trabajo o en la vida diaria, con nuestro sujetador obtendrá la máxima comodidad. Te sostiene perfectamente y se extiende como la seda sobre tu piel. Las microfibras son robustas y al mismo tiempo agradablemente elásticas. Las correas anchas también están diseñadas para un confort óptimo.</p>
+<p><span style="color: #ff0000;"><b>Nota:</b></span></p>
+<ul>
+<li>Por favor, elija un tamaño al comprar.</li>
+<li>Debido a la diferencia entre monitores, es posible que la imagen no refleje el color real del objeto.</li>
+</ul>
+<p><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/cmb_aeaf5bd2-c54d-448b-ae66-c01eca7fe03e_grande.jpg?v=1556092030" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff9900;"><strong><b>Características:</b></strong></span></p>
+<ul>
+<li>Está hecho de <span style="color: #ff0000;"><strong>microfibras que se adhieren a la piel como la seda</strong></span>. Las correas anchas evitan las incisiones y aumentan la comodidad.</li>
+<li>
+<span style="color: #ff0000;"><strong>SIN COSTURAS -</strong></span> Nuestro sujetador no tiene alambres molestos, ni costuras o ganchos pellizcados. Su material ligero y elástico se siente como una segunda piel. Y cuando se trata de deportes, proporciona un apoyo perfecto.</li>
+<li>
+<span style="color: #ff0000;"><strong>BUENA VENTILACIÓN:</strong></span> los paneles de enfriamiento de nuestro sostén PRETTY SEAMLESS proporcionan un suministro de aire ideal para deportes, trabajo o la vida cotidiana. Así que te sientes cómodo todo el día.</li>
+<li>
+<span style="color: #ff0000;"><strong>LAVADO A MÁQUINA:</strong></span> simplemente puede lavar nuestro sostén en la máquina. Dale al lavado en frío junto con ropa de colores similares. No es adecuado para planchas y secadoras.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Material: tela de bambú transpirable, nylon y mezclas de spandex</li>
+<li>Color: Beige / Negro / Gris / Rosa</li>
+<li>Tamaño: S / M / L / XL / XXL / XXXL</li>
+</ul>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1 * Sujetador sin Costuras BH</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/9_edc50a34-a71a-45be-915a-eaa1f619db6e_large.jpg?v=1556092047" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Negro / S</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HEI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Negro / XL</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Negro / XXL</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HEI-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Gris / S</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HUI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Gris / M</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HUI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Gris / L</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HUI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Gris / XL</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HUI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Gris / XXL</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-HUI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Beis / S</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Beis / M</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Beis / L</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Beis / XL</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Beis / XXL</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MI-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Rosa / S</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MEI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Rosa / M</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Rosa / L</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Rosa / XL</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286047879264</id>
+      <title>Rosa / XXL</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>TXNY-MEI-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286042505312</id>
+    <published>2019-10-18T00:46:09-05:00</published>
+    <updated>2019-10-18T00:46:09-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/conformacion-de-compresion-sin-mangas-para-hombres"/>
+    <title>Conformación de Compresión sin Mangas para Hombres</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_a97830a6-8f8d-4a31-81c1-0dc25ff6b2fd.jpg?v=1575020196"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><strong><em><span style="color: #e06666;">la camiseta sin mangas de la forma de cuerpo</span></em></strong></h3>
+<p>Puede que la apariencia no lo sea todo, pero la condición física y una apariencia saludable hacen que todos se vean y se sientan más dominantes.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> Calidad superior:</strong> </span>La camisa de compresión sin mangas está hecha de nylon y spandex. Hecho de materiales de alta calidad y mano de obra fina. Dimensionalmente estable y duradero.</li>
+<li>
+<span style="color: #ff0000;"><strong>Buen ajuste:</strong></span> Debido a su elasticidad y material suave, los hombres de la camiseta con forma de figura son muy cómodos de usar y se ajustan muy bien. Forma la curva del cuerpo y controla el estómago.</li>
+<li>
+<span style="color: #ff0000;"><strong>Para la salud:</strong></span> Cuando se usa, la ropa interior de compresión se apoya en la espalda para estabilizar la postura. Eso hace que su cuerpo se vea mejor, para restaurar su confianza en sí mismo.</li>
+<li>
+<strong><span style="color: #ff0000;">Salud y todos los días: </span></strong>Esta ropa interior de entrenamiento para hombres es ideal para usar en fitness, deportes, GYM, etc., así como en la vida cotidiana y los negocios, ya que se puede usar de forma invisible debajo de cualquier ropa.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff0000;"><strong>Nota:</strong> </span><em>Tamaño adecuado y garantía de satisfacción Mida su tamaño antes de comprarlo y compárelo con nuestra tabla de tamaños a continuación. Si tiene alguna pregunta, no dude en contactar con nosotros. Le ofreceremos la mejor solución.</em></p>
+<p><span style="color: #000000;"><span><img src="https://cdn.shopify.com/s/files/1/0026/7413/1008/files/underwear010_size_ES_large.jpg?v=1555307783" style="display: block; margin-left: auto; margin-right: auto;"></span></span></p>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>
+<p>Material: 80% Nylon + 20% Elasthan</p>
+</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido :</strong></span></p>
+<p>1 * Conformación de Compresión sin Mangas para Hombres</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286042505312</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YSBX001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286040965216</id>
+    <published>2019-10-18T00:45:19-05:00</published>
+    <updated>2019-10-18T00:45:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/pantalones-tacticos-para-hombres-con-bolsillos"/>
+    <title>Pantalones Tácticos para Hombres con Bolsillos</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_ce99096e-1699-4b0b-adee-7457d1425c50.jpg?v=1575021908"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 class="ui-title-bar__title" style="text-align: center;"><em><span style="color: #e06666;"><strong>Pantalones tácticos</strong></span></em></h3>
+<p style="text-align: left;">Ya sea que estés cazando, montando o planeando un ataque SWAT o trabajando al aire libre, estos pantalones tácticos pueden soportar una variedad de climas</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<div id="productDescription" class="a-section a-spacing-small">
+<ol>
+<li>
+<span style="color: #ff0000;"><strong>Pantalones tácticos ligeros, elásticos y duraderos.</strong></span> Los pasadores de cinturón de 2.75 "de ancho permiten cinturones anchos y son resistentes a las arrugas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Cintura elástica de ajuste cómodo:</strong></span> este pantalón de carga ripstop presenta una cintura expandible que se ajusta rápidamente, cubre las pistolas y ofrece comodidad.</li>
+<li>
+<span style="color: #ff0000;"><strong>Durabilidad duradera:</strong></span> las costuras triples en las costuras clave y los puntos de carga hacen de este pantalón de trabajo para hombres con costuras mejoradas para resistencia en exteriores</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil movimiento:</strong></span> el escalón reforzado proporciona comodidad y espacio. Los puños insertados y los bolsillos internos para las rodilleras están preparados para los requisitos funcionales en ambientes hostiles, como vadear, caminar por la selva.</li>
+</ol>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Material: 90% nylon + 10% spandex</li>
+<li>Color: como muestra la imagen.</li>
+<li>Tamaño: M-3XL</li>
+</ul>
+<p><img src="//cdn2.shopify.com/s/files/1/0247/5143/9956/files/111_55029331-5795-4505-a85e-ae63555dd985_large.jpg?v=1563328937" alt="" style="display: block; margin-left: auto; margin-right: auto;"><br><strong><span style="color: #ff0000;">Nota:</span></strong><br>Debido a los diferentes monitores y efectos de luz, el color real puede ser ligeramente diferente del color de la imagen.<br>Por favor permita desviaciones de 2-4 cm debido a la medición manual.<br>El tamaño asiático es más pequeño que el tamaño de EU / US / UK. Por favor compare los tamaños de los detalles antes de comprar con los suyos.</p>
+<span style="color: #ff9900;"><strong><b>Paquete Incluido :</b></strong></span>
+</div>
+<div class="a-section a-spacing-small">1 * Pantalones Tácticos para Hombres con Bolsillos</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Negro / XL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-03</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Negro / XXL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Negro / XXXL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-05</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Caqui / M</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-06</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Caqui / L</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-07</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Caqui / XL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-08</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Caqui / XXL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Caqui / XXXL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Verde / M</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Verde / L</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Verde / XL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Verde / XXL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040965216</id>
+      <title>Verde / XXXL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>PANT001-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286038802528</id>
+    <published>2019-10-18T00:44:01-05:00</published>
+    <updated>2019-10-18T00:44:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/soporte-para-la-espalda-chaleco-corrector-de-postura-para-mujeres-bh"/>
+    <title>Soporte para la Espalda Chaleco Corrector de Postura para Mujeres BH</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/a.jpg?v=1575021419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>Sujetador Deportivo para Mujer</strong></em></span></h3>
+<p>Este dispositivo de postura pone los hombros en la posición correcta, mejora la postura y alivia la tensión de la espalda y el cuello. Ideal para corregir la mala postura y los hombros caídos. Cierre ajustable para facilitar su transporte.</p>
+<p>Con un tejido suave y sedoso, es el mejor sujetador súper cómodo. Cuando use el sostén, comprenderá rápidamente cómo se siente realmente un sujetador que ofrece comodidad y un agarre fuerte.</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>Las copas forradas dan un agarre perfecto y comodidad.</li>
+<li>Correas acolchadas y ajustables para un ajuste perfecto.</li>
+<li>Malla trasera Racer con orificio que garantiza una óptima circulación del aire.</li>
+<li>Tejido transpirable que mantiene la piel fresca y seca.</li>
+<li>Instrucciones de cuidado: Lavar a máquina en caliente (40 ° +)</li>
+<li>Material: 89% nylon + 11% spandex</li>
+</ul>
+<ul></ul>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/777_large.jpg?v=1564451171" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Color: negro, beige.</li>
+<li>Tamaño: S, M, L</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>1 * Soporte para la Espalda Chaleco Corrector de Postura para Mujeres BH</li>
+</ul>
+<h3 id="title" class="a-size-large a-spacing-none"><span id="productTitle" class="a-size-large" style="color: #ff00ff;"></span></h3></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286038802528</id>
+      <title>Negro / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDNY001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286038802528</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDNY002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286038802528</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDNY003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286038802528</id>
+      <title>Beige / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDNY004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286038802528</id>
+      <title>Beige / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDNY005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286038802528</id>
+      <title>Beige / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>JDNY006</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286037327968</id>
+    <published>2019-10-18T00:43:14-05:00</published>
+    <updated>2019-10-18T00:43:14-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/sujetador-de-encaje-sin-costuras"/>
+    <title>Sujetador de Encaje sin Costuras</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_e4a33415-102d-4eb6-9956-ddd067fe3192.jpg?v=1575020424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            14.99 - 23.99
+            <a href="https://idealdia.com/products/sujetador-de-encaje-sin-costuras">(72 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;">
+<strong><span style="color: #ff00ff;"><span style="color: #ff0000;">♥</span>  <span style="color: #93c47d;">La ropa interior libre de arañazos 👩🏻</span><br><span style="color: #93c47d;">Cómodo y sin arañazos</span> </span></strong><span style="color: #ff0000;"><strong>♥</strong></span>
+</h3>
+<p style="text-align: center;"><span style="color: #e06666;"><strong> <span style="color: #ea9999;">Sin esclavitud, sin presión, sin marcas</span></strong></span></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<p>✿ <span style="color: #ff0000;"><strong>Este sujetador puede soportar mejor tus senos con material suave</strong></span>. Cómodo, agradable a la piel y transpirable, y sin más presión. Disfrute de la comodidad de uso naturalmente suave.<br>✿ <span style="color: #ff0000;"><strong>Este sujetador minimizador sin percha con un diseño de cobertura total</strong></span> y correas anchas con ajuste permite aliviar la presión en los senos y los hombros.<br>✿ <strong><span style="color: #ff0000;">Con toda la tela de encaje</span></strong>, más elástica, más transpirable y más cómoda de usar con U-back se ve muy hermosa y elegante.<br>✿ <span style="color: #ff0000;"><strong>El sujetador sin costuras</strong></span>, sin ataduras ni constricciones, es perfecto para el uso diario, para un buen descanso o para un uso informal.<br><span style="color: #ff9900;"><strong></strong></span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/47876ccd31ab3e88d1ac0947d2f69e2f_large.jpg?v=1564818656" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><strong><span style="color: #ff9900;">Especificación:</span></strong></p>
+<ul>
+<li>
+<span></span>Material: algodón (encaje)</li>
+<li>Color: blanco, azul, negro, rojo de vino, color, rosa</li>
+<li>Peso: 100 g</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p><span>1 x Sujetador de Encaje sin Costuras</span></p>
+<p><span style="color: #ff0000;"><span><strong>Notas:</strong></span> </span>   </p>
+<p>Por favor permita un error de 2-3 cm debido a la medición manual.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-BAI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Negro / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HEI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rosa / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-MEI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-ROU-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-HONG-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / 2XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / 3XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Azul / 4XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>NY-LAN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Negro / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+HEI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+ROSE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / L</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku>NY-B+ROSE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+ROSE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / 2XL</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku>NY-B+ROSE-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / 3XL</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku>NY-B+ROSE-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Rosa / 4XL</title>
+      <s:price currency="EUR">23.90</s:price>
+      <s:sku>NY-B+ROSE-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Blanco+Beis / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-B+F-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Rojo Vino / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+F-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Beis+Azul / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-LAN+F-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / M</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / L</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / 2XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / 3XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286037327968</id>
+      <title>Rojo Vino+Azul / 4XL</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NY-HONG+LAN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286024319072</id>
+    <published>2019-10-18T00:35:21-05:00</published>
+    <updated>2019-10-18T00:35:21-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/35-grados-calcetines-de-fibras-aluminizadas-3-pares"/>
+    <title>35 Grados Calcetines de Fibras Aluminizadas (3 Pares)</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/10_2000x_29dd4d20-847c-4e48-9ddc-94d561ff952c.jpg?v=1575020327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><strong><span style="color: #ff9900;">Calcetines de Fibra Aluminizada</span></strong></h3>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li>
+<strong><span style="color: #e06666;">FIBRAS ALUMINIZADAS ---</span></strong> Calcetines confeccionados en tejido de alta calidad. Los temas aluminizados ayudan a reflejar el calor de su propio cuerpo mientras mantienen el calor y la humedad al mínimo para mantener sus pies calientes en el frío.</li>
+<li>
+<span style="color: #e06666;"><strong>CALIENTE Y SECADO RÁPIDO --</strong><strong>-</strong></span> El material suave es cómodo para la piel, suave, transpirable, cómodo de llevar, absorbe la humedad y reduce los olores. Puede mantener los pies calientes y secos en climas fríos.</li>
+<li><span style="color: #e06666;"><strong>Fibra Recubierta de Aluminio</strong></span></li>
+<li>
+<span style="color: #e06666;"><strong>APLICACIÓN ---</strong></span> Delgado, ordenado y liviano para usted mismo o como forro en sus calcetines regulares para un ajuste perfecto. Se adapta a todos los zapatos y es ideal para las actividades diarias.</li>
+<li>
+<span style="color: #e06666;"><strong>CALCETINES MULTIFUNCIONALES ---</strong></span> Ideal para entusiastas de actividades al aire libre como cazadores, esquiadores, excursionistas y ciclistas.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff0000;"><strong>Nota:</strong></span> Lavadora en frío con colores similares; no blanquear, Secar regularmente</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/123_565bc4ba-fb83-4858-847f-4053396fe238_large.jpg?v=1547086954" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material: fibra recubierta de aluminio</li>
+<li>Tamaño: 39 * 9 cm</li>
+<li>Color negro, azul, rojo, naranja, verde, rojo rosa</li>
+</ul>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span></strong></p>
+<p>3 Pares x 35 Grados Calcetines de Fibras Aluminizadas</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024319072</id>
+      <title>S/M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CBNW001*3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024319072</id>
+      <title>L/XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CBNW002*3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286023729248</id>
+    <published>2019-10-18T00:34:52-05:00</published>
+    <updated>2019-10-18T00:34:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/pantalla-tactil-de-cortaviento-guantes-calida"/>
+    <title>Pantalla Táctil de Cortaviento Guantes Cálida</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_5265733b-454f-4866-939b-9d83dd8796e7.jpg?v=1575018174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #e06666;"><em><strong>El pulgar, el dedo índice y el dedo corazón tienen fibras metálicas conductoras, puedes usar el smartphone sin quitarte los guantes.</strong></em></span></p>
+<div style="text-align: center;"><span style="color: #0000ff;"><em><strong></strong></em></span></div>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li>
+<strong><span style="color: #ff0000;"> 【Tecnología de Pantalla Táctil】:</span></strong><span style="color: #000000;">Los guantes pulgar, dedo índice, tienen fibras metálicas conductoras, usted puede usar su smartphone y dispositivo de pantalla táctil de manera efectiva sin tener que quitarse los guantes, mientras mantiene sus manos calientes en climas fríos.</span>
+</li>
+<li>
+<strong><span style="color: #ff0000;">【Impermeable y Cortaviento】:</span></strong>Utilice los últimos materiales impermeables y a prueba de viento que funcionarán bien bajo la lluvia o al andar en bicicleta. Por favor, tenga en cuenta: Esta prenda puede ser impermeable pero ligeramente impermeable y no se puede utilizar bajo el agua o en condiciones de lluvia intensa.</li>
+<li>
+<strong><span style="color: #ff0000;">【Diseño Antideslizante】:</span></strong>La palma de la mano utiliza el diseño de silicona antideslizante resistente a la abrasión, una silicona en la palma de la mano le ayuda a agarrar el mango de la bicicleta o las herramientas con firmeza. Incluso en carreteras irregulares se puede sujetar mejor el manillar.</li>
+<li>
+<strong><span style="color: #ff0000;">【Cremallera Ajustable de 8cm &amp; Caliente】:</span></strong>El guante tiene una cremallera en la espalda. Puede ajustar el tamaño de acuerdo a las diferentes personas. El suave y transpirable forro polar mantiene las manos calientes y no demasiado voluminosas durante las actividades diarias. Haga que su conducción sea más cómoda.</li>
+</ul>
+<ul></ul>
+<div style="text-align: center;">
+<h4 style="text-align: left;"><span style="color: #ff9900;"><strong><span style="color: #ff0000;">Nota:</span></strong></span></h4>
+<p style="text-align: left;">Por favor, elija el tamaño correcto de acuerdo a su tamaño de mano:</p>
+<p style="text-align: left;"><strong><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/9_large.jpg?v=1562652833" alt="" style="display: block; margin-left: auto; margin-right: auto;"></strong></p>
+</div>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Tallas: S / M / L / XL</li>
+<li>Peso: aprox. 100g</li>
+<li>Colores: negro, rosa y azul.</li>
+</ul>
+<ul></ul>
+<p>▲<span style="color: #ff0000;"><strong>¡Atención!</strong></span>▲</p>
+<ol>
+<li>Este guante impermeable es sólo ligeramente impermeable y no debe utilizarse en caso de lluvia fuerte o bajo el agua y no debe estar completamente sumergido en el agua.</li>
+<li>No lavar con agua caliente, blanqueador con cloro, preferiblemente lavado a mano. Sólo hay que remojar los guantes con jabón, luego frotarlos y lavarlos, secarlos a la sombra, sin plancharlos.</li>
+</ol>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>1 x Pantalla Táctil de Cortaviento Guantes Cálida</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Negro / S</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-01Z-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-01Z-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-01Z-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Negro / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-01Z-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Rosa / S</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-14Z-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Rosa / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-14Z-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Rosa / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-14Z-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Rosa / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-14Z-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Azul / S</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-08Z-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Azul / M</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-08Z-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Azul / L</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-08Z-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023729248</id>
+      <title>Azul / XL</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>GLOVE001-08Z-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286015864928</id>
+    <published>2019-10-18T00:28:59-05:00</published>
+    <updated>2019-10-18T00:28:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/pantalones-deportivos-de-yoga-de-cintura-alta-para-mujer"/>
+    <title>Pantalones Deportivos de Yoga de Cintura Alta para Mujer</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_13378075-1909-40cb-9784-4c43cadaa1c6.jpg?v=1575019040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span style="color: #ff9900;"><strong>-&gt; Envío Gratis</strong></span></h4>
+<h3 style="text-align: center;">
+<span><strong>💕<span style="color: #93c47d;">Pantalones Deportivos de Yoga</span></strong></span><span><strong>💕</strong></span>
+</h3>
+<p><img src="https://cdn.shopify.com/s/files/1/0245/6171/3236/products/38_1_large.gif?v=1557802610" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span><strong>👖<span style="color: #ff9900;">Característica:</span></strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> Cintura alta:</strong></span> Cintura alta y ancha para una parte superior sin mufla y una cobertura máxima al doblarse y estirarse.</li>
+<li>
+<span style="color: #ff0000;"><strong>Diseño ergonómico:</strong></span> Costuras ergonómicas para una libertad de movimiento natural.</li>
+<li>
+<span style="color: #ff0000;"><strong>Tres bolsillos:</strong></span> 2 bolsillos de fácil acceso para guardar el smartphone y más, 1 bolsillo interno en la cintura.</li>
+<li>
+<span style="color: #ff0000;"><strong>Calzoncillos para todo lo que necesites:</strong></span> Lleva contigo tu teléfono móvil, una toalla de papel y todo lo que necesites.</li>
+</ul>
+<ul></ul>
+<p><span><strong>💓<span style="color: #ff0000;">Nota: </span></strong></span></p>
+<p>Por favor, tenga en cuenta la tabla de tallas para evitar problemas innecesarios para usted.</p>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/123_large.jpg?v=1564043935" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Por favor, permita una diferencia de 1-3 cm debido a la medición manual.<br><br>Debido a la configuración del monitor y a las definiciones de píxeles del monitor, puede haber ligeras diferencias en el color real del producto.</p>
+<p>✨<span style="color: #ff9900;"><strong>Especificaciones: </strong></span></p>
+<ul>
+<li>
+<p><strong>Material:</strong><span> </span>Polyester</p>
+</li>
+<li>
+<p><strong>Peso:</strong><span> </span>140 g</p>
+</li>
+<li>
+<p><strong>Color:</strong><span> Azul</span>, Negro, Burdeos, Azul Oscuro,Gris Claro, Gris Oscuro</p>
+</li>
+<li>
+<p><strong>Talla:</strong><span> </span>S / M / L / XL / 2XL</p>
+</li>
+</ul>
+<p><span><strong>🎁<span style="color: #ff9900;">Paquete Incluido: </span></strong></span></p>
+<p>1 * Pantalones Deportivos de Yoga de Cintura Alta para Mujer</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul / S</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-LAN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul / M</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-LAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul / L</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-LAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul / XL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-LAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul / XXL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-LAN-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Negro / S</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HEI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Negro / XL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Negro / XXL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HEI-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Burdeos / S</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HONG-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Burdeos / M</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HONG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Burdeos / L</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HONG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Burdeos / XL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HONG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Burdeos / XXL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-HONG-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul Oscuro / S</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENLAN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul Oscuro / M</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENLAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul Oscuro / L</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENLAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul Oscuro / XL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENLAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Azul Oscuro / XXL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENLAN-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Claro / S</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-QIANHUI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Claro / M</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-QIANHUI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Claro / L</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-QIANHUI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Claro / XL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-QIANHUI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Claro / XXL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-QIANHUI-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Oscuro / S</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENHUI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Oscuro / M</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENHUI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Oscuro / L</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENHUI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Oscuro / XL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENHUI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286015864928</id>
+      <title>Gris Oscuro / XXL</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>YUJIAKU-SHENHUI-XXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286013276256</id>
+    <published>2019-10-18T00:27:01-05:00</published>
+    <updated>2019-10-18T00:27:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/ultraligero-chaqueta-impermeable-unisexo"/>
+    <title>Ultraligero Chaqueta Impermeable, Unisexo</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_f8840587-6a66-4eb1-8af7-3abcfdfddd5a.jpg?v=1575021994"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            22.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4><span style="color: #ff9900;"><strong>-&gt; Envío Gratis a España</strong></span></h4>
+<p style="text-align: center;"><span style="color: #93c47d;"><strong>☔Cortaviento Impermeable Ultraligero Unisexo☔</strong></span></p>
+<h4><span style="color: #ff9900;"><strong>Características:</strong></span></h4>
+<ul>
+<li>La tecnología de tejido exterior liviana e impermeable presenta funciones de protección solar anti-UV, impermeable, anti-contaminación, anti-aceite, transpirable, contra viento e impermeable.</li>
+</ul>
+<div><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/1_9f212940-3643-442c-a9d7-1858ef86e2fe_large.gif?v=1559194476" alt="" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<ul>
+<li>Los hombres y las mujeres son de la misma talla para el mismo tipo, elija exactamente según nuestra tabla de tallas.</li>
+<li>Capucha contra el viento, bolsillos ocultos en ambos lados, excelente alineación interna.</li>
+<li>La chaqueta deportiva multifuncional para aire libre es adecuada para una variedad de entornos, como senderismo, ciclismo, viajes, pesca, ocio urbano, compras, etc.</li>
+<li>El dobladillo ajustable permite que la ropa mantenga su estado natural en los días calurosos, y cuando sopla el viento, también puede inhibir el viento.</li>
+</ul>
+<div><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/2_b8fa4b0e-4267-4413-afb4-49519d935ab8_large.gif?v=1559194503" alt="" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<ul>
+<li>El tejido flexible es cómodo de usar, y el bolsillo en la chaqueta donde puede poner las cosas hace que viajar sea más fácil.</li>
+</ul>
+<ul></ul>
+<h4><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></h4>
+<ul>
+<li>
+<strong>Material:</strong> Poliéster</li>
+<li>
+<strong>Color: </strong>Blanco, Rosa, Dorado, Gris, Magenta, Verde, Naranja, Azul Celeste, Azul Marino</li>
+<li>
+<strong>Talla:</strong> XS, S, M, L, XL, 2XL, 3XL, </li>
+<li>
+<strong>Peso:</strong> aprox 300 g</li>
+</ul>
+<h4><span style="color: #ff0000;"><strong>Notas：</strong></span></h4>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/1_a7298f5f-a0c8-4a47-b37f-9b543bd573e7_large.jpg?v=1565076182" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul>
+<li>Por favor, consulte la tabla de tallas para evitar problemas innecesarios para usted.</li>
+<li>Por favor permita una diferencia de 1-3 cm debido a la medición manual.</li>
+<li>Debido a la configuración del monitor y las definiciones de píxeles del monitor, puede haber pequeñas diferencias en el color real del producto.</li>
+</ul>
+<h4><span style="color: #ff9900;"><strong>Paquete Incluye:</strong></span></h4>
+<p>1 * Ultraligero Chaqueta Impermeable, Unisexo</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Blanco / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-bai-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Blanco / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-bai-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Blanco / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-bai-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Blanco / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-bai-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Blanco / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-bai-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Blanco / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-bai-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Blanco / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-bai-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Rosa / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-fen-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Rosa / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-fen-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Rosa / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-fen-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Rosa / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-fen-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Rosa / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-fen-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Rosa / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-fen-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Rosa / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-fen-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Dorado / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-jin-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Dorado / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-jin-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Dorado / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-jin-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Dorado / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-jin-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Dorado / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-jin-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Dorado / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-jin-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Dorado / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-jin-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Gris / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hui-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Gris / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hui-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Gris / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hui-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Gris / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hui-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Gris / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hui-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Gris / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hui-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Gris / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hui-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Magenta / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hong-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Magenta / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hong-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Magenta / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hong-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Magenta / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hong-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Magenta / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hong-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Magenta / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hong-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Magenta / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-hong-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Verde / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-lv-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Verde / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-lv-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Verde / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-lv-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Verde / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-lv-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Verde / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-lv-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Verde / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-lv-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Verde / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-lv-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Naranja / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-cheng-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Naranja / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-cheng-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Naranja / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-cheng-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Naranja / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-cheng-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Naranja / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-cheng-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Naranja / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-cheng-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Naranja / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-cheng-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Celeste / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-TL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Celeste / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-TL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Celeste / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-TL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Celeste / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-TL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Celeste / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-TL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Celeste / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-TL-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Celeste / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-TL-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Marino / S</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-HL-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Marino / M</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-HL-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Marino / L</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-HL-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Marino / XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-HL-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Marino / 2XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-HL-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Marino / 3XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-HL-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286013276256</id>
+      <title>Azul Marino / 4XL</title>
+      <s:price currency="EUR">22.99</s:price>
+      <s:sku>CFY-HL-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286007017568</id>
+    <published>2019-10-18T00:22:32-05:00</published>
+    <updated>2019-10-18T00:22:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/chaqueta-ultraligera-unisex-8-colores"/>
+    <title>Chaqueta Ultraligera Unisex, 8 Colores</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_cbb29c8f-6eab-4cd1-be2b-388f4d689314.jpg?v=1575014075"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>--&gt; Envío Gratis</strong></span></p>
+<p style="text-align: center;"><span style="color: #e06666;"><strong>🔥Con una flotabilidad de 800, se garantiza una chaqueta ligera y súper cálida🔥</strong></span></p>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/1_large.gif?v=1567667400" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p>Cuando está empacado, no es más grande que un teléfono inteligente, por lo que cabe en su mochila o se guarda en su guantera. La <strong>Chaqueta Ultraligera Unisex</strong> también es totalmente repelente al agua y viento.</p>
+<p><span style="color: #ff9900;"><strong>Característica:</strong></span></p>
+<ul>
+<li>Compacto en una bolsa pequeña, ¡el compañero de viaje ideal!</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/2_large.gif?v=1567667424" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul>
+<li>Impermeable y transpirable para actividades al aire libre como senderismo, escalada, viajes o ropa casual.</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/3_large.gif?v=1567667596" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<ul>
+<li>Control de temperatura versátil del diseño para mantenerte abrigado durante toda la temporada.</li>
+<li>Los bolsillos con cremallera y los puños planos y elásticos protegen contra el aire frío.</li>
+</ul>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/4_large.gif?v=1567667757" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material de la superficie: Fibra de poliéster</li>
+<li>Forro: pluma de pato</li>
+<li>Color: 8</li>
+<li>tamaño:</li>
+</ul>
+<ul></ul>
+<p><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/5_large.gif?v=1567667823" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff9900;"><strong>Paquete Incluye: </strong></span></p>
+<p>1 * Chaqueta Ultraligera Unisex</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Negro / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Negro / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Negro / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Negro / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HEI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Negro / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HEI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Negro / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HEI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-TIANLAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-TIANLAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-TIANLAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-TIANLAN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-TIANLAN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-TIANLAN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Violado / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-ZI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Violado / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-ZI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Violado / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-ZI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Violado / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-ZI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Violado / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-ZI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Violado / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-ZI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>ROSA / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-FEN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>ROSA / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-FEN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>ROSA / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-FEN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>ROSA / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-FEN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>ROSA / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-FEN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>ROSA / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-FEN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Caqui / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-KAQI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Caqui / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-KAQI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Caqui / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-KAQI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Caqui / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-KAQI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Caqui / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-KAQI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Caqui / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-KAQI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Burdeos / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-JIUHONG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Burdeos / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-JIUHONG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Burdeos / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-JIUHONG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Burdeos / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-JIUHONG-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Burdeos / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-JIUHONG-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Burdeos / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-JIUHONG-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Rojo / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HONG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Rojo / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HONG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Rojo / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HONG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Rojo / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HONG-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Rojo / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HONG-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Rojo / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-HONG-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Pink / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANFEN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Pink / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANFEN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Pink / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANFEN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Pink / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANFEN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Pink / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANFEN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Pink / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANFEN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Oscuro / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-SHENLAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Oscuro / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-SHENLAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Oscuro / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-SHENLAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Oscuro / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-SHENLAN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Oscuro / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-SHENLAN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Oscuro / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-SHENLAN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Claro / M</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANLAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Claro / L</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANLAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Claro / XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANLAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Claro / 2XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANLAN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Claro / 3XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANLAN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286007017568</id>
+      <title>Azul Claro / 4XL</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>QXYRF-DANLAN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286005248096</id>
+    <published>2019-10-18T00:21:22-05:00</published>
+    <updated>2019-10-18T00:21:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/gran-manta-calida-moderna-del-invierno-para-adultos-y-ninos"/>
+    <title>Gran Manta Cálida Moderna del Invierno Para Adultos Y Niños</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>Vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/20190919222223.jpg?v=1575013606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/13_1024x1024.jpg?v=1540188386" alt=""></p>
+<p><span style="color: #ff0000;"><strong><span title="" class="">NOTA: El negro, está agotado y ahora están en preventa.</span> <span title="" class="">Tardará un mes en preparar las mercancías.</span></strong></span></p>
+<p>Esta<span style="color: #ff9900;"> 🔥<strong>Gran Manta Cálida Moderna del Invierno🔥</strong></span> va bien con tu sudadero favorito. Con mangas extra grandes, una capucha cálida gigante y un bolsillo frontal espacioso, te mantiene<span> </span><span style="color: #ff9900;"><strong>caliente y cómodo</strong></span> mientras descansas en tu casa, ves televisión, noches de juegos familiares, campamentos, eventos deportivos o cualquier otra cosa.</p>
+<h3><span style="color: #ff0000;">⭐Características⭐:</span></h3>
+<p><span style="color: #ff0000;"><strong>CÓMODO Y GRANDE</strong>:</span> tírate los brazos y las piernas hacia la manta suave y esponjosa. No se desliza, ni se arrastra por el suelo y lo cubre completamente, aún tienes las manos libres. Enrolle las mangas hacia arriba o tira de sus manos completamente y aún caliente.</p>
+<p><span style="color: #ff0000;"><strong>HACE UN GRAN REGALO</strong>:</span> para cualquier día de fiesta u ocasión. La manta está destinada a traer una sonrisa instantánea a quien se la ponga.</p>
+<p><span style="color: #ff0000;"><strong>UN TAMAÑO PARA TODOS</strong>:</span> perfecto para hombres, mujeres y niños de todas las formas y tamaños.</p>
+<p><span style="color: #ff0000;"><strong>LAVADO SIN CUIDADO</strong>:</span> arrójelo con su ropa normal y sáquelo tan suave y acogedor como el primer día que lo compró. Lavar a máquina en frío, secar en secadora por separado a baja temperatura.</p>
+<h3><span style="color: #ff0000;">🎁Paquete incluye:</span></h3>
+<p>1 x Gran Manta Cálida Moderna del Invierno Para Adultos Y Niños</p>
+<p><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/14_ca83fd9f-649e-4b70-afd7-a95a5fcfd9e7_1024x1024.jpg?v=1540188411" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286005248096</id>
+      <title>ROJO</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>DMSY-JIUHONG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286005248096</id>
+      <title>ROSA</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>DMSY-FEN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286005248096</id>
+      <title>GRIS</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>DMSY-HUI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286005248096</id>
+      <title>AZUL</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>DMSY-LAN</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286002298976</id>
+    <published>2019-10-18T00:19:41-05:00</published>
+    <updated>2019-10-18T00:19:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/chaqueta-impermeable-con-capucha-plegable-para-mujer"/>
+    <title>Chaqueta Impermeable con Capucha Plegable para Mujer</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/7_2826ca22-cac4-467a-ac69-3f02611b7c05.jpg?v=1575018444"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            36.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong><b>-&gt;Envío Gratis</b></strong></span></p>
+<h4 style="text-align: center;">
+<span style="color: #e06666;">Chaquetas largas impermeables con Capucha</span><br><span style="color: #e06666;">Tejido de calidad alta, agradable para la piel, plegable, muy ligero y fácil de usar</span>
+</h4>
+<span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span><br>
+<ul>
+<li><span class="a-list-item">🌈🌻<span style="color: #ff0000;"><strong>【Seguridad】</strong><span style="color: #000000;">Tejido de calidad alta, agradable para la piel, plegable, muy ligero y fácil de transportar. Dos bolsillos para guardar bagatelas, diseño con cremallera para mayor seguridad.</span></span></span></li>
+<li><span class="a-list-item">🌈🌻<strong><span style="color: #ff0000;">【Material】</span></strong>95% poliéster y 5% spandex. Esta chaqueta impermeable está hecha de material de alta calidad para un uso cómodo y elegante, suave y transpirable, adecuado para todas las estaciones</span></li>
+<li><span class="a-list-item">🌈🌻<span style="color: #ff0000;"><strong>【Diseño】</strong></span>Impermeable de moda: impermeable en estilo parka de moda, el cordón en la cintura, el ajuste de la chaqueta para exteriores se puede ajustar mediante una práctica cintura con cordón y se ajusta individualmente.También garantiza un exitoso atuendo para exteriores.</span></li>
+<li><span class="a-list-item">🌈🌻<span style="color: #ff0000;"><strong>【Eventos】</strong></span>Traje para escalada, ciclismo, camping, senderismo, carrera, viajes, pesca y turismo al aire libre en todas las estaciones.</span></li>
+</ul>
+<ul></ul>
+<h4><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></h4>
+<p><em><span style="color: #93c47d;">Tenga en cuenta las especificaciones de tamaño a continuación antes de realizar el pedido. ¡Gracias! Debido a los efectos de iluminación, la configuración de brillo / contraste del monitor, etc., puede haber ligeras diferencias en el tono de las imágenes y en el objeto real.</span></em></p>
+<ul>
+<li>Género: mujer</li>
+<li>Tela: impermeable</li>
+<li>Forro de tela: poliéster</li>
+<li>Patrón: rayas, monocromo</li>
+<li>Tipo de cuello: capucha</li>
+<li>Tipo: deportivo, casual, al aire libre</li>
+<li>Cuidado: lavado a mano o máquina, 30 ° máx.</li>
+<li>Peso: aprox.350 g</li>
+<li>Función: impermeable, de secado rápido, antirradiación, transpirable, ultraligero</li>
+<li>Temporada: otoño, invierno</li>
+</ul>
+<div><b><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/44d0d16aebdbcb34fe8ec9908aa34f73_large.jpg?v=1569811419" alt="" style="display: block; margin-left: auto; margin-right: auto;"></b></div>
+<ul></ul>
+<h4><span style="color: #ff9900;"><strong>PAQUETE INCLUIDO:</strong></span></h4>
+<ul>
+<li>1 x Chaqueta Impermeable con Capucha Plegable para Mujer</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AMARILLO / S</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HUANG-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AMARILLO / M</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HUANG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AMARILLO / L</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HUANG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AMARILLO / XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HUANG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AMARILLO / 2XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HUANG-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AMARILLO / 3XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HUANG-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AMARILLO / 4XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HUANG-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AMARILLO / 5XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HUANG-5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL / S</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-LAN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL / M</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-LAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL / L</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-LAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL / XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-LAN-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL / 2XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-LAN-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL / 3XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-LAN-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL / 4XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-LAN-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL / 5XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-LAN-5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>NEGRO / S</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HEI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>NEGRO / M</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>NEGRO / L</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>NEGRO / XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HEI-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>NEGRO / 2XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HEI-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>NEGRO / 3XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HEI-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>NEGRO / 4XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HEI-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>NEGRO / 5XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-HEI-5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>BURDEOS / S</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-JIUHONG-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>BURDEOS / M</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-JIUHONG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>BURDEOS / L</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-JIUHONG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>BURDEOS / XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-JIUHONG-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>BURDEOS / 2XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-JIUHONG-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>BURDEOS / 3XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-JIUHONG-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>BURDEOS / 4XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-JIUHONG-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>BURDEOS / 5XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-JIUHONG-5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>ROSA / S</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-FENSE-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>ROSA / M</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-FENSE-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>ROSA / L</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-FENSE-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>ROSA / XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-FENSE-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>ROSA / 2XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-FENSE-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>ROSA / 3XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-FENSE-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>ROSA / 4XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-FENSE-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>ROSA / 5XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-FENSE-5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL OSCURO / S</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-ZANGQING-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL OSCURO / M</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-ZANGQING-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL OSCURO / L</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-ZANGQING-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL OSCURO / XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-ZANGQING-XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL OSCURO / 2XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-ZANGQING-2XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL OSCURO / 3XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-ZANGQING-3XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL OSCURO / 4XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-ZANGQING-4XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286002298976</id>
+      <title>AZUL OSCURO / 5XL</title>
+      <s:price currency="EUR">36.99</s:price>
+      <s:sku>CKCFY-ZANGQING-5XL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286001545312</id>
+    <published>2019-10-18T00:19:15-05:00</published>
+    <updated>2019-10-18T00:19:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/sudadera-con-capucha-de-mascotas-para-ninos"/>
+    <title>Sudadera con Capucha de Mascotas para Niños</title>
+    <s:type>Ropa</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_1674d97c-1c28-4f9e-91e5-9ec8bd02b818.jpg?v=1575020654"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Ropa<br>
+        <strong>Precio: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><span style="color: #e06666;"><strong><em>Sudadera con Capucha de Mascotas para Niños</em></strong></span></p>
+<p style="text-align: center;"><em><span style="color: #93c47d;">¡Una talla única para todos y, por lo tanto, es adecuada para niños de todas las edades!</span></em></p>
+<p><span><b><strong><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/1_0c534a6e-6a21-4e4b-b591-6896718d2e2c_480x480.gif?v=1569736604" alt="" style="display: block; margin-left: auto; margin-right: auto;"></strong></b></span></p>
+<p style="text-align: center;"><strong><span style="color: #e06666;">💗Gracioso💙Dulce💚Cálido💛Cómodo🧡</span></strong></p>
+<p><span>🤩😻¡<span style="color: #ff9900;"><strong>Sudadera con Capucha de Mascotas para Niños</strong></span> mantendrá a su hijo abrigado y cómodo! ¡Es divertida, una linda almohada y una sudadera con capucha súper cálida y suave!</span></p>
+<p><span>🤩😻Cuando está plegado, es una almohada con forma de mascota. ¡Pero se abre a una sudadera con capucha ultra suave y súper cálida y de gran tamaño! ¡La mascota se pliega mágicamente en la capucha y se cierra de forma segura! Perfecto si sus hijos juegan afuera o holgazanean por la casa.</span></p>
+<p><span><strong>🤩😻<span style="color: #ff9900;">Ideal</span></strong> para pasar la noche y largos viajes en auto. ¡Usa la sudadera con capucha de tu cojín para mascotas para sentirte cálido y tierno como una sudadera con capucha o como mascota para un cojín de peluche!</span></p>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Ideal para viajes por carretera:</strong></span> úsalo como almohada para el automóvil</li>
+<li>
+<span style="color: #ff0000;"><strong>La almohada para mascotas</strong></span> se pliega fácilmente en la capucha para convertirse en una sudadera con capucha</li>
+<li>Sudadera con capucha ultra suave y <span style="color: #ff0000;"><strong>de gran tamaño</strong></span> para niños.</li>
+<li>
+<span style="color: #ff0000;"><strong>Talla única:</strong></span> ideal para niños de todas las edades.</li>
+<li>
+<span style="color: #ff0000;"><strong>Lavable</strong></span> en la lavadora</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>Material: felpa</li>
+<li>Peso: 500 g</li>
+<li>Tamaño: talla única</li>
+<li>Color: violeta, verde, rojo, azul</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>PAQUETE INCLUYE:</strong></span></p>
+<ul>
+<li>
+<p><span>🎁1 * Sudadera con Capucha de Mascotas para Niños</span></p>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286001545312</id>
+      <title>Violeta</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>WOMS-ZISE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286001545312</id>
+      <title>Verde</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>WOMS-LVSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286001545312</id>
+      <title>Rojo</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>WOMS-HONGSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286001545312</id>
+      <title>Azul</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>WOMS-LANSE</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286000037984</id>
+    <published>2019-10-18T00:18:30-05:00</published>
+    <updated>2019-10-18T00:18:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/vestido-elegante-de-encaje"/>
+    <title>Vestido Elegante de Encaje</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/10730319666_2052321167.jpg?v=1575012907"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Beauty<br>
+        <strong>Precio: </strong>
+            34.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>-&gt; Envío Gratis</strong></span></p>
+<p style="text-align: center;"><span style="color: #93c47d;"><strong><em>El estilo de este vestido te hará elegante y encantador</em></strong></span></p>
+<h4><span style="color: #ff9900;"><strong>Características:</strong></span></h4>
+<ul>
+<li>Un dobladillo asimétrico completa el atractivo diseño. Con este vestido te ves bien en ocasiones especiales.</li>
+<li>Ideal para varias ocasiones: negocios, casual, rockabilly, festival, solemnidad, celebración, boda y fiesta, etc.</li>
+<li>65% algodón + 35% poliéster, material ligero, suave, transpirable y cómodo de llevar.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Material:65% de algodón + 35% de poliéster</li>
+<li>Estilo de la Manga: Manga Larga</li>
+<li>Ocasión: Normal</li>
+</ul>
+<ul></ul>
+<h4><span style="color: #ff2a00;">Bitte wählen Sie vor dem Kauf die für Sie passende Größe gemäß der Größentabelle aus.</span></h4>
+<p><span style="color: #ff2a00;"><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/2_db09a1b4-bf83-4d54-b390-aec229b35b87_large.jpg?v=1570518740" alt="" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p><span style="color: #ff9900;"><strong>Mantenimiento:</strong></span></p>
+<ol>
+<li>Lavar a máquina con agua fría.</li>
+<li>Se recomienda secar al aire para mantener las fajas en condiciones óptimas durante mucho tiempo.</li>
+</ol>
+<p><strong><span style="color: #ff8000;">Paquete Incluye:</span></strong></p>
+<p>1 * Vestido Elegante de Encaje</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>S / Negro</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-HEI-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>S / Burdeos</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-JIUHONG-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>S / Marrón</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-ZONG-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>S / Azul</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-LAN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>S / Azul Oscuro</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-SHENLAN-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>S / Verde</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-LV-S</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>M / Negro</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-HEI-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>M / Burdeos</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-JIUHONG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>M / Marrón</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-ZONG-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>M / Azul</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-LAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>M / Azul Oscuro</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-SHENLAN-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>M / Verde</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-LV-M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>L / Negro</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-HEI-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>L / Burdeos</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-JIUHONG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>L / Marrón</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-ZONG-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>L / Azul</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-LAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>L / Azul Oscuro</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-SHENLAN-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286000037984</id>
+      <title>L / Verde</title>
+      <s:price currency="EUR">34.99</s:price>
+      <s:sku>NSLYQ-LV-L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

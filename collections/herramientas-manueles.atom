@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://idealdia.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://idealdia.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://idealdia.com/collections/herramientas-manueles.atom"/>
+  <title>idealdia</title>
+  <updated>2019-10-18T00:49:20-05:00</updated>
+  <author>
+    <name>idealdia</name>
+  </author>
+  <entry>
+    <id>https://idealdia.com/products/4286048403552</id>
+    <published>2019-10-18T00:49:20-05:00</published>
+    <updated>2019-10-18T00:49:20-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juego-de-pistola-de-agua-de-presion-alta-para-lavado-de-autos-con-una-botella-de-espuma"/>
+    <title>Juego de Pistola de Agua de Presión Alta para Lavado de Autos (con una botella de espuma)</title>
+    <s:type>Cleaning</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/11_faaa6f0f-43f0-48ab-aa86-53bce43b816c.jpg?v=1575023089"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cleaning<br>
+        <strong>Precio: </strong>
+            59.99 - 69.99
+            <a href="https://idealdia.com/products/juego-de-pistola-de-agua-de-presion-alta-para-lavado-de-autos-con-una-botella-de-espuma">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><strong>Juego de herramientas de lavado de autos para uso doméstico profesional</strong></span></h3>
+<p style="text-align: center;">La tubería de agua de 15 metros tiene solo 5 metros sin agua y la tubería de agua de 30 metros tiene solo 10 metros.</p>
+<p style="text-align: left;"><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>La manguera de rociado es<span style="color: #ff0000;"><strong> un diseño de mano resistente</strong></span>, puede rociar agua con una mano y detener el agua cuando la suelta.</li>
+<li>El ajuste de la cabeza del tubo puede ser tal como un rocío lineal agudo, una forma de sombrilla cónica, una forma de rocío.</li>
+<li><span style="color: #ff0000;"><strong>Cómodo, fácil de instalar, ligero y fácil de transportar.</strong></span></li>
+<li>Lo mismo se aplica al lavado de motos que riegan flores y árboles.</li>
+<li>La tubería de agua de lavado de automóviles se extendió después de la inyección de agua, adecuada para la limpieza del<span style="color: #ff0000;"><strong> vehículo, ducha de jardín</strong></span>.</li>
+</ul>
+<span style="color: #ff9900;"><strong>Especificación:</strong></span><br>
+<ul>
+<li>Material de poliéster de alta resistencia y resistente al desgaste, suave al tacto, no duro</li>
+<li>La red a prueba de explosiones hace que la tubería de agua sea dúctil, a prueba de explosión y a prueba de heladas</li>
+<li>Modelo: pistola de agua de lavado de coches</li>
+<li>Material del cuerpo de la pistola: aleación.</li>
+<li>Material de la boquilla: cobre</li>
+<li>Longitud: 15m y 30m.</li>
+<li>Tipo de asa: se refiere al tipo de tracción</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Nota:</strong></span></p>
+<ul>
+<li>La manguera no es apta para agua caliente.</li>
+<li>No abra el agua y la presión de la manguera cuando no esté en uso</li>
+<li>Drene el agua de la manguera cuando no esté en uso.</li>
+<li>Las tuberías flexibles de agua se mantienen en un lugar fresco.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1* Juego de pistolas de agua de lavado de alta presión</p>
+<p>3* Adaptador de grifo (adecuado para casi cualquier tipo de grifo)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286048403552</id>
+      <title>Juego de pistola de agua (tubo de agua 15M de longitud)</title>
+      <s:price currency="EUR">59.99</s:price>
+      <s:sku>GYSQ-15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286048403552</id>
+      <title>Juego de pistola de agua (tubo de agua 30M de longitud)</title>
+      <s:price currency="EUR">69.99</s:price>
+      <s:sku>GYSQ-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286045257824</id>
+    <published>2019-10-18T00:47:35-05:00</published>
+    <updated>2019-10-18T00:47:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/varillas-de-soldadura-de-aluminio-que-facil-de-fundir"/>
+    <title>Varillas de Soldadura de Aluminio que Fácil de Fundir</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/147.jpg?v=1575018974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            19.99 - 39.99
+            <a href="https://idealdia.com/products/varillas-de-soldadura-de-aluminio-que-facil-de-fundir">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><strong>Ofertas especiales y promociones de productos</strong></span></h3>
+<p style="text-align: center;"><span style="color: #93c47d;">Compra más, ahorra más, gran efecto de soldadura</span></p>
+<p style="text-align: left;"><strong><span style="color: #ff9900;">Ampliamente Utilizado:</span></strong> adecuado para soldar o aplicar aleaciones de soldadura de alta resistencia, buena capacidad de perdición y buena resistencia a la corrosión.</p>
+<p style="text-align: left;"><img src="//cdn.shopify.com/s/files/1/0044/3901/5498/files/5c91ac4bb39f3222887617_large_large_dd5ef071-d11c-478f-96fb-f459d5d52d7b_large.gif?v=1554635289" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff9900;"><strong>Instrucciones:</strong></span></p>
+<ol>
+<li>Limpie a fondo el área a soldar cepillando la base con un cepillo de acero inoxidable hasta que se vuelva brillante. Luego calentar el área a soldar uniformemente.</li>
+<li>Mientras calienta, frote la varilla vigorosamente contra el área calentada hasta que la varilla comience a fluir.</li>
+<li>Tenga en cuenta: Nunca aplique calor directamente al palo, ya que se derrumbará. Si logra fundir la varilla directamente, la soldadura puede romperse fácilmente. Recuerde que la fusión directa de la varilla es una forma incorrecta y produce soldaduras desmenuzables.</li>
+</ol>
+<p><img src="https://cdn.shopify.com/s/files/1/0005/2700/7862/files/5c91aec225afa896392996_large_a1952ceb-2b12-4ab8-a78e-7c9477ff7a1f_large.gif?v=1554861687" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Efecto Excelente</strong> </span>de soldadura, bajos puntos de fusión.</li>
+<li>
+<span style="color: #ff0000;"><strong>Excelente soldabilidad y resistencia a la corrosión</strong></span>, alta conductividad térmica, alta conductividad eléctrica y excelente rendimiento de procesamiento.</li>
+<li>
+<span style="color: #ff0000;"><strong>No se requiere polvo de soldadura</strong></span>, no necesita otro polvo de escape con una aleación de aluminio como núcleo de soldadura y un revestimiento como base de sal. Muy práctico y fácil de soldar.</li>
+<li>
+<span style="color: #ff0000;"><strong>Ampliamente utilizado en la vida útil</strong></span>, adecuado para soldar o procesar aleaciones con alta resistencia, buena perdonabilidad y buena resistencia a la corrosión.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul></ul>
+<ul>
+<li>Material: aluminio magnesio.</li>
+<li>Longitud: 50 cm.</li>
+<li>Diámetro: 2 mm.</li>
+<li>Temperatura de fusión: 387 ° C (728 ° F)</li>
+<li>No hay fugas de gases o toxinas, no se incluye material de plomo.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 * Varillas de Soldadura de Aluminio que Fácil de Fundir</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286045257824</id>
+      <title>10 Piezas</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>HT-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286045257824</id>
+      <title>20 Piezas</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>HT-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286045257824</id>
+      <title>50 Piezas</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>HT-50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286045257824</id>
+      <title>10 Piezas + Punta de Pistola de Soldar</title>
+      <s:price currency="EUR">35.99</s:price>
+      <s:sku>HT-10+PT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286043357280</id>
+    <published>2019-10-18T00:46:43-05:00</published>
+    <updated>2019-10-18T00:46:43-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/soporte-para-panel-de-pinzas-de-gorila-100-kg"/>
+    <title>Soporte para Panel de Pinzas de Gorila, 100 kg</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/q_c032c420-d9ff-4696-9d00-6ad4e307cd55.jpg?v=1575022108"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            39.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: left;"><em><strong><span style="color: #ea9999;">Un camión de panel versátil es una herramienta única de elevación y transporte perfecta para la industria de la construcción</span></strong></em></p>
+<ul>
+<li>
+<strong><span style="color: #ff0000;">Ahorro de mano de obra:</span></strong> tiene un asa suavemente acolchada que actúa como una palanca al usar el peso de la placa para crear una fuerza de sujeción. Lo mejor para tratar con paneles pesados, ahorra trabajo y reduce el riesgo de lesiones.</li>
+<li>
+<span style="color: #ff0000;"><strong>Aplicaciones amplias:</strong></span> perfecto para la industria de la construcción, almacenes, trabajadores de la construcción, trabajadores de la madera o mejoras para el hogar. Puede usarse para fabricar láminas de madera contrachapada, aglomerado, paneles de yeso, paneles de pared, melamina, láminas de metal, puertas de núcleo sólido, mesas, materiales de superficie sólida, granito, mármol y más.</li>
+<li>
+<span style="color: #ff0000;"><strong>Material de alta calidad y durabilidad:</strong></span> El cuerpo principal está hecho de material de hierro de alta calidad, estable y resistente a los arañazos.</li>
+<li>
+<span style="color: #ff0000;"><strong>Diseño ergonómico:</strong></span> el mango está hecho de material de nylon de alta calidad, antideslizante y cómodo en la mano.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Calidad Alta</li>
+<li>Color: negro</li>
+<li>Material: nylon + hierro</li>
+<li>Tamaño: W 16.5 x L 20.1 x H 14.6 cm.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1 * Soporte para Panel de Pinzas de Gorila, 100 kg</p>
+<h4><span style="color: #ff9900;"></span></h4></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286043357280</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">39.99</s:price>
+      <s:sku>JBYSQ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286043029600</id>
+    <published>2019-10-18T00:46:36-05:00</published>
+    <updated>2019-10-18T00:46:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/nanotecnologia-adhesivo-de-cara-doble"/>
+    <title>Nanotecnología Adhesivo de Cara Doble</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_27265270-1532-48a4-9170-5b24c2ea6274.jpg?v=1575021242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            16.99 - 23.99
+            <a href="https://idealdia.com/products/nanotecnologia-adhesivo-de-cara-doble">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>Nanotecnología Adhesivo de Cara Doble</strong></em></span></h3>
+<p>Adhesivo de cara doble, lavable y reutilizable para mantener los artículos en su lugar sin deslizarse</p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ol>
+<li>
+<p style="display: inline !important;"><span style="color: #ff0000;">♥</span> <span style="color: #ff0000;"><strong>Fácil de Cortar -</strong></span> ¡Simplemente corte a cualquier tamaño y longitud que desee! Puede estirarse, doblarse y doblarse fuera de forma para satisfacer sus necesidades.</p>
+</li>
+<li>
+<span style="color: #ff0000;"><strong>♥ Viscosidad Fuerte -</strong> </span>La nueva nanotecnología y el material adaptable hacen que se adhiera a todas las superficies. Puede soportar hasta 1kg (2.2 lbs) sobre una superficie lisa, por lo que puede insertar cualquier elemento como teléfonos móviles, llaves, bolígrafos, decoraciones, colgantes, utensilios de cocina, etc.</li>
+<li>
+<span style="color: #ff0000;"><strong>♥ Lavable y Reutilizable</strong></span> - Si se ensucia, puede lavarla con agua y secarla para restaurar la adherencia. NO use otras toallitas ni detergentes. Se puede utilizar varias veces y no deja residuos ni adhesivo cuando se retira.</li>
+<li>
+<span style="color: #ff0000;"><strong>♥ Uso Versátil</strong> </span>- se puede utilizar en todos los ámbitos de la vida, por ejemplo, en la cocina, la oficina, el teléfono móvil o el soporte del coche, la sala de estar, las herramientas, etc. Puedes pegar la mayoría de las cosas casi en cualquier lugar. Pegado libre, eliminación aleatoria, libre de desgaste.</li>
+</ol>
+<div><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/1_1ab1c7c3-88b7-4c5d-81a3-83692e2190aa_2048x2048.gif?v=1552292882" style="display: block; margin-left: auto; margin-right: auto;"></div>
+<ol></ol>
+<ol></ol>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+    ♥ Dimensiones: 0.3x300cm (3m / rollo)<br>    ♥ Material: PU<br>    ♥ Color: Transparente<br>
+<ol></ol>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1 * Nanotecnología Adhesivo de Cara Doble(3m / rollo)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286043029600</id>
+      <title>1 Rollo</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>NMJD-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286043029600</id>
+      <title>2 Rollo (venta limitada)</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>NMJD-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286040014944</id>
+    <published>2019-10-18T00:44:48-05:00</published>
+    <updated>2019-10-18T00:44:48-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cinta-de-sellado-linea-de-la-esquina"/>
+    <title>Cinta de Sellado Línea de la Esquina</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>idealdia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_270cf5fa-8331-4727-a06a-817fd5b133c1.jpg?v=1575019988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>idealdia<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            14.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: left;"><span style="color: #ff8000;"><strong>--&gt;&gt;Envío Gratis</strong></span></h3>
+<h3 style="text-align: center;"><span style="color: #e06666;"><strong>✯ No más fugas en la cocina y en el baño✯</strong></span></h3>
+<p><span style="color: #e06666;"><strong><img src="https://cdn.shopify.com/s/files/1/0016/3866/2218/files/Gifs_1_medium_large_d2f9bc78-8c29-41b0-acba-9118503ff995_grande.gif?v=1553667715" style="display: block; margin-left: auto; margin-right: auto;"></strong></span></p>
+<h3><span style="color: #ff9900;"><strong>Características:</strong></span></h3>
+<ul>
+<li>La cinta para la pared del baño de polvo es fácil de aplicar a su baño o rincón de la cocina, lo que facilita su limpieza</li>
+<li>La línea de cocina es de 300 cm de largo, que se adapta a sus diferentes necesidades en diferentes lugares.</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0115/6304/0868/files/Caulk_sticker1_medium.gif?v=1552670426" style="display: block; margin-left: auto; margin-right: auto;"><br>
+<ul>
+<li>El burlete es adhesivo diseñado para ser fácil y conveniente de instalar</li>
+<li>La banda impermeable está hecha principalmente de material de PVC que es impermeable y puede durar mucho tiempo.</li>
+<li>La cinta impermeable es pequeña, que puede almacenarse fácilmente cuando no está en uso y no ocupará demasiado espacio</li>
+</ul>
+<img src="https://cdn.shopify.com/s/files/1/0115/6304/0868/files/Caulk_sticker_medium.gif?v=1552670277" style="display: block; margin-left: auto; margin-right: auto;"><br>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Color: Blanco, Café Marrón, Gris, Beige, Azul, Rosa, Verde</li>
+<li>Material: PVC</li>
+<li>Tamaño: 300 * 3,8 cm</li>
+</ul>
+<ul></ul>
+<p><strong><span style="color: #ff0000;">Nota:</span></strong></p>
+<p>Existen pocas diferencias de color en función de la resolución.<br>Puede haber un error menor debido a varias medidas.</p>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido :</b></strong></span></p>
+<p>1 * Cinta de Sellado Línea de la Esquina (300cm)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Blanco</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-BAI</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Marrón</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Kaffeebraun</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Gris</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Grau</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Beige</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Beige</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Azul</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Blau</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Pink</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Pink</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286040014944</id>
+      <title>Verde</title>
+      <s:price currency="EUR">14.99</s:price>
+      <s:sku>FSJDAI-Grün</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286039720032</id>
+    <published>2019-10-18T00:44:35-05:00</published>
+    <updated>2019-10-18T00:44:35-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/regla-multifuncional-de-escala-triangular"/>
+    <title>Regla Multifuncional de Escala Triangular</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/2_800x_1fc30ad9-3cc0-4b49-83a2-67944fa6c778.jpg?v=1575019712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            28.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="rte" itemprop="description">
+<h3 style="text-align: center;"><span style="color: #e06666;"><em>Ideal para uso profesional</em></span></h3>
+<span style="color: #ff9900;"><strong> CARACTERISTICAS:<br></strong></span>
+<ul>
+<li>Nuevo Total y de Calidad Alta</li>
+<li>Adecuado para aplicaciones profesionales, arquitectura, ingeniería y dibujo técnico</li>
+<li>Duradero y ligero, fácil de transportar</li>
+</ul>
+<ul></ul>
+<b></b>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACION:</strong></span></p>
+<ul>
+<li>Material: plastico</li>
+<li>Longitud: aprox. 30cm</li>
+<li>Ideal para uso profesional.</li>
+<li>Adecuado para aplicaciones profesionales, arquitectura, planificación técnica y dibujo técnico.</li>
+</ul>
+<ul></ul>
+<strong><span style="color: #ff9900;">Nota: </span></strong><br>Dado que el tamaño anterior se mide a mano, el tamaño del objeto realmente recibido podría diferir ligeramente del tamaño indicado anteriormente. Tenga en cuenta que debido a los efectos de luz, ajustes de brillo/contraste del monitor, etc., puede haber ligeras diferencias en el tono de color de las imágenes y del elemento real.</div>
+<div class="rte" itemprop="description"></div>
+<div class="rte" itemprop="description"><span style="color: #ff9900;"><strong>Paquete Incluido :</strong></span></div>
+<div class="rte" itemprop="description">1 x Regla Multifuncional de Escala Triangular</div>
+<div class="rte" itemprop="description"><span style="color: #ff9900;"><strong></strong></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286039720032</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">28.99</s:price>
+      <s:sku>BZC-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286036607072</id>
+    <published>2019-10-18T00:42:57-05:00</published>
+    <updated>2019-10-18T00:42:57-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cortador-doble-de-hoja-de-metal-del-360-grados"/>
+    <title>Cortador Doble de Hoja de Metal del 360 Grados</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/11.jpg?v=1575019880"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><strong>『<span style="color: #93c47d;">360 grados de corte perfecto</span>』</strong></h3>
+<p><strong><span style="color: #ff9900;">Características:</span></strong></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Efecto Excelente</strong></span> de corte sin surcos y bordes, puede usarlo para cortar líneas rectas, curvas, líneas de arco o muchas otras líneas y formas irregulares.</li>
+<li>
+<span style="color: #ff0000;"><strong>Capacidad Máxima de Corte:</strong></span> chapa de hierro: 1,8 mm, acero inoxidable 1,2 mm, placa de cobre / aluminio de 2 mm, plástico / tablero de fibras de 2 mm</li>
+<li>Mango de <span style="color: #ff0000;"><strong>D</strong><strong>iseño Ergonómico</strong> </span>para un uso cómodo, ajustable en 360 grados con una velocidad de corte de 1500 a 3000 rpm</li>
+<li>Con el diseño de doble cabezal puede continuar cortando con el otro borde si un lado está opaco</li>
+<li>Adecuado para la reparación y mantenimiento de automóviles y la producción de chapa.</li>
+</ul>
+<p><span style="color: #ff0000;"><strong>Advertencia:</strong></span> <span style="color: #ff0000;">utilizar bajo la supervisión directa de adultos.</span></p>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Material: metal, plástico</li>
+<li>Color: negro, tono plateado.</li>
+<li>Diámetro de corte: 7,4 mm.</li>
+<li>Diámetro del vástago: 27 mm / 1.06 "</li>
+<li>Tamaño total: 18 x 5,1 x 7,8 cm / 7 "x 2" x 3 "(L * W * H)</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1 * Cortador Doble de Hoja de Metal del 360 Grados</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286036607072</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">29.99</s:price>
+      <s:sku>GLP001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286035689568</id>
+    <published>2019-10-18T00:42:13-05:00</published>
+    <updated>2019-10-18T00:42:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/regla-multiples-de-angulos-de-aleacion-de-aluminio-plastico-total-metal"/>
+    <title>Regla Múltiples de Ángulos de Aleación de Aluminio (Plástico / Total Metal)</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_87cee2c0-9d2e-45c3-b7f7-620c031f7c97.jpg?v=1575014122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            18.99 - 23.99
+            <a href="https://idealdia.com/products/regla-multiples-de-angulos-de-aleacion-de-aluminio-plastico-total-metal">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>Herramienta de regla de medición multi-ángulo</strong></em></span></h3>
+<p><span style="color: #ff9900;"><strong>✅A. De Plástico, Color Amarillo, 18.99 EUR.</strong></span></p>
+<p><span style="color: #ff9900;"><strong>✅B. De Metal, Color Negro, 23.99 EUR</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> Fácil de usar:</strong></span> simplemente colóquelo en el área de trabajo, deslice las reglas en la forma deseada y apriete los tornillos. Luego tiene su medida inmaculada, que ahora se puede transferir a cualquier material y reproducir.</li>
+<li>
+<span style="color: #ff0000;"><strong>Versátil:</strong></span> la regla de múltiples ángulos se desliza y se bloquea en cualquier ángulo deseado para ahorrar tiempo en mediciones repetidas.</li>
+<li>
+<span style="color: #ff0000;"><strong>Múltiples aplicaciones:</strong></span> cree diseños en azulejos, mampostería, adoquines, carpintería, laminado y mucho más. La regla es útil para crear ojos de buey, curvas, avellanadores y cualquier proyecto que pueda imaginar.</li>
+<li>
+<span style="color: #ff0000;"><strong>DURADABLE, LIGERO Y COMPACTO:</strong></span> excelente herramienta portátil, fácil de plegar y transportar a su próximo proyecto. El material metálico hace que la regla sea duradera para cada trabajo y cada industria. Su herramienta es fácil de guardar y utiliza un mecanismo de tensión único para la operación con una sola mano.</li>
+</ul>
+<span style="color: #ff9900;"><b>¿Cómo funciona? </b></span><span></span><br>
+<ul>
+<li>Afloje los tornillos y sostenga los brazos largos.</li>
+<li>Separa los brazos largos</li>
+<li>Deslice los brazos cortos para formar el ángulo deseado</li>
+<li>Aprieta los tornillos y stencil tus marcas.</li>
+</ul>
+<ul></ul>
+<ol></ol>
+<ol></ol>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<ul>
+<li>🌟 <span style="color: #0b5394;">1 x Herramienta de plantilla de angleizador</span>
+</li>
+<li>🌟 <span style="color: #0b5394;">1 x Cartón Duro</span>
+</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286035689568</id>
+      <title>PLÁSTICO AMARILLO</title>
+      <s:price currency="EUR">18.99</s:price>
+      <s:sku>CDHC001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286035689568</id>
+      <title>METAL NEGRO</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>CDHC002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286033035360</id>
+    <published>2019-10-18T00:40:49-05:00</published>
+    <updated>2019-10-18T00:40:49-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/molde-de-silicona-para-hornear"/>
+    <title>Molde de Silicona para Hornear</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_2000x_7b058f30-a95f-4996-a648-9546e9b6726e.jpg?v=1575021462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="description bottom" itemprop="description"><span style="color: #e06666;">♨ La bandeja para hornear de silicona con seguridad para el horno, la resistencia al calor hasta 500F, sin BPA, es un buen tablero para hornear productos horneados que permite a las madres hacer deliciosos bocadillos para los niños ♨</span></div>
+<div class="description bottom" itemprop="description"><span style="color: #e06666;"></span></div>
+<div class="description bottom" itemprop="description">
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>La bandeja para hornear de silicona con seguridad para el horno, resistencia al calor hasta 500F, sin BPA, es una buena panadería de bricolaje para productos horneados.</li>
+<li>La forma de 24 * 24 cm puede hacer 12 pasteles a la vez, use la forma de un cerdo en la manta para hacer que la hora de la merienda sea más interesante.</li>
+<li>La fiesta de cumpleaños ofrece la decoración de pastel perfecta y se presentará como un regalo para su familia o amigos.</li>
+<li>Fácil de limpiar, apto para lavavajillas y silicona antiadherente para cocinar y limpiar con facilidad.</li>
+<li>Adecuado para la preparación de pasteles, pan, mousse, jalea, platos preparados, chocolate, etc.</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Calidad Alta</li>
+<li>Haga que la merienda sea más divertida con los cerdos, hornee 12 golosinas al mismo tiempo con este molde para hornear</li>
+<li>El molde funciona con mini francos y mezclas de panqueques empacados, panqueques caseros, rollos de media luna o masa para pasteles.</li>
+<li>Esta lata de silicona para hornear es resistente al horno y al calor hasta 500 ° C.</li>
+<li>Apto para lavavajillas, por lo que la limpieza es muy fácil</li>
+<li>Material: silicona</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 * Molde de Silicona para Hornear</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286033035360</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>XZMJ001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286024024160</id>
+    <published>2019-10-18T00:35:06-05:00</published>
+    <updated>2019-10-18T00:35:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cortador-de-ensalada-ensalada-en-60-segundos"/>
+    <title>Cortador de Ensalada, Ensalada en 60 Segundos</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/11_4a521abb-2b04-4059-910f-59222d7e9bcf.jpg?v=1575019738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h2 style="text-align: center;"><span style="color: #e06666;"><em><strong>5 en 1: tazón de verduras + colador de agua + tabla de cortar + rebanador seguro + exprimidor de limón</strong></em></span></h2>
+<h4 style="text-align: left;">Con nuestro tazón mejorado para cortar ensaladas usted puede ahorrar tiempo y hacer ensaladas saludables para usted y su familia. Usted puede comprar uno a un familiar o amigo como regalo.</h4>
+<p style="text-align: center;"><img alt="" src="//cdn.shopify.com/s/files/1/0010/8730/7837/files/36.gif?v=1543047186" style="float: none;"></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Rápido, Fácil, Seguro:</strong></span></li>
+</ul>
+<p>Preparar una ensalada ya no es una tarea. Enjuague, corte y sirva la ensalada y el jugo en 60 segundos con la ayuda de este cortador de ensaladas mejorado con exprimidor de limón. Menos herramientas y nunca cortar dedos. Buena opción para los amantes de la ensalada.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Tazón saludable aprobado por la FDA:</strong></span></li>
+</ul>
+<p>Hecho de PE + PP material de calidad alimentaria.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Versión mejorada:</strong></span></li>
+</ul>
+<p>(1) Se coloca un "fregadero" alrededor del piso para evitar que el jugo caiga sobre la mesa. Mantenga su mesa limpia y seca.<br><br>(2) En comparación con el diseño "plano" del plato, nuestro diseño Wavy Edge le permite girar con facilidad y rapidez.<br><br>(3) Dos alas en ambos lados facilitan mover o levantar el tazón.<br><br>(4) Un agujero colgante es conveniente para guardar la base y mantenerla seca y limpia.</p>
+<ul>
+<li><span style="color: #ff0000;"><strong>Combinación perfecta:</strong></span></li>
+</ul>
+<p>No solo hay una ensaladera mejorada, sino también un exprimidor de limón. Todas las piezas son aptas para lavavajillas y separables, fáciles de limpiar.</p>
+<p><span style="color: #ff9900;"><strong>Características y Consejos:</strong></span></p>
+<ul>
+<li>Diseño mejorado: Se puede colgar hasta secar. El jugo se puede almacenar en el fregadero. Simplemente gira el tazón, usando las alas de ambos lados.</li>
+<li>Tamaño del producto: 7.5 * 4.7 * 7.8 pulgadas, suficiente para 2 personas.</li>
+<li>No se recomiendan los alimentos duros. Asegúrese de que solo se utilice 3/4 del recipiente para llenar los alimentos.</li>
+<li>El cuchillo no debe ser menor de 7 pulgadas.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 *  Cortador de Ensalada</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286024024160</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>SLW-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286023499872</id>
+    <published>2019-10-18T00:34:44-05:00</published>
+    <updated>2019-10-18T00:34:44-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/desodorante-para-limpieza-de-desagues-limpiador-de-aguas-residuales-varillas-magicas"/>
+    <title>Desodorante para Limpieza de Desagües, Limpiador de Aguas Residuales - Varillas Mágicas</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/4_grande_ffaffdf0-e006-4095-b50e-4537676056a5.jpg?v=1575020814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            9.99 - 10.99
+            <a href="https://idealdia.com/products/desodorante-para-limpieza-de-desagues-limpiador-de-aguas-residuales-varillas-magicas">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;">Mantenga sus desagües limpios</span></h3>
+<p style="text-align: center;"><span style="color: #e06666;"><strong><em>Desodorante para varilla de limpieza de desagües.</em></strong></span></p>
+<p>¿Quieres deshacerte de los olores ofensivos que vienen de tu fregadero? Aquí viene su limpiador de desagües: las varas mágicas que eliminan los olores y evitan que sus operaciones se conviertan en un desastre obstruido para una eficiencia óptima.<br><br><span style="color: #ff9900;"><strong>Características Principales:</strong></span></p>
+<div><span style="color: #ff9900;"><strong></strong></span></div>
+<div>
+<h4 style="text-align: center;"><span style="color: #ff0000;"><strong></strong></span></h4>
+</div>
+<div><span style="color: #ff9900;"><strong></strong></span></div>
+<div>
+<ul>
+<li>Ayuda de manera efectiva a descomponer los desechos orgánicos para prevenir los olores desagradables de los alimentos y las bacterias en descomposición mediante el uso de bastones sanitarios</li>
+<li>La combinación patentada de Keep Plumber Away Stick de enzimas potentes puede descomponer la grasa, las grasas, los aceites, la espuma de jabón y los alimentos para mantener el fregadero limpio. Ahorra tu dinero en instaladores y desagües.</li>
+<li>Adecuado para varios tubos de drenaje Adecuado para tubos de drenaje de plástico o metal. Es el mejor desodorante y limpiador para desagües de cocinas, tocadores, bañeras, duchas, lavamanos e inodoros.</li>
+<li>Evite los olores embarazosos y la retención desagradable de agua en los lavamanos y las duchas con un solo palo por mes</li>
+</ul>
+</div>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Dimensiones: Aprox. 10 cm / 3.94 "(12 palos en total)</li>
+<li>Seguro y no tóxico: hecho de 48% de sulfato de sodio, 5% de floración de trigo, 7% de carboximetilcelulosa, 10% de lauril sulfato de sodio, 17% de carbonato de calcio, 5% de cloruro de sodio, 1,5% de amilasa, 1% de lipasa, 1,3% de bacilopeptidasa, 2% de benzoato de sodio, 4 % De agua</li>
+</ul>
+<p><span style="color: #ff9900;"><strong><b>Paquete Incluido:</b></strong></span></p>
+<p>1* Varillas Mágicas, Desodorante para Limpieza de Desagües, Limpiador de Aguas Residuales</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023499872</id>
+      <title>Azul (12 piezas)</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>QWB-B-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023499872</id>
+      <title>Naranja (12 piezas)</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>QWB-H-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023499872</id>
+      <title>Azul / (24 piezas) Venta Limitada</title>
+      <s:price currency="EUR">10.99</s:price>
+      <s:sku>QWB-B-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286023499872</id>
+      <title>Naranja / (24 piezas) Venta Limitada</title>
+      <s:price currency="EUR">10.99</s:price>
+      <s:sku>QWB-H-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286022975584</id>
+    <published>2019-10-18T00:34:24-05:00</published>
+    <updated>2019-10-18T00:34:24-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/llave-de-vaso-universal-multifuncion-herramientas-de-mano-7-19mm"/>
+    <title>Llave de Vaso Universal Multifunción Herramientas de Mano 7-19mm</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_35c9cf74-90ff-4e34-8d01-fcf9d42973d3.jpg?v=1575019631"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            16.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #e06666;"><em><strong>Zócalo universal, una necesidad en su caja de herramientas</strong></em></span></h3>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong> ALTA CALIDAD -</strong></span> El juego de llaves de vaso está hecho de acero al cromo-vanadio de alta calidad con alta dureza, caracterizado por su alta dureza, alto torque, buena tenacidad y larga vida útil.</li>
+<li>
+<span style="color: #ff0000;"><strong>TALADRO DE ÁNGULO DE 105° -</strong></span> Con brocas de eje hexagonal estándar de 1/4 de pulgada (6,35 mm), puede conectarse a taladros eléctricos, taladros eléctricos recargables o llaves manuales que se extienden a espacios confinados donde no pueden llegar, girando tornillos y tuercas.</li>
+<li>
+<span style="color: #ff0000;"><strong>54 MUELLES DE ACERO INOXIDABLE SIMPLE -</strong></span> El juego de llaves contiene 54 pasadores de resorte individuales de acero templado, forjados con un excelente tratamiento térmico y mantienen las puntas del destornillador apretadas y sin costuras y aseguran que no resbalen.</li>
+<li>
+<span style="color: #ff0000;"><strong>ENVOLTURA DE LLAVE UNIVERSAL GRIP -</strong></span> Tamaño estándar 1/4 de pulgada - 3/4 de pulgada, métrico 7mm-19mm, diseño autoajustable puede agarrar fácilmente la tuerca hexagonal, el ojo de tornillo, el gancho, el tornillo de tensión y la cabeza del tornillo.</li>
+<li>
+<span style="color: #ff0000;"><strong>MULTIFUNKTIONAL -</strong></span> Compacto y fácil de transportar, un juego de herramientas perfecto para la industria automotriz, doméstica, manufacturera, de la construcción y otras industrias.</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Especificación:</strong></span></p>
+<ul>
+<li>Material: acero al cromo-vanadio</li>
+<li>Tamaño del manguito: 53x 25x25mm</li>
+<li>Adecuado: Tornillos de diámetro 7-19mm</li>
+<li>Broca angular: 105°,Universal 1/4 '' (6,35 mm) Mango hexagonal</li>
+</ul>
+<ul></ul>
+<p><span style="color: #000000;"><span style="color: #ff0000;"><b>Nota: </b></span><br></span></p>
+<ul>
+<li>No utilice la llave de tubo con herramientas neumáticas y de martillo.</li>
+<li>No utilice la llave de tubo para atornillar, ni para fijar los tornillos, ni para fijar las bujías de encendido.</li>
+<li>No es impermeable, manténgalo alejado del agua para prolongar su vida.</li>
+</ul>
+<h4><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></h4>
+<p>1 x Llave de Vaso Universal Multifunción Herramientas de Mano 7-19mm</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286022975584</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">16.99</s:price>
+      <s:sku>US001-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286022484064</id>
+    <published>2019-10-18T00:34:03-05:00</published>
+    <updated>2019-10-18T00:34:03-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/eliminador-de-silicona-y-herramienta-de-inyeccion-de-silicona-con-alisador-de-lechada-3-piezas"/>
+    <title>Eliminador de Silicona y Herramienta de Inyección de Silicona con Alisador de Lechada (3 Piezas)</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/caulking_4.jpg?v=1575018556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            11.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="text-align: center;"><span style="color: #e06666;"><em><strong># El Gadget Más Práctico #</strong></em></span></div>
+<div style="text-align: left;">
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+</div>
+<div>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Aplicación:</strong></span> esta herramienta todo en uno es rápida, limpia y fácil de usar, y se usa para la mayoría de los selladores, rellenos, lechadas, etc.</li>
+<li>
+<span style="color: #ff0000;"><strong>Material:</strong></span> hecho de silicona de primera calidad y acero inoxidable, no se rompe fácilmente.</li>
+<li>
+<span style="color: #ff0000;"><strong>3 en 1 Uso Multifuncional:</strong></span> hay un raspador de plástico, un raspador de metal y un dispositivo de acabado de sellado. Las 3 piezas de los diferentes bordes del raspador se pueden unir a cualquier borde, esquina, junta.</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de Limpiar:</strong></span> las herramientas para calafatear son muy fáciles de limpiar y reutilizar con un paño húmedo, reduciendo el desperdicio de sellador.</li>
+<li>
+<span style="color: #ff0000;"><strong>Práctico Simple:</strong></span> una buena herramienta para sellar con silicona / líneas de calafateo elimina las juntas de silicona y juntas permeables y viejas, para un sello limpio y duradero.</li>
+</ul>
+</div>
+<p><span style="color: #ff9900;"><strong><b>Especificación:</b></strong></span></p>
+<ul>
+<li>Tamaño: 19 * 3.5 cm 19 * 2.5 cm 16 * 4.5 cm</li>
+<li>Color: rojo y negro.</li>
+<li>Peso: 75 g</li>
+</ul>
+<ul></ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p>1 x Eliminador de Silicona y Herramienta de Inyección de Silicona con Alisador de Lechada (3 Piezas)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286022484064</id>
+      <title>Rojo Normal</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>CT003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286022484064</id>
+      <title>Negro</title>
+      <s:price currency="EUR">11.99</s:price>
+      <s:sku>CT002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286021861472</id>
+    <published>2019-10-18T00:33:32-05:00</published>
+    <updated>2019-10-18T00:33:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/cinta-de-reparacion-de-ventana-para-mosquitera"/>
+    <title>Cinta de Reparación de Ventana para Mosquitera</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_946127db-322a-4235-9d06-9d7a790c9df5.jpg?v=1575014130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Home Improvement<br>
+        <strong>Precio: </strong>
+            12.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #e06666;"><strong>Cuando más unidades compre, más descuento obtendrá al pagar (hasta un 15%)</strong></span><br><span style="color: #e06666;"><strong>A. En 2 unidades -&gt; 5% de descuento</strong></span><br><span style="color: #e06666;"><strong>B. En 3 unidades -&gt; 10% de descuento</strong></span></p>
+<p>Cinta de reparación para <span style="color: #ff9900;"><strong>mosquitera</strong></span>, puerta de patio, malla de tela de fibra de vidrio con sello adhesivo fuerte. Reparacion para reparacion de manchas de agujeros de grietas para evitar insectos mosquitos.</p>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Medida de la cinta de reparación de la pantalla:</strong></span> 5 cm x 5 m / 2 pulg. X 197 pulg. O 5 cm x 2 m / 2 pulg. X 80 pulg. Lo suficientemente largo para satisfacer sus necesidades de reparación.</li>
+<li>
+<span style="color: #ff0000;"><strong>Material de fibra de vidrio:</strong></span> este material es mejor que el material normal y se caracteriza por su durabilidad, resistencia a la humedad, resistencia a la llama, no deformación, buen sellado, resistencia a la corrosión y más</li>
+<li>
+<span style="color: #ff0000;"><strong>Fácil de usar:</strong> </span>simplemente corte la cinta en el lugar deseado con el respaldo autoadhesivo. La amplia aplicación hace que sea posible instalar directamente en el marco de la ventana, acero, aluminio, puertas de plástico, rejillas de ventanas, rejillas de tiendas o pantallas de RV</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificaciones:</strong></span></p>
+<ul>
+<li>Cantidad: 4 piezas</li>
+<li>Material de la malla: material de fibra de vidrio</li>
+<li>Cinta de malla: 5 cm x 5 m / 2 pulgadas x 197 pulgadas o 5 cm x 2 m / 2 pulgadas x 80 pulgadas</li>
+<li>Tamaño de la cuerda: 0,3 mm de diámetro.</li>
+<li>Color: como se muestra en las fotos</li>
+</ul>
+<ul></ul>
+<p><strong>¡Mantenga la pieza de reparación del rotor de la ventana limpia y completamente seca antes de la instalación!</strong></p>
+<p><strong><span style="color: #ff9900;">Paquete Incluido:</span> </strong></p>
+<ul>
+<li>1 x Cinta de Reparación de Ventana para Mosquitera</li>
+<li>9 x Parche</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021861472</id>
+      <title>Negro</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>BDJB001-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286021861472</id>
+      <title>Gris</title>
+      <s:price currency="EUR">12.99</s:price>
+      <s:sku>BDJB001-09</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286020157536</id>
+    <published>2019-10-18T00:32:12-05:00</published>
+    <updated>2019-10-18T00:32:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/multi-funcion-18-en-1-herramienta-de-nieve"/>
+    <title>Multi-Función 18-En-1 Herramienta de Nieve</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/9._CXHP001.jpg?v=1575020121"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: center;"><strong><span style="color: #ff0000;">❄Una herramienta tan ligera como un copo de nieve.</span></strong><span style="color: #ff9900;"><strong><span style="color: #ff0000;">❄</span></strong></span></p>
+<p><span style="color: #ff9900;"><strong>Características:</strong></span></p>
+<ul>
+<li>
+<strong><span style="color: #e06666;">Fabricada en acero inoxidable</span></strong>, esta herramienta multifuncional es portátil, duradera e incómoda de romper, junto con una larga vida útil</li>
+<li>
+<span style="color: #e06666;"><strong>El conjunto tuyo de herramientas compacto y práctico.</strong></span> El destornillador de cabeza plana y el destornillador son solo el comienzo. Esta herramienta múltiple también incluye 3, 4, 5, 6, 7 y 8 llaves, abrebotellas y 6, 7, 8, 9, 10, 11, 12 y 14 teclas.</li>
+<li>La forma única de la <span style="color: #e06666;"><strong>nieve</strong></span> abarca la sensación de belleza cuando se sienta en la mesa o se sostiene en sus manos</li>
+<li>Esta herramienta multifuncional se puede conectar fácilmente a su llavero o mochila. Así que si necesita arreglar su bicicleta o abrir la botella, está al alcance</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Especificidades: </strong></span></p>
+<ul>
+<li>Material: acero inoxidable.</li>
+<li>Color: plateado, negro</li>
+<li>Tema: deportes</li>
+<li>Tamaño: 63x8 mm</li>
+<li>Tipo: llavero herramienta, bolsa, multi-herramientas</li>
+<li>Características: portátil, fácil de usar.</li>
+<li>Forma: Nieve</li>
+<li>Tipo de unidad: plana / ranura, cruz</li>
+</ul>
+<p style="text-align: center;"><span style="color: #ff9900;"><strong><span style="color: #ff0000;">❄Un buen regalo para las personas que les gustan las actividades al aire libre.</span><span style="color: #ff0000;">❄</span></strong></span></p>
+<p><span style="color: #ff9900;"><strong>Notas:</strong></span></p>
+<p>El color del producto puede variar ligeramente debido a diferentes condiciones de grabación.</p>
+<p><span style="color: #ff9900;" mce-data-marked="1"><strong><b>Paquete Incluido:</b></strong></span><br>1 x Multi-Función 18-En-1 Herramienta de Nieve</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286020157536</id>
+      <title>Plateado</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CXHP001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286020157536</id>
+      <title>Negro</title>
+      <s:price currency="EUR">9.99</s:price>
+      <s:sku>CXHP002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286019666016</id>
+    <published>2019-10-18T00:31:52-05:00</published>
+    <updated>2019-10-18T00:31:52-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/regla-de-aleacion-de-aluminio-plegable-y-multifuncional"/>
+    <title>Regla de Aleación de Aluminio Plegable y Multifuncional</title>
+    <s:type>Herramienta</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/2_1400x_66254ca0-0ed2-4105-ba13-2a7317e0f8cb.jpg?v=1575022835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Herramienta<br>
+        <strong>Precio: </strong>
+            21.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>Descripción:</strong></span></p>
+<p style="padding-left: 30px;">¡Ya sea un <span style="color: #ff0000;">constructor profesional, artesano, guerrero</span> de fin de semana o borrador de mejoras para el hogar, la regla de ángulos múltiples es una herramienta indispensable para cualquier caja de herramientas!</p>
+<p><strong><span style="color: #ff9900;"><b>Características:</b></span></strong></p>
+<ul>
+<li>
+<span style="color: #e06666;"><strong>Material de aleación de aluminio de primera calidad:</strong></span> la regla del transportador universal está hecha de aleación de aluminio, extremadamente fuerte y liviana; El metal de aluminio lo hace duradero y resistente a rasguños, corrosión, etc.</li>
+<li>
+<span style="color: #e06666;"><strong>Número grabado con láser:</strong></span> para escalas de regla, se utiliza el grabado con láser, lo que hace que el ángulo del escalador sea más claro y preciso para leer datos.</li>
+<li>
+<span style="color: #e06666;"><strong>Mediciones de ángulo IN y CM:</strong></span> todos los brazos están calibrados doble en pulgadas y dimensiones métricas.</li>
+<li>
+<span style="color: #e06666;"><strong>Alta eficiencia:</strong></span> puede ahorrar más tiempo porque la regla de ángulo se puede configurar en segundos.</li>
+<li>
+<span style="color: #e06666;"><strong>Amplio uso:</strong></span> La regla universal de angularización se puede configurar para marcar ladrillos, azulejos, madera y laminados. Ideal para trabajadores de la construcción, artesanos, guerreros de fin de semana y gomas de borrar para el hogar.</li>
+<li>
+<span style="color: #e06666;"><strong>Móvil y ergonómico:</strong></span> mecanismo de sujeción único para el manejo con una sola mano.</li>
+</ul>
+<p><strong><span style="color: #ff9900;">Especificación:</span></strong></p>
+<ul>
+<li>Tamaño: 18cm * 11.6cm * 2.2cm</li>
+<li>Color: negro</li>
+<li>Peso: 226g</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>Paquete Incluido:</strong></span></p>
+<p><span>1 x Regla de Aleación de Aluminio Plegable y Multifuncional</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286019666016</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">21.99</s:price>
+      <s:sku>CYLZC001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286010261600</id>
+    <published>2019-10-18T00:24:55-05:00</published>
+    <updated>2019-10-18T00:24:55-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/conjunto-de-cano-de-acero-inoxidable-13-piezas-para-decoracion-de-pasteles"/>
+    <title>Conjunto de Caño de Acero Inoxidable (13 piezas) para Decoración de Pasteles</title>
+    <s:type>Cocina</s:type>
+    <s:vendor>vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/1_4318066a-70a9-4710-a58b-3d2519557b7a.jpg?v=1571376304"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>vidalce<br>
+        <strong>Tipo: </strong>Cocina<br>
+        <strong>Precio: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="color: #ff9900;"><strong>-&gt;Envío Gratis</strong></span></p>
+<h3 style="text-align: center;">
+<span style="color: #93c47d;">Con el Caño Listo Pronto</span><br><span style="color: #93c47d;">para Decorar como un Profesional</span>
+</h3>
+<p><span style="color: #93c47d;"><img src="//cdn.shopify.com/s/files/1/0247/5143/9956/files/2_83ebd56b-74f7-408b-9925-ec868cf262ec_large.jpg?v=1566009190" alt="" style="display: block; margin-left: auto; margin-right: auto;"></span></p>
+<p>Utilice 7 formas diferentes de boquillas para crear una variedad de patrones de flores, y utilice adaptadores tricolores para crear flores coloridas, decorar su pastel y divertirse horneando con los hijos.</p>
+<p><span style="color: #ff9900;"><strong>CARACTERÍSTICAS:</strong></span></p>
+<p>🍪 El conjunto de boquillas de pulverización tiene <span style="color: #e06666;"><strong>una amplia gama de aplicaciones</strong></span>: Pasteles, tartaletas, magdalenas, donas, fiestas, panaderías, etc...</p>
+<p>🍩<span><span style="color: #e06666;"><strong> 9 diferentes patrones de boquillas</strong></span>, puede producir todo tipo de flores.</span></p>
+<p>🍰 <span style="color: #e06666;"><strong>Buena elección</strong></span> para los pasteleros profesionales y los entusiastas de la panadería.</p>
+<p>🎂 Formas robustas y ligeras, fáciles de usar y de limpiar.</p>
+<p>🍨 Fabricado en acero inoxidable,<span style="color: #e06666;"><strong> reutilizable e inodoro</strong></span>.</p>
+<p><span style="color: #ff9900;"><strong>ESPECIFICACIONES:</strong></span></p>
+<ul>
+<li>
+<strong>Material:</strong> acero inoxidable + silicona</li>
+<li>
+<strong>Peso:</strong> 175 g</li>
+<li>
+<strong>Tamaño:</strong> como se muestra en la imagen 6.</li>
+</ul>
+<p><span style="color: #ff9900;"><strong>PAQUETE INCLUYE:</strong></span></p>
+<ul>
+<li>9 * caños</li>
+<li>1 * bolsa de tubería</li>
+<li>1 * adaptador tricolor</li>
+<li>1 * adaptador de arandela</li>
+<li>1 * cepillo de limpieza</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286010261600</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>BIAOHUAQI-0001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286006001760</id>
+    <published>2019-10-18T00:21:54-05:00</published>
+    <updated>2019-10-18T00:21:54-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/herramienta-de-pincel-de-rodillo-de-pintura"/>
+    <title>Herramienta de Pincel de Rodillo de Pintura</title>
+    <s:type></s:type>
+    <s:vendor>Vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/2_1400x_a911610b-364d-45b3-bebf-d6aa89cf1709.jpg?v=1575014318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Vidalce<br>
+        <strong>Tipo: </strong><br>
+        <strong>Precio: </strong>
+            32.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 style="text-align: center;"><span style="color: #ff0000;"><em><strong>Herramienta de Pincel de Rodillo de Pintura</strong></em><strong>🎁</strong><strong>🎁</strong></span></h3>
+<h4><span style="color: #6aa84f;"><strong>El Herramienta de Rodillo de Pintura proporcionará una solución perfecta para la decoración del hogar y la renovación de muebles.</strong></span></h4>
+<h4><span style="color: #ff9900;"><strong>Características:</strong></span></h4>
+<ul>
+<li>
+<span style="color: #ff0000;"><strong>Excelente pincel:</strong></span><span> </span>el Hirundo Pincel de Rodillo de Pintura es para pintar grandes superficies, como paredes, puertas, pisos y techos.</li>
+<li>
+<span style="color: #ff0000;"><strong>Cubre un área mayor de forma más rápida y uniforme:</strong></span><span> </span>acabado perfecto en cualquier superficie, rugosa o lisa.</li>
+<li>
+<span style="color: #ff0000;"><strong>Calidad duradera:</strong> </span>el material del cepillo es Super Fino Flocado, son lavables y reutilizables. Lave el rodillo después de pintarlo, séquelo y guárdelo en lugares frescos y secos.</li>
+<li>
+<span style="color: #ff0000;"><strong>Lavable y reutilizable:</strong> </span>no pierda tiempo inclinándose a menudo hacia la bandeja de pintura para volver a cargar el rodillo. Simplemente vierta, cierre la tapa y pinte! Después de usarlo, límpielo, séquelo y guárdelo para la próxima vez. El relleno y la limpieza de la pintura son rápidos y fáciles.</li>
+<li>
+<span style="color: #ff0000;"><strong>Ahorre tiempo y dinero:</strong></span><span> </span>sin tiempo de preparación, sin hojas sueltas, sin cinta adhesiva. Solo vierta y pinte para revitalizar cualquier pared o superficie en sólo unos minutos.</li>
+</ul>
+<h4><span style="color: #ff9900;"><strong>Notas:</strong></span></h4>
+<ol>
+<li>El producto debe ser limpiado y secado antes del primer uso.</li>
+<li>Si el recubrimiento es difícil de penetrar, se recomienda diluirlo después de la operación.</li>
+<li>En el proceso de pintar, no tiene que cepillar o presionar el cepillo en la misma dirección, por lo que funciona mejor.</li>
+</ol>
+<h4><span style="color: #ff9900;"><strong>Advertencia:</strong></span></h4>
+<p><span>No exponga el cepillo bajo el sol por mucho tiempo, de lo contrario, el rodillo se endurecerá.</span></p>
+<h4><span style="color: #ff9900;"><strong>Paquete incluido:</strong></span></h4>
+<ul>
+<li><span>Rodillo de pintura X 1</span></li>
+<li><span>Bordeador flocada X 1</span></li>
+<li><span>Pintor de cortador de esquina X 1</span></li>
+<li><span>Bandeja de descanso X 1</span></li>
+<li><span>Jarra de verter de pintura de flujo fácil X 1</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286006001760</id>
+      <title>Default Title</title>
+      <s:price currency="EUR">32.99</s:price>
+      <s:sku>SQGL001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://idealdia.com/products/4286004625504</id>
+    <published>2019-10-18T00:21:01-05:00</published>
+    <updated>2019-10-18T00:21:01-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://idealdia.com/products/juego-de-cortaunas-de-acero-inoxidable-304-prevencion-de-paroniquia-infeccion-por-hongos"/>
+    <title>Juego de cortaúñas de acero inoxidable 304, prevención de paroniquia, infección por hongos</title>
+    <s:type>Salud</s:type>
+    <s:vendor>Vidalce</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0235/5897/9680/products/20190919230206.jpg?v=1575013138"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Proveedor: </strong>Vidalce<br>
+        <strong>Tipo: </strong>Salud<br>
+        <strong>Precio: </strong>
+            19.99 - 23.99
+            <a href="https://idealdia.com/products/juego-de-cortaunas-de-acero-inoxidable-304-prevencion-de-paroniquia-infeccion-por-hongos">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h4 style="text-align: center;"><span style="color: #ff0000;">😍Juego de cortaúñas de acero inoxidable 304😍</span></h4>
+<p style="text-align: center;"><span><em>¿Sufres de uñas gruesas?</em></span><br><span><em>¿Camina mucho con una uña encarnada dolorosa?</em></span><br><span><em>¿No quieres deshacerte de tus uñas duras？</em></span></p>
+<p> <img src="https://cdn.shopify.com/s/files/1/0077/6096/9779/products/9_f84a2e3f-8feb-4de3-9f2f-e491e0d97546_large.jpg?v=1568795827" alt="" style="display: block; margin-left: auto; margin-right: auto;"></p>
+<p> </p>
+<ul>
+<li>
+<span style="color: #ff9900;"><strong>Más adecuado para uñas gruesas:</strong> </span>debido a hongos, diabetes, paroniquia, envejecimiento y otros problemas de salud, adecuado para uñas gruesas o endógenas;</li>
+<li>
+<span style="color: #ff9900;"><strong>Corte preciso:</strong> </span>las cuchillas de acero inoxidable muy afiladas cortan suavemente, evitan la división de las uñas, incrustadas en las uñas de los pies y las infecciones por hongos;</li>
+<li>
+<span><span style="color: #ff9900;"><strong>Ergonómico:</strong></span> </span>el diseño exclusivo del mango está construido con polímeros de alta resistencia y recubierto con un material antideslizante patentado que ofrece un excelente clip sin importar qué.</li>
+</ul>
+<p><span style="color: #ff0000;"><strong>Descripción del producto：</strong></span></p>
+<ul>
+<li>
+<span><strong>Material:</strong> </span>acero inoxidable de precisión + ABS</li>
+<li>
+<span><strong>Dimensiones del producto:</strong> </span>4.8 x 2.2 x 0.9 pulgadas</li>
+</ul>
+<p>Las uñas gruesas, irregulares o encarnadas pueden ser difíciles de recortar con un cortaúñas regular. Estas pinzas fueron diseñadas para ayudarlo a hacer el trabajo de manera rápida y fácil. Mantenga las uñas sanas con confianza. ¡Obtén uno hoy para ti, tus padres o un ser querido!<br><br><span style="color: #ff0000;"><strong>Y para una buena higiene:</strong></span><br>Recorte, remoje los pies en agua tibia durante 5-10 minutos.<br>Seque bien los dedos de los pies con una toalla limpia antes de cortarlos.<br>Corte a lo largo del contorno natural de la uña y no redondee en las esquinas.<br>Manténgase limpio fácilmente limpiando la cuchilla con alcohol después de su uso.<br>La cubierta de la punta de seguridad incluye mantener las puntas afiladas protegidas, limpias y lejos de cualquier peligro.</p>
+<p><strong><img src="https://cdn.shopify.com/s/files/1/0034/1744/0369/files/224b4e4343e6c605378f06b314f56215_large_269ab67e-43ca-40a6-9759-2635f61cc4e8_large.jpg?v=1547694197" style="display: block; margin-left: auto; margin-right: auto;"></strong></p>
+<p> </p>
+<p><span style="color: #ff0000;"><strong>CONTENIDO DEL EMBALAJE:</strong></span></p>
+<ul>
+<li>1 x cortaúñas encarnado</li>
+<li>1 x cortaúñas</li>
+<li>1 x lima de uñas</li>
+<li>1 x cubierta antisalpicaduras</li>
+<li>1 caja de almacenamiento</li>
+</ul>
+<p><span style="color: #ff0000;"><strong>Nota:</strong></span></p>
+<ul>
+<li><span><em>Para evitar infecciones, un juego de cortaúñas para uñas de los pies debe ser usado solo por una persona, no lo comparta con otros.</em></span></li>
+</ul>
+<p><span style="color: #ff0000;"><strong>CANTIDAD LIMITADA DISPONIBLE</strong></span><br><br>¡Haga clic en<span> </span><span><strong>AGREGAR AL CARRITO</strong></span><span> </span>para ordenar el suyo ahora!</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004625504</id>
+      <title>TRES HERRAMIENTAS</title>
+      <s:price currency="EUR">19.99</s:price>
+      <s:sku>ZJJ-001</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://idealdia.com/products/4286004625504</id>
+      <title>CINCO HERRAMIENTAS</title>
+      <s:price currency="EUR">23.99</s:price>
+      <s:sku>ZJJ-002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
